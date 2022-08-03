@@ -11,7 +11,7 @@ Ever since we arrived in mid-May, Hervé Rufin has been trying to organize a Sat
 
 Vaux-le-Compte has quite a history. Before 1657 it was a small chateau and garden, owned by Nicholas Fouquet who was a member of the Parlement de Paris and an enthusastic patron and supporter of the arts. In 1657 King Louis XIV made Fouquet his Minister of Finance which, for some odd reason, immensely increased Fouquet's wealth. He then bought three towns around the old chateau, hired the best architect (Louis le Vau) and the best landscape architect (Le Notre), the best decorator (Charles le Brun) and twenty thousand laborers. Five years later the Chateau of Vaux-le-Vicomte was complete - appearing much as it does today.
 
-(Full disclosure: because we were there at night and I didn't want to drag a tripod around, I took zero pictures; these are taken from the Web).
+(Full disclosure: because we were there at night and I didn't want to drag a tripod around, I took zero pictures; these are taken from the Web. Also, a bunch of pictures did not make the migration from the old blog site to the new. I'll try to find them Real Soon Now.).
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2015/09/0_Maincy_-_Château_de_Vaux-le-Vicomte_2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -21,7 +21,7 @@ Vaux-le-Compte has quite a history. Before 1657 it was a small chateau and garde
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2015/09/www.MyGorgeousWedding.com-GET-MARRIED-A-LA-FRANCAISE-VAUX-LE-VICOMTE-8-1024x682.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2015/09/VAUX-LE-VICOMTE.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

@@ -10,17 +10,15 @@ layout: post
 When we were in France two years ago, we went to La Rochelle after reading Ina Caro's chapter on this historic city in her book, "Paris to the Past." Like her, we immediately fell in love with the place and returned later that year. Since then we've looked forward to a trip back to La Rochelle and Monday, off we went. We are happy to report that we love this place even more than ever.
 
 First, our hotel. The first trip two years ago we lucked into the best room in the place: top floor, seaward corner. From its balcony we can watch the hundreds of boats going into and out of the harbor, many of them sailing students in classes.We can watch the tide covering and uncovering Richelieu's Dike, watch the sunset, and just generally enjoy life. This trip I had requested that room when I booked online but when we arrived, we learned that I had mistakenly also asked for a room with twin beds (I don't remember doing that) and so we had a different room. But the two managers on duty leapt into action with their computers and fifteen minutes later, had re-arranged room assignments so we could have our favorite room. Talk about customer service! Here's why we like that room:
+
 <figure class = "landscape">
 	<img src="{{"/assets/images/2015/07/DSC09120.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- </a> <figure class = "portrait">
-	<img src="{{"/assets/images/2015/07/DSC09119.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
-</figure>
 
-</a> <figure class = "landscape">
+
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/07/DSC09118.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -65,7 +63,7 @@ On the other hand (foot?), it was all I could do to keep her from rushing in to
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2015/07/DSC00882.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>109€ = about \\$125. They were on sale!</em></figcaption>
+	<figcaption><em>109€ = about \$125. They were on sale!</em></figcaption>
 </figure>
 
 
@@ -74,7 +72,7 @@ I talked Laurie out of buying those shoes by pointing out that she had just boug
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2015/07/DSC09119.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Laurie's new shoes. Not quite \\$125, fortunately; they were \\$3 on sale at Carrefour.</em></figcaption>
+	<figcaption><em>Laurie's new shoes. Not quite \$125, fortunately; they were \$3 on sale at Carrefour.</em></figcaption>
 </figure>
 
 

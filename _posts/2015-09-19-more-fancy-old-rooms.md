@@ -40,7 +40,7 @@ There are about thirty such rooms, all with furniture and art from the correct t
 
 I can hear you saying, "Oh, boy, they've eaten too much cheese. Snuff boxes?" In the late 1600s and 1700s there was a huge rage to collect snuff boxes, and the exhibit had a bunch of them. They are just beautiful! Here are a few... Keep in mind that the largest of these is maybe two inches wide, and then look at the decoration on that tiny surface.
 <figure class = "landscape">
-	<img src="{{"/assets/images/2015/09/DSC09191-300x214.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2015/09/DSC09191.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ I can hear you saying, "Oh, boy, they've eaten too much cheese. Snuff boxes?" In
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2015/09/DSC09194-300x226.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2015/09/DSC09194.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ The picture I post every year:
 
 
 (Start of rant)
-I have to say I don't get the selfie craze. It seems to me that lots of people are going to look at their pictures when they get back home and say, "There's me in front of the Eiffel Tower; there's me in front of the Mona Lisa; there's me in front something - don't know what; there's me at a café; there's me at dinner the first night; there's me at breakfast the next day; there's me on some bridge across the Seine, there's me in front of something else - don't know what..." ad infinitum, ad nauseum.
+I have to say I don't get the selfie craze. It seems to me that lots of people are going to look at their pictures when they get back home and say, "There's me in front of the Eiffel Tower; there's me in front of the Mona Lisa; there's me in front something - don't know what; there's me at a café; there's me at dinner the first night; there's me at breakfast the next day; there's me on some bridge across the Seine, there's me in front of something else - don't know what..." *ad infinitum, ad nauseum*.
 
 I know this is nothing new, but we saw thousands of people taking pictures of themselves in front of something actually interesting. Ugh. I know I'm old fashioned about this stuff (notice how many pictures on this blog have Laurie and/or me in them), but sheesh, that a person has a picture of something means they were there; is it necessary to prove it by including themselves?
 (End of rant)
@@ -162,4 +162,4 @@ The curved nave:
 
 
 
-I've got a few favorite churches in Paris, and St. Etienne du Mont joins it.
+I've got a few favorite churches in Paris, and St. Etienne du Mont joins them.

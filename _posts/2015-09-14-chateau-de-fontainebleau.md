@@ -45,7 +45,7 @@ Many people think Chateau de Fontainebleau is more interesting and historical th
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2015/09/DSC09169.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Another crib for the kid, because you can't have too many cribs for a kid named Napoleon Francis Joseph Charles Bonaparte King of Rome.</em></figcaption>
+	<figcaption><em>The Trinity Chapel, lower floor. This foor was for the members of the royal court. The royal family sat in a balcony above.</em></figcaption>
 </figure>
 
 

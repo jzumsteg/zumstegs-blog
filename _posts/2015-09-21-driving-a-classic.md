@@ -50,7 +50,8 @@ The design philosophy was pure minimalist: the goal was to keep the car simple, 
 
 
 
-After a good walk-around, we were off. <figure class = "landscape">
+After a good walk-around, we were off. 
+<figure class = "landscape">
 	<img src="{{"/assets/images/2015/09/DSC09287.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

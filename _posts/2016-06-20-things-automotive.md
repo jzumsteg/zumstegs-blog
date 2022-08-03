@@ -42,7 +42,7 @@ Parking is, oh, "limited" here. In fact, some drivers park a mile away and walk 
 	<figcaption></figcaption>
 </figure>
 
-
+I once told our friend Mary, who has lived in France 35 years, that I'd driven to mail something at the local post office, on a day when she knew there would be no parking available nearby (market day). She asked if I found a parking place there. "No," I replied. "I just parked in the no-parking zone and turned my blinkers on." She sighed and said, "You've been here too long; you've turned into a French driver." Yep.
 <h2>Clio</h2>
 On another subject, here's our ride for this trip:
 
