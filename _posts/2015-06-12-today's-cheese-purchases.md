@@ -26,4 +26,4 @@ Can't wait for lunch!
 
 
 
-On the cheese place, clockwise from the top: Salers, Reblochon, Crottin de Cavignol, Roquefort, Tommes de Savoie. French readers are now saying, "What? Cheese and paté at lunch? On a weekday? Quelle horreur! An advantage of being non-French and on vacation: we eat what we want when we want.
+On the cheese place, clockwise from the top: Salers, Reblochon, Crottin de Cavignol, Roquefort, Tommes de Savoie. French readers are now saying, "What? Cheese and paté at lunch? On a weekday? *Quelle horreur!* An advantage of being non-French and on vacation: we eat what we want when we want.
