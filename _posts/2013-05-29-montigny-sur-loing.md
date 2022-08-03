@@ -16,7 +16,7 @@ The houses in Montigny range from "old French" to new and quite modern to very n
 <table>
 <tr>
 <td>
-<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC02742.jpg" alt="DSC02742" src="http:/assets/images/2013/05/DSC027422.jpg" width="200" height="355" border="0" /></td>
+<img style="display: block; margin-left: auto; margin-right: auto;" title="DSC02742.jpg" alt="DSC02742" src="http:/assets/images/2013/05/DSC02742.jpg" width="200" height="355" border="0" /></td>
 <td>
 <img style="display: block; margin-left: auto; margin-right: auto;" title="IMG_4478.jpg" alt="IMG 4478" src="http:/assets/images/2013/05/IMG_44781.jpg" width="200" height="300" border="0" /></td></tr>
 <tr>

@@ -23,4 +23,4 @@ But...sheesh!
 
 (Added post-trip:) We did not get these visas, on the advice of friends in France who said they never have had trouble traveling in and out of Europe on American passports, even though their stays may be a year or more. Leaving France, after 145 days on the 90-day visa we were a little nervous, but the officer in passport control at Charles DeGaulle airport didn't even look for the entry stamp; he found an empty page in our passports, stamped us out and that was that.
 
-(Added after our 2021 trip:) We have overstayed our visas three times now, once 145 days, once 137 days and once 91 days. Never had the slightest problem on leaving. The immigration agent takes oru passport, finds a empty page, and stamps us out. This year it will be about 135 days; I hope our luck holds.
+(Added after our 2021 trip:) We have overstayed our visas three times now, once 145 days, once 137 days and once 91 days. Never had the slightest problem on leaving. The immigration agent takes our passport, finds a empty page, and stamps us out. This year it will be about 135 days; I hope our luck holds.

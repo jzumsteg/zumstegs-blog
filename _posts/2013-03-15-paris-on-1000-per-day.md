@@ -9,25 +9,18 @@ layout: post
 ---
 I was talking to a fellow today and he said that he and his wife were planning a trip to Paris for 2014. He asked me, after hearing that we'd been there quite a few times, if \\$1,000 per day was enough for Paris. He'd heard that it "...was expensive" there. I laughed and told him I though they could have a great vacation on half that amount. Then I got to thinking about how much it could cost. Here's my estimate, based on how we spend money when we're in Paris:
 
-[table th="0"]
+| Expenditure |    Cost    | Explanation |
+| :--------        |    --------:   |         :--- |
+|Hotel | \$300 | Hotel des Deux Iles |
+|Breakfast| \$32,| At the hotel; expensive but worth it for us.|
+|Lunch| \$20-\$25| Sandwich and dessert from a boulangerie, or eat at a creperie.|
+|Dinner|\$100-\$150| Can get much higher! But this range will get you a very nice dinner in a nice restaurant, with a bottle of wine.|
+|Museums, visits, etc.| \$25|This amount will get two people into a museum. We <em>never </em>do more than one museum a day, so you might spend more. If we spent more that this, we'd be fried.|
+|Metro, busses, batobus, etc.| \$25| Might be more if you took taxis, but the metro is fast and the busses are fun.|
+|Bottle of wine for, er, refreshment and nourishment| \$10-12|Really, you can get very nice wines for this price. Want to splurge? Go all the way to \$20. You won't believe the quality at that price compared to what you get for \$20 in the U.S.|
 
-Hotel[attr style="width:60px"], \\$300[attr style="width:60px"], Hotel des Deux Iles[attr style="width:100px"]
+|<strong>Total</strong>|<strong>\$512-569</strong>|<strong>See, not bad!</strong>|
 
-Breakfast,\\$32,At the hotel; expensive but worth it for us.
-
-Lunch,\\$20-\\$25,"Sandwich and dessert from a boulangerie, or eat at a creperie."
-
-Dinner,\\$100-\\$150,"Can get much higher! But this range will get you a very nice dinner in a nice restaurant, with a bottle of wine."
-
-"Museums, visits, etc.",\\$25,"This amount will get two people into a museum. We <em>never </em>do more than one museum a day, so you might spend more. If we spent more that this, we'd be fried."
-
-"Metro, busses, batobus, etc.", \\$25,"Might be more if you took taxis, but the metro is fast and the busses are fun."
-
-"Bottle of wine for, er, refreshment and nourishment",\\$10-12,"Really, you can get very nice wines for this price. Want to splurge? Go all the way to \\$20. You won't believe the quality at that price compared to what you get for \\$20 in the U.S."
-
-"<strong>Total</strong>",<strong>\\$512-569</strong>,"<strong>See, not bad!</strong>"
-
-[/table]
 
 I was a little off on my "half of a \\$1,000 per day" estimate, but not much, and I think with a slightly less expensive hotel, and staying at around \\$100 for dinner, you'd be there.
 
