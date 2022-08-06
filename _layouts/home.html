@@ -38,13 +38,13 @@ layout: default
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older Posts</a>
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: relative_url }}">Older Posts</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">More Recent Posts</a>
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer Posts</a>
   {% else %}
-    <span class="pagination-item newer">No More Recent Posts</span>
+    <span class="pagination-item newer">No Newer Posts</span>
   {% endif %}
 </div>
