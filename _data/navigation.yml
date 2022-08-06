@@ -1,8 +1,12 @@
 - title: Posts
   url: /
-- title: History
-  url: /dates/
+- title: Post Timeline
+  url: /pages/dates/
 - title: Categories
-  url: /taxonomies/
+  url: /pages/taxonomies/
+- title: Cheese Log
+  url: /pages/cheese/
+- title: Paris Hints
+  url: /pages/paris/
 - title: About
-  url: /about/
+  url: /pages/about/

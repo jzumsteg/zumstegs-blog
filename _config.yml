@@ -1,5 +1,5 @@
 # Setup
-title: Travels with the Zs
+title: Travelin' with the Zs
 description: A rambling and random blog about our travels. Please come along with us...
 url: 'https://jzumsteg.github.io'
 baseurl: '/zumstegs-blog'
@@ -9,6 +9,7 @@ avatar: /assets/icons/cv.jpg
 paginate: 5
 permalink: pretty
 cover_image: /DSC08791.jpg
+markdown: kramdown
 
 # Gems
 plugins:
@@ -19,6 +20,7 @@ plugins:
   - jekyll-sitemap
   # - jekyll-remote-theme
   # - not-pure-poole
+
 
 # Optimize Jekyll
 exclude:

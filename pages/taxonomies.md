@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-permalink: /taxonomies/
+permalink: /pages/taxonomies/
 title: Posts by Categories
 type: categories
 ---
