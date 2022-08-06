@@ -2,7 +2,7 @@
 title: Meeting Friends
 author: John Zumsteg
 date: Thu, 30 Jul 2015 15:28:14 +0000
-category: [Activites, Paris]
+category: [Activities, Paris]
 math: true
 mermaid: true
 layout: post

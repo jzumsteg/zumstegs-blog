@@ -133,9 +133,15 @@ figcaption {
 
 .post-meta {
   color: rgb(160, 160, 160);
+  font-family: Georgia, Garamond;
+}
+
+p {
+  font-family: Georgia, Garamond;
 }
 .post {
-  font-family: Arial, Helvetica, sans-serif;
+  // font-family: Arial, Helvetica, sans-serif; 
+  font-family: Georgia, Garamond;
 }
 
 h1, h2, h3 {

@@ -2,7 +2,7 @@
 title: Another Successful Adventure
 author: John Zumsteg
 date: Tue, 09 Jul 2013 06:35:59 +0000
-category: Activites
+category: Activities
 math: true
 mermaid: true
 layout: post

@@ -63,7 +63,7 @@ We took an audio guide tour of Chateau Ancy, which was informative. The chateau'
 And when we left, there was Gilles, who had gone a bit ahead of us, waiting patiently.
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2013/07/DSC03323-576x1024.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2013/07/DSC03323.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

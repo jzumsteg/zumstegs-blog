@@ -10,7 +10,7 @@ layout: post
 French has a phrase for a geographical area so small that it may not even be inhabited: *lieu-dit*. Driving on back roads of France you'll see hundreds of signs for *lieux-dits*, places that might have a house or two, or might just be a place that was given a name centuries ago that the local inhabitants have kept alive. The last couple days we stayed in such a place: *Les Fromions*. There is, of course, a story...
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2015/05/DSC05002_20150527-1024x768.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2015/05/DSC05002_20150527.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ To work up a dinner appetite, we took a walk.
 After an aperitif, a fabulous dinner, and Valerie's world-famous tiramisu, we slept like logs - in that quiet how could we not? The next morning we did another long walk, visited a beautiful garden and went to the nearest town for lunch in the Tabac.
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2015/05/DSC05012_20150527-1024x540.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2015/05/DSC05012_20150527.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

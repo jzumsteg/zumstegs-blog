@@ -9,8 +9,7 @@ layout: post
 ---
 Well, it didn't take long to fall to this level: we bought wine in a box.
 
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Box Wine.jpg" alt="Box Wine" src="http:/assets/images/2013/05/Box-Wine.jpg" width="427" height="576" border="0" class="alignright" />
-
+(Image missing)
 Now, admittedly, we did buy Wine in a Box because our friend Gilles recommended it. But still...
 
 As in almost every wine-producing region in the world, the French are experiencing a glut of wine. More producers, more regions, higher production have led to a flood of wine. (Except for the 2012 harvest, which was damaged by disease and weather.)  Domestic consumption of wine in France has declined some 20% over the last 20 years, yet France still produces some 7 billion(!!) bottles of wine.

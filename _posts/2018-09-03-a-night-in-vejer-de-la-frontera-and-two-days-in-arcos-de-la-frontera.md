@@ -2,7 +2,7 @@
 title: A Night in Vejer de la Frontera and Two Days in Arcos de la Frontera
 author: John Zumsteg
 date: Mon, 03 Sep 2018 17:47:39 +0000
-category: Spain, Places]
+category: [Spain, Places]
 math: true
 mermaid: true
 layout: post

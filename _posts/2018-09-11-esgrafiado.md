@@ -2,7 +2,7 @@
 title: Esgrafiado
 author: John Zumsteg
 date: Tue, 11 Sep 2018 20:27:54 +0000
-category: Spain, Places]
+category: [Spain, Places]
 math: true
 mermaid: true
 layout: post

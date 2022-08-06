@@ -12,11 +12,7 @@ My favorite book of this trip is "<span id="productTitle" class="a-size-large">S
 What I didn't realize until I read this book was how important Sylvia Beach was to this time and place. She provided a place for all these authors to meet and get to know each other and work together and read each others' work. She encouraged many, often loaning them money to get through tough financial times. And, of course, she published James Joyce's Ulysses, against lots of advice. She was instrumental in the development and later success of many, if not most, of America's early-20th century writers.
 
 Now, most Americans of a literary bent will stop by the current Shakespeare &amp; Company on Rue de la Bûcherie, across the Seine from Notre Dame.:
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/09/300px-Shakespeare_and_Company_store_in_Paris.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
-</figure>
-
+(Image of shakespeare and Co. missing)
 
 In 1951 George Whitman wanted to open a bookstore in Paris. Somehow, he met Sylvia Beach, who still lived in the city, though Shakespeare &amp; Company had been closed by the Nazis in 1941. At dinner, Sylvia said George could use the name -or so he said - and he opened a bookstore at the current location and has since encouraged writers there, with a place to sleep in exchange for working in the store. Though it has the name, it has no direct lineage back to the real Shakespeare &amp; Company.
 

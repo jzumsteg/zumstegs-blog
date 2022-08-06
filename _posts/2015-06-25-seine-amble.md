@@ -46,7 +46,7 @@ We found a path along the hills of Fontaine-le-Port and walked along it for a wa
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2015/06/20150619_DSC05585-768x1024.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2015/06/20150619_DSC05585.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ It's always enjoyable to walk down a lane and see sights like this. This is a la
 
 Looking across the Seine at affolantes in Samois-sur-Seine.
 <figure class = "landscape">
-	<img src="{{"/assets/images/2015/06/20150624_DSC05672-1024x768.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2015/06/20150624_DSC05672.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ Looking across the Seine at affolantes in Samois-sur-Seine.
 
 We often see these reminders.
 <figure class = "landscape">
-	<img src="{{"/assets/images/2015/06/20150624_DSC05675-1024x768.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2015/06/20150624_DSC05675.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

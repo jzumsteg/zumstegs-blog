@@ -43,7 +43,7 @@ After that start, the Dreamliner flew a more sedate show than the A380 - don't k
 
 Le Bourget has a museum of flight, so there are some older airplanes there. In the midst of all these sleek modern aircraft was this Lockheed Super Constellation, designed in the early 1940s (the co-pilot on the first flight of the prototype was Eddie Allen, later President of Boeing) and flown until jet aircraft pushed it into obsolescence in the early 1960s. Maybe it's just me and my love of old airliners, but I think the Connie still looks beautiful, even when (maybe especially when) it's surrounded by modern airplanes.
 <figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/connie-300x168.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2013/06/connie.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

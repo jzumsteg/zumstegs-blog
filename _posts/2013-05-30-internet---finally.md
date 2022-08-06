@@ -16,7 +16,7 @@ Actually, Internet access chez Zumsteg came only five days late. It was the proc
 
 - Then I got a letter saying my Internet access would start sometime in the next three weeks.
 
--Then I got a text saying that it would start sometime between 5/26 and 5/29.
+- Then I got a text saying that it would start sometime between 5/26 and 5/29.
 
 - Then I got a text saying that they had to delay my access, they were working on it, and I could follow their progress on a website. Of course, I needed access to get to the website that would show their progress on getting me access...
 
