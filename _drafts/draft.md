@@ -2,9 +2,9 @@
 title: Draft Test
 author: John Zumsteg
 date: Sun, 08 Aug 2022 23:07:15 +0000
-category: Miscellaneous
+category: Draft
 math: true
 mermaid: true
 layout: post
 ---
-<p>Dradt test</p>
+<p>Draft test</p>
