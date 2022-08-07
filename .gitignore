@@ -53,3 +53,6 @@ node_modules
 
 # don't need no python files
 *.py
+
+# don't need no zip file, neither
+*.zip
