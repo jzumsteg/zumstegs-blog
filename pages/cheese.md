@@ -2,7 +2,7 @@
 layout: page
 title: Cheese Log
 ---
-**2021 Cheese Log**  
+  <h2>2021 Cheese Log</h2>  
 Beaufort  
 Brie de Meaux  
 Brie de Columniers  
@@ -39,7 +39,7 @@ More chevres than we can shake a cheese knife at.
 
 And probably a dozen cheeses whose names I didn't get or don't remember. There are a lot of cheeses here!   
 
-**2018 Cheese Log**  
+<h2>2018 Cheese Log</h2>  
 St. Nectaire  
 Gabaron (garlic and pepper - best if everyone present has some)  
 Brebis  
@@ -61,8 +61,7 @@ Beaufort
 Guyere  
 Le Régal de Bourgogne aux raisins  
 Crottin de Chauvignol  
-
-**2016 Cheese Log**
+<h2>2016 Cheese Log</h2>  
 Through June 20:  
 Bleu de Laqueuille  
 Salers  
@@ -75,17 +74,16 @@ Fourme d'ambert
 Brie de Meaux  
 Comté  
 ...and a few others I didn't record  
-
-**2015 Cheese Log**  
+<h2>2015 Cheese Log</h2>  
 As you might imagine, many will be repeats - particularly the first ones - as we have been waiting two years to taste our favorites again.  
 
 A note or two about cheeses here. First, the typical cheese assortment for a meal will have a cured cheese (hard, like cantal or comté), a blue (such as fourme d'ambert or roquefort), a chevre (goat cheese) and a creamy cheese (brie or camembert, for example). We try to have that assortment for every dinner, and because there are many cheeses that fall into each category, we can try different cheeses all the time. Except...we have favorites and we keep returning to them.
 
 Second, although in the U.S. we talk about and serve cheese and crackers, the French&nbsp;<em>never</em> serve cheese with crackers. It's cheese and bread, period.
 
-With that said, here's a kind of running log of cheeses we're having. I know I've missed some, because when you're at someone's house for dinner and they serve five or six different cheeses, it's hard to remember them all. I will point out, though, that we haven't yet found a cheese we don't like.
+With that said, here's a kind of running log of cheeses we're having. I know I've missed some, because when you're at someone's house for dinner and they serve five or six different cheeses, it's hard to remember them all. I will point out, though, that we haven't yet found a cheese we don't like.  
 
-<strong>5/17</strong> - Not bad for two days here...  
+<h3>5/17 - Not bad for two days here...</h3>  
 Petit Gaugry (a Epoisse-like cheese; the fromagerie did not have Epoisse, but this is made by a cheese-maker who also makes an Epoisse, and it's very close. And stinky. And delicious.)  
 Roquefort-Papillon (There are different types of roquefort; this is one of them.)  
 Comté  
@@ -93,7 +91,7 @@ Fourme d'Ambert (a blue cheese from the Auvergne region)
 Saint-Nectaire  
 Livarot  
 
-<strong>6/6 We've added...</strong>   
+<h3>6/6 We've added...</h3>   
 Saint-Marcellin - went right to the top of the favorites list  
 Cantal  
 Two different roqueforts  
@@ -103,17 +101,17 @@ Brie de Melun
 Brie de Meaux  
 Coulommieres - from the brie region, but not quite a brie  
 
-<strong>6/16...</strong>  
+<h3>6/16...</h3>  
 Roquefort Verniere  
 Salers  
 Tomme de Savoie  
 (I want to point out that these are the&nbsp;<em>new</em> cheeses we've tried. We keep buying the others because we like them. A lot. Generally, we have five or six cheeses floating around here.)
 
-<strong>6/19</strong>  
+<h3>6/19</h3>  
 Abondance  
 Tomme de Bauges  
 
-<strong>7/1</strong>   
+<h3>7/1</h3>  
 Ossau-Iraty (has become my favorite of the cured cheeses)  
 Pont Leveque  
 Camembert  
@@ -122,9 +120,9 @@ Well, I've kind of not kept this up day-by-day. Here are a few more recent chees
 
 Bleu de Saint-Augur  
 Tomme de Montagne  
-<strong>2013 Cheese Log</strong>    
-I'll try to keep a log of the cheeses we've had.
 
+<h3>2013 Cheese Log</h3>    
+I'll try to keep a log of the cheeses we've had.  
 Tomme de Montagne  
 Tomme de Savoie  
 Fourme d'Ambert  

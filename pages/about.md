@@ -12,7 +12,7 @@ For a couple technical reasons, I moved the blog from a Word Press site to a Jek
 <h2>History of Posts</h2>  
 Also, you can click on "History" and see all the post titles arranged by date, most recent at the top. Click on the blog title to see the full post. Some of the older posts - 2013 and 2015 - will be missing images. I'm working on it.
 
-<h2>Post Categories</h2>*  
+<h2>Post Categories</h2>  
 All posts have one or more categories. Click on "Categories" to see a list of the categories. On that page, click on a Category to see all the posts in that category, and then click on a post title to see the full post.
 
 <h2>Comments</h2>
