@@ -41,14 +41,63 @@ First, the Schneider buildings:
 
 
 As we walked around the area, once jammed with other electric-industry-related companies, Laurie said, "This is a ghost town," and indeed it is. Many warehouses and factories remain, but few are occupied.
-[gallery size= "medium" columns="2" ids="522,525,523, 547, 681"]
+
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/06/Ghost-town-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure><figure class = "portrait">
+	<img src="{{ "/assets/images/2013/06/Graphitti.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure><figure class = "landscape">
+	<img src="{{ "/assets/images/2013/06/Ghost-town-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure><figure class = "portrait">
+	<img src="{{ "/assets/images/2013/06/Ghost-town-4.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure><figure class = "landscape">
+	<img src="{{ "/assets/images/2013/06/IMG_4856.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
 
 One interesting thing: the companies that have occupied these hundred-year old buildings are almost all high-tech companies, serving the electronic sector that was birthed by the electric industry. So what Schneider started in 1903 continues in a way.
 
-As we walked around the town we came across a sports complex, now quite rundown, as the city and country just doesn't have the money to keep up a facility built when the town boomed. There are still tennis courts (in good shape and well-used, as tennis is popular here), a rugby field, soccer pitch, and play areas for kids. In the middle of this complex, for my bike-riding readers (that's you, yakibiker) a velodrome, not in good shape at all:
-[gallery size= "medium" columns="2" ids="529,528"]
+As we walked around the town we came across a sports complex, now quite rundown, as the city and country just doesn't have the money to keep up a facility built when the town boomed. There are still tennis courts (in good shape and well-used, as tennis is popular here), a rugby field, soccer pitch, and play areas for kids. In the middle of this complex, for my bike-riding readers (that's you, yakibiker) a velodrome, not in good shape at all:  
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/06/velo-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/06/velo-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
 
 Champagne-sur-Seine has some beauty and style, too:
-[gallery size = "medium" columns="2" ids="546,549,548,551,552,553"]
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/06/barge-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+<figure class = "portrait">
+	<img src="{{ "/assets/images/2013/06/pink.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+<figure class = "portrait">
+	<img src="{{ "/assets/images/2013/06/pink-shutter.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/06/roses-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+<figure class = "portrait">
+	<img src="{{ "/assets/images/2013/06/roses-3.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+<figure class = "portrait">
+	<img src="{{ "/assets/images/2013/06/santa.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
 
 All in all, an interesting town that has fallen on bad times. One part of what we were told is true: it's kind of gritty. But it also has an interesting past and some fine ghosts. We liked it a lot.

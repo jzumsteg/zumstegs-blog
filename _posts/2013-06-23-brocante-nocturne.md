@@ -1,5 +1,5 @@
 ---
-title: <em>Brocante Nocturne</em>
+title: Brocante Nocturne
 author: John Zumsteg
 date: Sun, 23 Jun 2013 10:01:54 +0000
 category: Events
