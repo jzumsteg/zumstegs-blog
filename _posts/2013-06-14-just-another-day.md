@@ -22,7 +22,7 @@ Afterwards, we took a walk along our favorite route, the Canal Loing. We parked 
 </figure>
 
 
-The first record of this Church is in the 13th century. It's unusual in that it sits on a hill outside of the town; most churches are surrounded by their towns. I learned today this church, l'Egise de la Genevraye will be open and have a display of its history on France's Day of Patrimony, September 12. We will definitely visit that day.
+The first record of this Church is in the 13th century. It's unusual in that it sits on a hill outside of the town; most churches are surrounded by their towns. I learned today this church, *Eglise de la Genevraye* will be open and have a display of its history on France's Day of Patrimony, September 12. We will definitely visit that day.
 
 Then we walked along Canal Loing. Walking the section we walked today fills in a gap; we have now walked the canal from its entry into the Seine river upstream to Nemours, about seven miles in all.
 

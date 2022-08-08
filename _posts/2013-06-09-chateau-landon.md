@@ -23,7 +23,8 @@ The North Aisle is unusual in several ways. It was built in the 14th century, so
 
 Anyway, for us, an interesting Church.
 
-And of course, every church needs a bar-brasserie (d'eglise translates as "of the church"): <figure class = "portrait">
+And of course, every church needs a bar-brasserie (d'eglise translates as "of the church"): 
+<figure class = "portrait">
 	<img src="{{"/assets/images/2013/06/Bar-church.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

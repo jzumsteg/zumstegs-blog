@@ -1,5 +1,5 @@
 ---
-title: Montigny-sur-Loing - our Home in France
+title: !  'Montigny-sur-Loing: our Home in France'
 author: John Zumsteg
 date: Mon, 20 May 2013 11:36:48 +0000
 category: France

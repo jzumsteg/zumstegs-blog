@@ -26,11 +26,9 @@ Sometime in the future I'll write a bit about my experience in the hospital and 
 Now, we just cannot thank Mary and Gilles enough for all their help through this adventure. They went way "above and beyond" the call of duty for us.<br>
 <figure class = "landscape">
 	<img src="{{"/assets/images/2013/06/Medical-01.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
+	<figcaption>Me and my supplies</figcaption>
 </figure>
 
-
-Me and my supplies
 
 Post-trip edit: The emergency room visit, at which they examined the wound, cleaned it up and bandaged it, took x-rays and scheduled me for the hand clinic the next day, cost \\$192. In the U.S. that surely would have been in the \\$1,000 - \\$1,500. The hand clinic was an examination, surgery and a follow-up appointment: \\$3,200. I can only imagine how much that would have been in the United States; surely \\$10,000 at least. The nurse came to the house six times over the next two weeks to change the dressing and we never saw a bill for that.
 

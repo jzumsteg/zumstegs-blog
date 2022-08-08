@@ -16,7 +16,23 @@ In 1903, the Schneider Company, which manufactured electrical equipment, chose C
 Schneider ceased operations in this plant in the 1990s. The buildings now have some industrial occupants, but employment has never come close to its peak with Schneider.
 
 First, the Schneider buildings:
-[gallery size= "medium" columns="2" ids="535,538,539,537"]
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/06/Factory-31.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+
+</figure><figure class = "portrait">
+	<img src="{{ "/assets/images/2013/06/Factory-6.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+
+</figure><figure class = "portrait">
+	<img src="{{ "/assets/images/2013/06/Factory-7.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure><figure class = "landscape">
+
+	<img src="{{ "/assets/images/2013/06/Factory-51.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
 <figure class = "landscape">
 	<img src="{{"/assets/images/2013/06/housing-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>One of the apartment buildings Schneider built for its employees.</em></figcaption>
