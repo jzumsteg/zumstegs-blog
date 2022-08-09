@@ -6,7 +6,7 @@ baseurl: '/zumstegs-blog'
 # url: ''
 # baseurl: ''
 avatar: /assets/icons/cv.jpg
-paginate: 5
+paginate: 3
 permalink: pretty
 cover_image: /DSC08791.jpg
 markdown: kramdown

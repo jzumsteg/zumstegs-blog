@@ -15,9 +15,47 @@ Napoleon ordered the construction of Canal St. Martin in 1802. At that time, thi
 
 Today, Canal St. Martin is a testimony to Paris understanding that a head-long rush to progress isn't always a good thing. There remains no real economic need for the canal and, indeed, in the early 1960s a movement arose to  fill it in and create a highway in its place. Cooler heads prevailed and today Canal St. Martin, with its many pedestrian bridges, automobile bridges, locks and areas to just sit and enjoy life, is a beautiful and restful oasis in the middle of a very busy and noisy city.
 <h3>Bridges on the Canal</h3>
-[gallery size= "medium" columns="2" link="file" ids="823,828,820,821,822"]
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/07/dsc03125.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+<figure class = "portrait">
+	<img src="{{ "/assets/images/2013/07/dsc03145.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/07/dsc03120.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/07/dsc03122.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/07/dsc03123.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+
 <h3>Buildings</h3>
-[gallery size = "medium" link="file" columns="2" ids="830,827,825,824"]
+
+<figure class = "">
+	<img src="{{ "/assets/images/" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+<figure class = "">
+	<img src="{{ "/assets/images/" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+<figure class = "">
+	<img src="{{ "/assets/images/" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+<figure class = "">
+	<img src="{{ "/assets/images/" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+
 <h3>Not Canal-related...</H3>
 After dinner Friday, we strolled around the area in which we were staying, turned down a little street, and saw this:
 <figure class = "landscape">
