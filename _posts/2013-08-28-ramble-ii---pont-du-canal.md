@@ -11,6 +11,28 @@ Both readers of this blog know that Laurie and I are fascinated by the canals of
 
 Anyway, today we saw an interesting canal sight: a canal bridge that crosses the Loire River: water crossing water. Pont du Canal ("Canal Bridge") was built in the 1880's; it was designed by Gustave Eiffel - he of the...well, you know.
 
-[gallery size="medium" link="files" columns="2" ids="1502,1503,1504,1505"]
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/08/MG_0090.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
+		<figcaption><em>It's about four-tenths of a mile long.</em></figcaption>
+</figure>
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/08/mg_0092.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
+		<figcaption><em></em></figcaption>
+</figure>
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/08/mg_0094.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
+		<figcaption><em>Still used, but only by pleasure boats.</em></figcaption>
+</figure>
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/08/mg_0099.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
+		<figcaption><em>Laurie and Mary getting a walk in <em>and</em> solving some world problems.</em></figcaption>
+</figure>
+
+
+
 
 We walked across the bridge, of course. The bridge was built for commercial traffic; there weren't any pleasure boats on French Canals in the 1880's. The bridge connected a canal network on the north side of the Loire with a canal network on the south side. Before the bridge, boats had to lock from one canal system into the Loire - which could be very fast and hard to navigate at times - and then lock into the other canal system on the opposite side. We saw those two locks, also, but as they haven't been used since 1889, I think maybe no one really wants to see pictures of them.

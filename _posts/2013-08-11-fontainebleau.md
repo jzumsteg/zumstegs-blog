@@ -20,14 +20,13 @@ It even has a couple extra wings, in case more people arrive, and a nice area fo
 	<figcaption></figcaption>
 </figure>
 
-
-
 <h3>Fontainebleau Chateau</h3>
 The building you're seeing is, of course, the Chateau of Fontainebleau. Although not as sumptuous as Versailles, it has a much more interesting history. Versailles was built by one person, King Louis XIV, during his 72-year reign from 1643 to 1715, so while it's over-the-top on ostentatious displays of wealth and power, it reflects only Louis XIV's ideas on art and architecture. Fontainebleau was built, changed and added-on to by many kings (and an Emperor) and so has a wider variety of styles and art. Having said that, much of it is over-the-top, too!
 
 The oldest part of the chateau was built in the late 1100's by Louis VII (king from 1137-1180); it had a chapel consecrated by Thomas à Becket. Philip-Augustus (1180-1223) and Louis IX (1226-1270) made it their home chateau and lived there. But it was Francois I (1515-1547) who added much of what we see today. His son, Henry II (1547-1559) and his queen, Catherine de Medici, also added to the chateau and carried out extensive modifications. The chateau sits in almost 200 acres of formal gardens, and is in the center of the Fontainebleau forest, which was once a private hunting preserve for the monarchy, and contains 110 square miles(!).
 
 Enough historic blather; here are some pictures of the Chateau:
+
 [gallery size = "large" link = "files" columns="1" ids="1377,1376"]
 
 And pictures of the interior:

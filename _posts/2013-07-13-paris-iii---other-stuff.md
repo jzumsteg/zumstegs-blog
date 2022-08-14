@@ -7,13 +7,34 @@ math: true
 mermaid: true
 layout: post
 ---
+
 We love to walk in Paris. I'm not sure there's a better city in the world for walking, so we do a lot of walking. Here are some highlights of our walks in Paris this last week.
 
-<b>Berges de Seine</b>
+## Berges de Seine ##
 Berges means the banks of a river. I have, since our first visit to Paris 20 years ago, wished that there were more places to sit and watch the activity on the Seine. Well, no more will I wish that. Two weeks ago, Paris opened up a section of the river on the Left Bank, from Pont d'Alma to Pont Royale, that is 100% for sitting, walking, resting, eating, drinking and just watching. It is fabulous.
-[gallery size = "medium" link="files" columns="2" ids="953,951,952,954"]
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/07/DSC03198.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
 
-<b>Parking</b>
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/07/mgl8708.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/07/DSC03196.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/07/ile_verger.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+
+
+
+## Parking ##
 It seems that you can park anywhere in Paris as long as three things are observed:
 1. There's not a "No Parking" sign to be seen;
 2. You don't block an intersection (sometimes ignored);
@@ -31,4 +52,49 @@ Actually, it also seems that you can disregard the above three rules if you just
 
 
 <b>Scenes from our walks...</b>
-[gallery size = "medium" link="files" columns="2" ids="960,959,958,957,961,962,963,964,965,966"]
+Paris is a *big* city, but there are lots of small, quiet areas that are worth seeking out. 
+<figure class = "portrait">
+	<img src="{{ "/assets/images/2013/07/DSC03209.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em>A </em>passage<em></em></figcaption>
+</figure>
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/07/DSC03204.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em>House on the </em>passage.<em></em></figcaption>
+</figure>
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/07/DSC03200.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em>More houses on a </em>passage<em>.</em></figcaption>
+</figure>
+
+<figure class = "portrait">
+	<img src="{{ "/assets/images/2013/07/DSC03199.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em>There are many views like this in Paris: a beautiful </em>passage<em>, with a background of pretty ordinary apartments.</em></figcaption>
+</figure>
+
+<figure class = "portrait">
+	<img src="{{ "/assets/images/2013/07/DSC03210.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+
+<figure class = "portrait">
+	<img src="{{ "/assets/images/2013/07/DSC03212.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/07/DSC03216.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em></em></figcaption>
+</figure>
+
+<figure class = "portrait">
+	<img src="{{ "/assets/images/2013/07/DSC03221.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em>A surprise: these beautiful brick buildings in a rather ordinary area.</em></figcaption>
+</figure>
+
+<figure class = "portrait">
+	<img src="{{ "/assets/images/2013/07/DSC03227.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em>Another surprise: here is an early building by <em>le Corbusier</em>, the first truly "modern" architect.</em></figcaption>
+</figure>
+

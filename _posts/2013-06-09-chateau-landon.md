@@ -10,9 +10,25 @@ layout: post
 Today the weather turned sour again - we had a huge lightning-thunderstorm last night and woke up to clouds and cool temps and likely rain. So we decided to drive to the town of Chateau-Landon.
 
 We learned of Chateau-Landon when we saw it described as a stop on a canal boat trip. It is an ancient town, with what sounded to be lots of interesting sites. So off we went. Chateau-Landon did not disappoint; it's a beautiful town set on a hillside, with some interesting things to see, not all of which we saw. We'll be back to explore Chateau-Landon more thoroughly.
-<h2>The Church</h2>
+### The Church ###
 The church in Chateau-Landon ranks among the most interesting we've seen. Churches reflect the development and history of the towns they serve. We find them interesting for that reason; they are always unique, like their towns, and always interesting. Here are three views of this most unusual church:
-[gallery link="file" ids="361,359, 360"]
+<figure class = "">
+	<img src="{{ "/assets/images/2013/06/church-nave.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em>Nave</em></figcaption>
+</figure>
+
+<figure class = "">
+	<img src="{{ "/assets/images/2013/06/church-north-aisle.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em>North aisle</em></figcaption>
+</figure>
+
+<figure class = "">
+	<img src="{{ "/assets/images/2013/06/church-romanesque-wall.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em>One romanesque wall</em></figcaption>
+</figure>
+
+
+
 Now, I suspected that both faithful readers of this blog are scratching their heads and saying, "He thinks that's interesting?" So let me explain a bit.
 
 This Church was built on a much older church, as is common here. The picture on the left is from the earliest remaining part of the building; it was constructed in the 11th century, so that wall, and the aisle behind it, is Romanesque in style. There are few signs of Romanesque in France, as most churches from that time were later rebuilt in Gothic or Renaissance styles (or in some cases, it appears, no style at all).

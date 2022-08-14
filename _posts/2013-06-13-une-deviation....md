@@ -15,7 +15,7 @@ After a crazy search for the cellphone (which was in my pocket, but I was lying 
 
 Yesterday, Gilles drove us to the clinic and guided us through the process. An examination in the morning, surgery scheduled for the afternoon. The surgery went perfectly. The doctor, who spoke excellent English, told me that the glass had missed the tendon in my thumb but had grazed the nerve, so he sewed up the nerve, tidied everything up, and put in six stitches. So now I have a big bandage on my left hand, and will for a week or so.
 
-This happened to my left thumb, but I think most of you know that some nerve damage that occurred to my right hand some years back means that I use my left hand for anything requiring fine motor skills, so losing that hand while this thing heals is a big problem. Fortunately, I can still hold a glass of wine.
+This happened to my left thumb, and I think most of you know that some nerve damage that occurred to my right hand some years back means that I use my left hand for anything requiring fine motor skills, so losing that hand while this thing heals is a big problem. Fortunately, I can still hold a glass of wine.
 
 The doctor said I had to change the bandage every other day, the thought of which made me queasy. But it turns out that a nurse will come to the house to do that. Phew!
 

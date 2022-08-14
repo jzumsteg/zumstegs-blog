@@ -7,7 +7,7 @@ math: true
 mermaid: true
 layout: post
 ---
-We have a bunch of books of Paris walks, because Paris is definitely a city that rewards walkers. Heck, there's even a French word for a person who just strolls in the city: flaneur. That's us, a pair of flaneurs in our favorite city.
+We have a bunch of books of Paris walks, because Paris is definitely a city that rewards walkers. Heck, there's even a French word for a person who just strolls in the city: *flaneur*. That's us, a pair of *flaneurs* in our favorite city.
 
 Paris also rewards looking up. This city has thousands of beautiful buildings, from every era. We have become aficionados of architecture here, so the book "Architecture of Paris" by the architect and architectural historian Noval White is going to become a favorite. It contains 58 walks, in all parts of Paris, and points out every interesting building on the walk - the good, the bad, the beautiful and the ugly (and yes, there are some really ugly buildings here). We took our first Norval White walk yesterday and, even though we got through only a third of it - in two hours! - the walk took us to many things we otherwise never would have seen.
 
