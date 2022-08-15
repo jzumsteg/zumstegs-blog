@@ -2,7 +2,7 @@
 title: Travels with the Zums
 description: A rambling and random blog about our travels. Please join us....
 url: 'jzumsteg.github.io'
-baseurl: '/zumsegs-blog'
+baseurl: '/zumstegs-blog'
 avatar: /assets/icons/cv.jpg
 paginate: 5
 permalink: pretty
