@@ -24,9 +24,9 @@ layout: default
       {%- if post.thumbnail -%}
       <table>
         <tbody>
-          <td style="width: 30%; vertical-align: top; padding-right: 10px; padding-top: 7px">
+          <td style="width: 30%; vertical-align: top; padding-right: 10px; padding-top:8px">
             <excerpt-image >
-              <img src={{ post.thumbnail }} | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+              <img src="{{  post.thumbnail | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
             </excerpt-image></td>
           <td>
       {%- endif -%}
