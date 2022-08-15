@@ -4,6 +4,7 @@ description: A rambling and random blog about our travels. Please come along wit
 url: 'https://jzumsteg.github.io'
 baseurl: '/zumstegs-blog'
 
+
 avatar: /assets/icons/cv.jpg
 paginate: 3
 permalink: pretty

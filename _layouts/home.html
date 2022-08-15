@@ -21,12 +21,26 @@ layout: default
         {%- endif -%}
       </div>
 
-      
-      <p>{{ post.excerpt | strip_html | truncatewords: 80  }}
-        <a href="{{ post.url | relative_url }}">
-          <em>(Click title or here to see full post)</em> 
-        </a>
-      </p>
+      {%- if post.thumbnail -%}
+      <table>
+        <tbody>
+          <td style="width: 30%; vertical-align: top; padding-right: 10px; padding-top: 7px">
+            <excerpt-image >
+              <img src={{ post.thumbnail }} | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+            </excerpt-image></td>
+          <td>
+      {%- endif -%}
+            <p>{{ post.excerpt | strip_html | truncatewords: 80  }}
+              <a href="{{ post.url | relative_url }}">
+                <em>(Click title or here to see full post)</em> 
+              </a>
+            </p>
+          </dr>
+        </tbody>
+        {%- if post.thumbnail -%}
+      </table>
+      {%- endif -%}
+
 
 
       </p>
