@@ -1,8 +1,8 @@
 # Setup
 title: Travels with the Zums
 description: A rambling and random blog about our travels. Please join us....
-url: 'https://jzumsteg.github.io'
-baseurl: '/blog'
+url: 'https:/zumstegs.us'
+baseurl: ''
 # url: ''
 # baseurl: ''
 avatar: /assets/icons/cv.jpg
