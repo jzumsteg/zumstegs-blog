@@ -28,11 +28,11 @@ layout: default
             <excerpt-image >
               <a href="{{ post.url | relative_url }}"><img src="{{  post.thumbnail | prepend: site.baseurl | prepend: site.url }}" alt="Image" /></a>
             </excerpt-image></td>
-          <td>
       {%- endif -%}
+      <td style = "vertical-align: top;"">
             <p>{{ post.excerpt | strip_html | truncatewords: 80  }}
               <a href="{{ post.url | relative_url }}">
-                <em>(Click title or here to see full post)</em> 
+                <em>(Click title, picture or here to see full post)</em> 
               </a>
             </p>
           </dr>
