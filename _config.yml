@@ -1,8 +1,8 @@
 # Setup
 title: Travelin' with the Zs
 description: A rambling and random blog about our travels. Please come along with us...
-url: 'https://jzumsteg.github.io'
-baseurl: '/zumstegs-blog'
+url: ''
+baseurl: ''
 
 
 avatar: /assets/icons/cv.jpg
