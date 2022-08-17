@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<title>Travelin' with the  Zs</title>
 <div class="posts">
   {% for post in paginator.posts %}
     <section class="post-entry">
@@ -32,7 +32,7 @@ layout: default
       <td style = "vertical-align: top;"">
             <p>{{ post.excerpt | strip_html | truncatewords: 60  }}
               <a href="{{ post.url | relative_url }}">
-                <em>(Click title, picture or here to see full post)</em> 
+                <em>(Full post)</em> 
               </a>
             </p>
           </dr>
