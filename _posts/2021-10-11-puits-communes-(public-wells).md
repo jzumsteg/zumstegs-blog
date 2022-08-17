@@ -6,11 +6,12 @@ category: Activities
 math: true
 mermaid: true
 layout: post
+thumbnail: 2021/10/DSC01930.jpg
 ---
 One day while walking down our street, we saw this in a wall near our cottage:
 
 <figure class = "portrait" >
-	<img src="{{"/assets/images/2021/10/DSC01930.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"2021/10/DSC01930.jpg" | prepend: imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This well started our search. It's about a hundred yards from our cottage here in Bois-le-Roi.</em></figcaption>
 </figure>
 

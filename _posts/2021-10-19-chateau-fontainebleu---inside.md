@@ -6,6 +6,7 @@ category: [Places, Ambles]
 math: true
 mermaid: true
 layout: post
+thumbnail: 2021/10/DSC01819.jpg
 ---
 
 Earlier I wrote about walking around Chateau Fontainebleau, one of our favorite walks here. Yesterday we returned to the chateau, not for a walk but to visit the interior. We've done this before - as in, three or four times before! - but we have enjoyed every visit and wanted to see it again before we left.
@@ -75,7 +76,7 @@ As we (finally) left the Cour Ovale, I told Laurie that now I could die happy, h
 <h2 style="font-family: verdana;">Some Other Pix</h2>
 <figure class = "portrait">
 	<img src="{{"/assets/images/2021/10/DSC01924.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>This is the throne Napoleon used when he was at Fontainebleau. Napoleon was an enigmatic figure and I'm not sure anyone will ever be able to say whether he was good or bad for France. But no one can deny that he was a force. I'm fascinated by him and his place in history, but when I asked some French friends what the French think of him 200 years after his death, the response was, "They don't think of him at all."</em></figcaption>
+	<figcaption><em>This is the throne Napoleon used when he was at Fontainebleau. Napoleon was an enigmatic figure and I'm not sure anyone will ever be able to say whether he was good or bad for France; both, I guess. But no one can deny that he was a force. I'm fascinated by him and his place in history, but when I asked some French friends what the French think of him 200 years after his death, the response was, "They don't think of him at all."</em></figcaption>
 </figure>
 
 

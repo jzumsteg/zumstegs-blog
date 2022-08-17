@@ -11,7 +11,7 @@ We left Cheverny and made the half-hour drive to the town of Blois. Here sits on
 
 Our arrival in Blois was not without some nervousness: we had to trust the GPS 100% to get us to our hotel; we didn't know anything about the hotel or what it was like; and we didn't know if we'd able to park there - always a problem in an old city like this.
 
-The GPS performed flawlessly, taking us through a twisting and turning route right to the hotel. Which had zero parking. So I drove down a street by the train station and amazingly found on that street about a block from the hotel one open space that was, even more amazingly, free and unlimited as to how long we could leave the car there. Score!
+The GPS performed flawlessly, taking us through a twisting and turning route right to the hotel. Which had zero parking. I knew finding a open place on the street would nigh-on impossible, as the train station is right across the street from the hotel. I went down a street nearby and amazingly found on that street about a block from the hotel one open space that was, even more amazingly, free and unlimited as to how long we could leave the car there. Score!
 
 Then we lugged our stuff back to the hotel and found this lovely lobby and reception area:
 
@@ -73,7 +73,7 @@ The earliest wing is in the lower right-hand corner. Starting there, here are th
 
 
 
-So here, in one chateau, we can see 350 years of French architecture. Honestly, we were excited to stand in the middle of the courtyard, listening to the audio guide (the best we’ve ever had, really; it had five&nbsp;narratives just about the different wings and their evolution and creation). We’d read about the chateau and the wings, but we were concerned that we'd get there, look around and not be able to put buildings to eras and architectural styles. Not to worry: the audio guide made sure we could see and understand what each wing represented. Kudos to whoever created that guide!
+So here, in one chateau, we can see 350 years of French architecture. Honestly, we were excited to stand in the middle of the courtyard, listening to the audio guide (the best we’ve ever had, really; it had five narratives just about the different wings and their evolution and creation). We’d read about the chateau and the wings, but we were concerned that we'd get there, look around and not be able to put buildings to eras and architectural styles. Not to worry: the audio guide made sure we could see and understand what each wing represented. Kudos to whoever created that guide!
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC01395.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -138,11 +138,11 @@ Maybe because the weather had turned cold, the fireplaces of the Blois chateau c
 
 
 
-We spent quite a while at Chateau Blois, and then came back the next night for the&nbsp;son et lumière -&nbsp;the sound and light show. These things used to be kind of primitive, with spotlights and music and narrative in French, but now, they are pretty cool. Using laser lights, they can project characters on the walls, scenes as if in a movie and literally paint the chateau walls to highlight certain parts. Narration is though individual listening devices, so we could have our choice of about twenty languages. Sorry, hard to take a picture of it, so I don't have any.
+We spent quite a while at Chateau Blois, and then came back the next night for the *son et lumière* - the sound and light show. These things used to be kind of primitive, with spotlights and music and narrative in French, but now, they are pretty cool. Using laser lights, they can project characters on the walls, scenes as if in a movie and literally paint the chateau walls to highlight certain parts. Narration is though individual listening devices, so we could have our choice of about twenty languages. Sorry, hard to take a picture of it, so I don't have any.
 <h2 style="font-family: verdana;">Jeanne d'Arc at Blois Chateau</h2>
 Joan of Arc is&nbsp;the national hero of France. Every city, town, village and wide spot in the road tries to highlight some connection - any connection! - to Joan of Arc. (We heard of one town that she didn't visit, but the town exhibits a letter from her to the town explaining that she wouldn't be able to visit there. Given that she was illiterate, the letter is almost certainly a forgery, but the town displays it anyway.)
 
-But Chateau Blois has a solid connection with Jeanne d'Arc. At the end of April, 1429, she spent several days in Blois, at the head of an army she had been given to lift the siege (by the English) of the city of Orleans. She left Blois, did in fact attack the English at Orleans and defeated them. The&nbsp;son et lumière&nbsp;explains that she prayed in the chateau chapel before she led her army to Blois. Well, maybe she did and maybe she prayed in another, long-gone chapel, but it makes for a good story.
+But Chateau Blois has a solid connection with Jeanne d'Arc. At the end of April, 1429, she spent several days in Blois, at the head of an army she had been given to lift the siege (by the English) of the city of Orleans. She left Blois, did in fact attack the English at Orleans and defeated them. The *son et lumière* explains that she prayed in the chateau chapel before she led her army to Blois. Well, maybe she did and maybe she prayed in another, long-gone chapel, but it makes for a good story.
 
 Chateau Blois was the primary reason for our trip to the Loire Valley this year and it did not disappoint. In fact, we had high expectations of this chateau and it exceeded those expectations. A fabulous place.
 <h2 style="font-family: verdana;">The City of Blois</h2>

@@ -6,9 +6,10 @@ category: [Rambles, France, Places]
 math: true
 mermaid: true
 layout: post
+thumbnail: 2021/09/DSC01584.jpg
 ---
 After seeing Chateau Blois and visiting the town, we took a day-trip to go to Chateau Amboise and then stopped at Chateau Azay-le-Rideau on the day we drove back to home base at Bois-le-Roi. This was the second time we'd visited Chateau Amboise and the fourth(!) time at Azay-le-Rideau. You can get some more info about these two chateaux by clicking on: <a href="http://zumsteg.us/?p=4833">2018: Three Loire Chateaux</a>.
-<h2 style="font-family: verdana;">Chateau Amboise</h2>
+<h2 id="x" style="font-family: verdana;">Chateau Amboise</h2>
 Chateau Amboise, a thirty-minute drive from Blois, sits on a point of land between the Loire river and what used to be the Amasse river (which is now under the town of Amboise). From this position the chateau and its owners - and their armies - could control the entire central Loire Valley. In the 1400s and 1500s, when the French monarchy lived in the Loire Valley, a number of kings and queens were raised here or lived here in their later lives. Henry II and his wife Catherine D'Medici raised three future kings and a future queen at this chateau.
 
 Today it looks as it did in the 1500s, commanding a beautiful view of the Loire River and the town of Amboise. We very much enjoyed our return here.
@@ -61,7 +62,7 @@ Today it looks as it did in the 1500s, commanding a beautiful view of the Loire 
 </figure>
 
 
-<h2 style="font-family: verdana;">Chateau Azay-le-Rideau</h2>
+<h2 id="x" style="font-family: verdana;">Chateau Azay-le-Rideau</h2>
 Chateau Azay-le-Rideau is 100% Renaissance, and we love it. We first visited it maybe 15 years ago and have been back three times since. It's not huge or famous, but we can spend a lot of time just sitting and looking at it and enjoying its beauty.
 
 We learned on this trip that for many years this chateau had a collection of portraits of French people unsurpassed anywhere. In the early 1900s much of the collection was sold to ease a financial strain on the family, but some fifty of the best were retained. They were displayed here for the first time in many decades. We saw portraits of royalty and aristocrats. A good addition to the chateau.&nbsp;

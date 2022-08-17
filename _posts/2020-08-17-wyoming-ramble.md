@@ -97,7 +97,7 @@ In 1925 a mountainside across the valley from the Grand Teton mountains broke lo
 
 
 
-<figure class = "landscape">
+<figure class = "portrait">
 	<img src="{{"/assets/images/2020/08/DSC09211.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Aspen trees in Eric and Shelley's back yard. We love these trees; at the slightest breeze, the leaves move a bit and the tree just shimmers.</em></figcaption>
 </figure>
@@ -285,7 +285,7 @@ Here's what we had:
 
 
 
-That's about 12-14 ounces of really good prime rib, done perfectly, with a baked potato. Price: \\$14.99. \\$14.99! That's gotta be a \\$30 slab of meat in Seattle. We went back to the Albany the next night for the same meal.
+That's about 12-14 ounces of really good prime rib, done perfectly, with a baked potato. Price: \$14.99. \$14.99! That's gotta be a \$30 slab of meat in Seattle. We went back to the Albany the next night for the same meal.
 
 For breakfast, we had to go to the Luxury Diner. Unless a person knew something about the Luxury, he or she would drive right on past, never thinking about actually eating there. Mistake! The Luxury is an institution for a reason.
 
@@ -305,9 +305,9 @@ I apologize that I didn't take any food pictures here, but I can tell you:
 <ul>
  	<li style="list-style-type: none;">
 <ul>
- 	<li>Laurie's 2x2x2 breakfast (two pancakes, two eggs and two sausage patties) was \\$10;</li>
- 	<li>The next day, Laurie's Senior Special (three pancakes, an egg and sausage) was \\$5;</li>
- 	<li>My hashbrowns, toast, and corned beef hash was \\$10;</li>
+ 	<li>Laurie's 2x2x2 breakfast (two pancakes, two eggs and two sausage patties) was \$10;</li>
+ 	<li>The next day, Laurie's Senior Special (three pancakes, an egg and sausage) was \$5;</li>
+ 	<li>My hashbrowns, toast, and corned beef hash was \$10;</li>
  	<li>All of it was excellent. Honestly, we believe the pancakes were the best we've ever had. They were fabulous.</li>
 </ul>
 </li>

@@ -26,11 +26,11 @@ layout: default
         <tbody>
           <td style="width: 30%; vertical-align: top; padding-right: 10px; padding-top:8px">
             <excerpt-image >
-              <a href="{{ post.url | relative_url }}"><img src="{{  post.thumbnail | prepend: site.baseurl | prepend: site.url }}" alt="Image" /></a>
+              <a href="{{ post.url | relative_url }}"><img src="{{  post.thumbnail | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" /></a>
             </excerpt-image></td>
       {%- endif -%}
       <td style = "vertical-align: top;"">
-            <p>{{ post.excerpt | strip_html | truncatewords: 80  }}
+            <p>{{ post.excerpt | strip_html | truncatewords: 60  }}
               <a href="{{ post.url | relative_url }}">
                 <em>(Click title, picture or here to see full post)</em> 
               </a>
@@ -40,8 +40,6 @@ layout: default
         {%- if post.thumbnail -%}
       </table>
       {%- endif -%}
-
-
 
       </p>
     </section>

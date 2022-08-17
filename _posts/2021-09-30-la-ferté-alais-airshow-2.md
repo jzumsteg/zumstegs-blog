@@ -6,16 +6,17 @@ category: Activities
 math: true
 mermaid: true
 layout: post
+thumbnail: 2021/09/DSC00523.jpg
 ---
+
+
+In late August great friend Hervé, his daughter Sophia, son Ben, Ben's friend Jurgen and I went to the La Ferté Alais airshow. A couple days ago Hervé beat me soundly (figuratively) about the head and shoulders for not doing a post on the airshow. I plead guilty! We had a great day and I should have done a post long ago. But, better never late than ever (or something like that), so here goes.
+
 <p style="text-align: center;">&nbsp;</p>
 <figure class = "portrait">
 	<img src="{{"/assets/images/2021/09/IMG_0255.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
-
-
-
-In late August great friend Hervé, his daughter Sophia, son Ben, Ben's friend Jurgen and I went to the La Ferté Alais airshow. A couple days ago Hervé beat me soundly (figuratively) about the head and shoulders for not doing a post on the airshow. I plead guilty! We had a great day and I should have done a post long ago. But, better never late than ever (or something like that), so here goes.
 
 A note of caution: if you're not interested in old airplanes, you can skip right on by this post. I certainly will not take offense.
 

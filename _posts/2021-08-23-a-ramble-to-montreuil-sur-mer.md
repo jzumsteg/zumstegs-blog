@@ -83,7 +83,9 @@ Hervé plotted our route to dinner, taking us through these two passages; the se
 
 
 
-Continuing my long-time theme of doors and windows...<figure class = "portrait">
+Continuing my long-time theme of doors and windows...
+
+<figure class = "portrait">
 	<img src="{{"/assets/images/2021/08/DSC00361.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
