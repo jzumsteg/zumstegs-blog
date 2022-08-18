@@ -6,7 +6,7 @@ category: [Rambles, France, Places]
 math: true
 mermaid: true
 layout: post
-thumbail:  2021/09/DSC01318.jpg
+thumbnail:  2021/09/DSC01318.jpg
 ---
 <p class="p1"><span class="s1">If you once had a teenage son or daughter, they might well look at a picture of Chateau Cheverny and think, “That seems familiar…” If they were to look at the picture below and cover up the right and left outer wings, it might come to mind: this is Captain Haddock’s Marlinspike Hall, the chateau in the Tintin books that were so popular - with our sons, for sure.</span></p>
 <figure class = "landscape">
