@@ -7,7 +7,9 @@ math: true
 mermaid: true
 layout: post
 ---
-The objective of this trip was to bring a car back to Craig and Annie; they could use a second car and we had an extra. Yesterday, Craig got all the legal stuff done and, with a little help from Clara and Henry, our 2005 Rav4 became an official New York resident:<figure class = "landscape">
+The objective of this trip was to bring a car back to Craig and Annie; they could use a second car and we had an extra. Yesterday, Craig got all the legal stuff done and, with a little help from Clara and Henry, our 2005 Rav4 became an official New York resident:
+
+<figure class = "landscape">
 	<img src="{{"/assets/images/2019/06/DSC08559-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
