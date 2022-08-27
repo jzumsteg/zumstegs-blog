@@ -260,7 +260,9 @@ Some pix of Kykuit...
 
 
 
-The tour ended in the carriage house, which had a collection of the horse-drawn carriages used by the Rockefellers, and a number of their cars, including Nelson's Chrysler used when he was governor. I particularly liked this one:<figure class = "landscape">
+The tour ended in the carriage house, which had a collection of the horse-drawn carriages used by the Rockefellers, and a number of their cars, including Nelson's Chrysler used when he was governor. I particularly liked this one:
+
+<figure class = "landscape">
 	<img src="{{"/assets/images/2019/11/DSC09035.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

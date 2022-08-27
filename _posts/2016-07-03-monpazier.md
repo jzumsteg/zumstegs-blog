@@ -17,12 +17,8 @@ Here's a look down a main street of Monpazier:
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2016/07/DSC00656.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
+	<figcaption>Wide and straight. Take away the cars and you've got a bastide town of 700 years ago.</figcaption>
 </figure>
-
-
-
-Wide and straight. Take away the cars and you've got a bastide town of 700 years ago.
 
 Monpazier also has about my favorite main square in the world. Here's a panoramic  view of it, showing about 2-1/2 sides of the square.
 
@@ -33,7 +29,8 @@ Monpazier also has about my favorite main square in the world. Here's a panorami
 
 
 
-And some pictures of the different sides.<figure class = "landscape">
+And some pictures of the different sides.
+<figure class = "landscape">
 	<img src="{{"/assets/images/2016/07/DSC00578-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
@@ -55,17 +52,17 @@ And some pictures of the different sides.<figure class = "landscape">
 
 
 
-The bastide towns almost always have arcaded buildings on the square.
 <figure class = "landscape">
 	<img src="{{"/assets/images/2016/07/DSC00584.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
+	<figcaption>The bastide towns almost always have arcaded buildings on the square.</figcaption>
 </figure>
 
 
 
-And many of the bastide towns have their original market hall; here's Monpazier's.<figure class = "landscape">
+
+<figure class = "landscape">
 	<img src="{{"/assets/images/2016/07/DSC00583.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
+	<figcaption>And many of the bastide towns have their original market hall; here's Monpazier's.  </figcaption>
 </figure>
 
 

@@ -14,11 +14,11 @@ layout: post
 
 Our friends Jamie and Hervé have sung the praises of Montreuil-sur-Mer since they visited the town several years ago (Hervé is from a small town not far away) and when they suggested we meet them there for a couple days, we thought about it for at least five seconds and signed up. We are super-glad we did: we had a great time with Jamie and Hervé and Montreuil-sur-Mer is probably the most beautiful and interesting small town we've ever seen in France - or anywhere for that matter.
 
-Now first, how is the town's name pronounced? Well, us native English speakers will likely&nbsp;never get it right, as euil&nbsp;is one of the most difficult syllables for us to pronounce. The best I can say is "mon-troy" with the "oy" close to that in "oy-veh!" That's as good as I can describe it.
+Now first, how is the town's name pronounced? Well, us native English speakers will likely&nbsp;never get it right, as *euil* is one of the most difficult syllables for us to pronounce. The best I can say is "mon-troy" with the "oy" close to that in "oy-veh!" That's as good as I can describe it.
 
 The name means, of course, "Montreuil by the Sea" which is surprising because the Atlantic is about 10 miles away. But in the 13th century, an inlet of the ocean, large enough for navy ships, reached Montreuil-sur-Mer; it was the only Atlantic seaport controlled by the French monarchy; since then, the inlet has silted up and a person standing at the highest point of Montreuil-sur-Mer can just barely maybe possibly see the ocean.
 
-Montreuil-sur-Mer is a small town, about 2,900 people, a bit south of Calais (you can see it on Google Earth at <a class="external text" href="https://geohack.toolforge.org/geohack.php?pagename=Montreuil,_Pas-de-Calais&amp;params=50.4648_N_1.763_E_type:city(1952)_region:FR-HDF"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">50°27′53″N</span> <span class="longitude">1°45′47″E).</span></span></span></a> It is a completely walled town. It has a part in history: in 1066 William the Conquerer gathered his army and navy here, sailed to England, won the Battle of Hastings and became the first Norman king of England. During World War I the Allied Headquarters were here from 1916 to 1919, when they were closed after the war's end in November, 1918.
+Montreuil-sur-Mer is a small town, about 2,900 people, a bit south of Calais. It is a completely walled town. It has a part in history: in 1066 William the Conquerer gathered his army and navy here, sailed to England, won the Battle of Hastings and became the first Norman king of England. During World War I the Allied Headquarters were here from 1916 to 1919, when they were closed after the war's end in November, 1918.
 
 Montreuil-sur-Mer has another attraction for me: one of my favorite books is Victor Hugo's Les Miserables, and in that book the main character, Jean Valjean, lived here for six years and became mayor of the town. Fantine, mother of Cosette, also lived and died here. For me then, I looked forward to walking the streets that Jean Valjean walked (really, the streets that Victor Hugo walked, as he placed that part of Les Miserables here after spending several long vacations in the town).
 
@@ -176,7 +176,9 @@ Lunch the next day:
 
 
 
-The next night we downscaled a bit to this restaurant. It served what I describe as "hot pots." We all had the fish one, which included mussels, cod, shrimp, veggies and potatos in a pretty tasty broth. Not so fancy as the night before (and about half the cost), but very good.<figure class = "landscape">
+The next night we downscaled a bit to this restaurant. It served what I describe as "hot pots." We all had the fish one, which included mussels, cod, shrimp, veggies and potatos in a pretty tasty broth. Not so fancy as the night before (and about half the cost), but very good.
+
+<figure class = "landscape">
 	<img src="{{"/assets/images/2021/08/DSC00372.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

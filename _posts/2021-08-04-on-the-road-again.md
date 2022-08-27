@@ -54,4 +54,4 @@ In case you're wondering, we're in Bois-le-Roi, a town of about 6,000 folks, 50 
 
 We're here! We are very happy to be here! Four bottles of champagne down, many to go.
 
-P.S. Started the 2021 <a href="http://zumsteg.us/?page_id=779">cheese log</a>
+P.S. Started the 2021 [Cheese Log]({% link pages/cheese.md %})

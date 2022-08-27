@@ -101,7 +101,7 @@ The two original Royales would likely go at auction for around \\$40 million eac
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC01145.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>I'll take one, please.</em></figcaption>
+	<figcaption><em>I'll take one, please. This Bugatti wins the "I could take this one home" prize for me</em></figcaption>
 </figure>
 
 
@@ -140,9 +140,10 @@ The two original Royales would likely go at auction for around \\$40 million eac
 </figure>
 
 
-I loved the Cité de l'Automobile, but two hours there was all my brain could take, and I know it's not a destination for most people. Honestly, though, so many of these cars are just beautiful, and seeing them in perfect sparkling condition makes this museum worth a visit if you're in the area.
+I loved the Cité de l'Automobile, but two hours there was all my brain could take, and I know it's not a destination for most people. Honestly, though, so many of these cars are just beautiful, and seeing them in perfect sparkling condition makes this museum worth a visit if you're in the area.  
 <h2 style="font-family: verdana;">Cité de la Train</h2>
-I can hear it now: "Oh, no, another Cité de la Something." Yep, this time for trains.
+I can hear it now: "Oh, no, another Cité de la Something." Yep, this time for trains.  
+
 The French railroad system is run by the Société Nationale des Chemins de Fer Français (SNCF), the "National Company of French Railways." The city of Mulhouse, wanting to draw visitors to the city, donated land to SNCF to display its rolling stock - locomotives and rail cars. The museum is dedicated to the history of trains in France, and stocked with locomotives and railroad cars from the 1840s to today. It had many amazing exhibits - for example, a huge steam locomotive cut in half so the inner workings could be shown and explained.
 
 <figure class = "landscape">

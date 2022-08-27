@@ -305,9 +305,9 @@ I apologize that I didn't take any food pictures here, but I can tell you:
 <ul>
  	<li style="list-style-type: none;">
 <ul>
- 	<li>Laurie's 2x2x2 breakfast (two pancakes, two eggs and two sausage patties) was \$10;</li>
- 	<li>The next day, Laurie's Senior Special (three pancakes, an egg and sausage) was \$5;</li>
- 	<li>My hashbrowns, toast, and corned beef hash was \$10;</li>
+ 	<li>Laurie's 2x2x2 breakfast (two pancakes, two eggs and two sausage patties) and coffee was \$10;</li>
+ 	<li>The next day, Laurie's Senior Special (three pancakes, an egg and sausage) and coffee was \$5;</li>
+ 	<li>My hashbrowns, toast, corned beef hash and coffee was \$10;</li>
  	<li>All of it was excellent. Honestly, we believe the pancakes were the best we've ever had. They were fabulous.</li>
 </ul>
 </li>
@@ -327,7 +327,7 @@ Oakes Ames and Oliver Ames were instrumental in financing the Union Pacific rail
 
 In the 1870s the Union Pacific, trying to rehabilitate the Ames Brothers' reputation (and the company's at the same time) built the Ames Monument. At the time it was at the highest point on the transatlantic railroad, and trains actually stopped to let passengers see the monument. A later change to the railroad's route now means the monument is out in the middle of nowhere. We'd never make a special trip to see it - and would not recommend doing so to any traveller - but as part of a day-trip, it was fun to see.
 <h2>A Trip Highlight: Re-connecting with Friends</h2>
-When I worked in Wyoming, a colleague told me she wanted to introduce me to Steve L., saying she thought we'd become friends. We did! Steve and I met for lunch or coffee often, and I got to know his wife, Carol, and kids, too. But it had been some time since we'd connected and so I emailed him that we'd be in Cheyenne for a few days. The result: we got together with Steve and Carol and their younger daughter for an evening and had just the best time. It was as if no time had passed, except time had passed and there was lots to catch up on. We talked for four hours and could have continued longer. That evening was a highlight of our Wyoming ramble; so nice to re-connect with friends.
+When I worked in Wyoming, a colleague told me she wanted to introduce me to Steve L., saying she thought we'd become friends. We did! Steve and I met for lunch or coffee often, and I got to know his wife, Carol, and kids, too. But it had been some time since we'd connected and so I emailed him that we'd be in Cheyenne for a few days. The result: we got together with Steve and Carol and their younger daughter for an evening and had just the best time. It was as if no time had passed, except time had passed and there was lots to catch up on. We talked for four hours and could have continued longer. That evening was a highlight of our Wyoming ramble; so nice to re-connect with great friends.
 <h2>Heading Home</h2>
 After Cheyenne we went back to Jackson Hole to spend another couple days with Shelley and Eric, then home to Seattle. On the way we stopped at one interesting place: Craters of the Moon in central Idaho.
 
