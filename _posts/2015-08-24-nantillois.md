@@ -67,13 +67,13 @@ In late September 1918 the Allies - mostly France, Britain and the United States
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2015/08/nantillois.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
+	<figcaption>It took American forces almost a week to move across these fields, held by the Germans for four years. The German forces had dug multiple rows of trenches and, as the American army forced them back, they'd just move to the next trench and defend it as long as they could. Honestly, we could easily imagine this and I can tell you it was chilling.</figcaption>
 </figure>
 
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2015/08/WWI-12-of-25.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
+	<figcaption>Another much longer than expected action: planning held that the Ametricans would cross this space in a day. It took almost a week.</figcaption>
 </figure>
 
 
@@ -91,12 +91,12 @@ Maarten then took us through the forest. German troops had a large camp there, a
 American troops in the forest got a break when they had to wait for units alongside them to catch up. They dug foxholes and rested - as much as one can rest in a rain-filled hole. This area has hundreds of these foxholes still visible.  
 <figure class = "portrait">
 	<img src="{{"/assets/images/2015/08/WWI-1-of-11.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
+	<figcaption>Under the ground-cover were many round depressions: foxholes, where American troops holed up for a few days to let food, ammunition and replacement soldiers catch up to them. Remember, this was a hundred years ago, and the scars of war are still numerous and visible.</figcaption>
 </figure>
 
 
 
-Maarten has discovered thousands of artifacts of the war and told us that walking through a freshly plowed field will always result in such discoveries. Laurie and I did that our last morning and in fifteen minutes found half a dozen such artifacts: a horseshoe, some pieces of a horse's tackle, part of an artillery shell and some unidentifiable scrap.
+Maarten has discovered thousands of artifacts of the war and told us that walking through a freshly plowed field will always result in such discoveries. Laurie and I did that our last morning and in fifteen minutes found half a dozen such artifacts: a horseshoe, some pieces of a horse's tackle, part of an artillery shell, a spent cartridge from an American round and some unidentifiable scrap.
 
 We saw much more and visited several other very interesting sites, but enough is enough. I'll leave you with just a couple more pictures.
 
@@ -118,9 +118,9 @@ It was moving to visit these sites, to be able to "see" the things that happened
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2015/08/WWI-26-of-1-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
+	<figcaption>I have not yet walked through one of these cemeteries - and there are many of them - without tearing up. What a waste of lives.</figcaption>
 </figure>
 
 
 
-The United States lost 126,000 boys in World War I; France lost 1,375,000; Germany, 1,773,000; Russia, 1,700,000; Austria-Hungary, 1,200,000. No wonder Laurie and I have become more adamantly pacifist and non-violent as we've grown older. The only thing World War I accomplished was to set  the stage for World War II, at a cost of 8.3 million soldiers killed and 19 million wounded.
+The United States lost 126,000 boys in World War I; France lost 1,375,000; Germany, 1,773,000; Russia, 1,700,000; Austria-Hungary, 1,200,000. No wonder Laurie and I have become more adamantly pacifist and non-violent as we've grown older. World War I was touted as the war "that would end all wars," but it really was "the war that ensured World War II would happen." World War II: 8.3 million soldiers killed and 19 million wounded, and somewhere in the range of <em>50-55 million</em> civilians killed.

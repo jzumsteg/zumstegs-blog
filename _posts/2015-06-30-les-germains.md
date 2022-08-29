@@ -34,22 +34,22 @@ At the end of the week, Eric came down from his Paris digs, and we had a family 
 	<figcaption></figcaption>
 </figure>
 
-Les Germain sat (and stood) for a family portrait.
+*Les Germain* sat (and stood) for a family portrait.
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2015/06/DSC06168-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
-That's: Gilles &amp; Mary, Anne and Christian, William, Claire and Mathilde, and Eric.
+That's: Gilles &amp; Mary, Anne and Christian, William holding Claire and Mathilde, and Eric.
 
-I think Eric was about three when the Germains lived in Boulevard Lane. It was then that we got to know them. Thirty-five years ago...yikes!
+I think Eric was about two - three when the Germains lived in Boulevard Lane. It was then that we got to know them. Thirty-five years ago...yikes!
 
-And a couple of pictures of the next generation. Christian and Claire getting to know each other:
+And a couple of pictures of the next generation. 
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2015/06/DSC06210-5.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
+	<figcaption>Christian and Claire getting to know each other:</figcaption>
 </figure>
 
  <figure class = "portrait">
@@ -59,39 +59,28 @@ And a couple of pictures of the next generation. Christian and Claire getting to
 
 
 
-Laurie and Claire getting to know each other:
+
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2015/06/DSC06030-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
+	<figcaption>Laurie and Claire getting to know each other.</figcaption>
 </figure>
 
 
 
-Claire checking things out:
+
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2015/06/DSC08683-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
+	<figcaption>Claire checking things out.</figcaption>
 </figure>
 
-Anything better than baby's feet?
+
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2015/06/DSC06184-3.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
+	<figcaption>Anything better than baby's feet?</figcaption>
 </figure>
 
 This is a wonderful family. Laurie and I are pleased and honored to have been included in their family gathering.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
