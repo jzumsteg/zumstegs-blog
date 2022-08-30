@@ -14,7 +14,7 @@ layout: post
 
 Our friends Jamie and Hervé have sung the praises of Montreuil-sur-Mer since they visited the town several years ago (Hervé is from a small town not far away) and when they suggested we meet them there for a couple days, we thought about it for at least five seconds and signed up. We are super-glad we did: we had a great time with Jamie and Hervé and Montreuil-sur-Mer is probably the most beautiful and interesting small town we've ever seen in France - or anywhere for that matter.
 
-Now first, how is the town's name pronounced? Well, us native English speakers will likely&nbsp;never get it right, as *euil* is one of the most difficult syllables for us to pronounce. The best I can say is "mon-troy" with the "oy" close to that in "oy-veh!" That's as good as I can describe it.
+Now first, how is the town's name pronounced? Well, us native English speakers will likely never get it right, as *euil* is one of the most difficult syllables for us to pronounce. The best I can say is "mon-troy" with the "oy" close to that in "oy-veh!" That's as good as I can describe it.
 
 The name means, of course, "Montreuil by the Sea" which is surprising because the Atlantic is about 10 miles away. But in the 13th century, an inlet of the ocean, large enough for navy ships, reached Montreuil-sur-Mer; it was the only Atlantic seaport controlled by the French monarchy; since then, the inlet has silted up and a person standing at the highest point of Montreuil-sur-Mer can just barely maybe possibly see the ocean.
 
@@ -151,11 +151,11 @@ We ate well here. Hoo-hah, did we eat well here. I'm not a fan of food photos, s
 
 
 
-Main course was&nbsp;maigré, a white fish, for all but me. I had a&nbsp;tangine d'agneau&nbsp;(lamb tangine). Then we had dessert...yes, we did:
+Main course was maigré, a white fish, for all but me. I had a tangine d'agneau (lamb tangine). Then we had dessert...yes, we did:
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/08/IMG_0649-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Profiteroles, an old French dessert that many restaurants still serve. But rarely like these, which were fantastic. They were listed on the menu as Les Authentiques Profiteroles. Don't know exactly what that meant, as we've never had&nbsp;faux profiteroles, but, geeze, were they good.</em></figcaption>
+	<figcaption><em>Profiteroles, an old French dessert that many restaurants still serve. But rarely like these, which were fantastic. They were listed on the menu as Les Authentiques Profiteroles. Don't know exactly what that meant, as we've never had faux profiteroles, but, geeze, were they good.</em></figcaption>
 </figure>
 
 

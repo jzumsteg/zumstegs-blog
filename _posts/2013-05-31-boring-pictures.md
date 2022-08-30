@@ -29,4 +29,4 @@ Most towns have their own, very old, Church. This is in Nonville (note: that tra
 
 The Church in Treuzy. No date on this Church, but some definite Romanesque features, which puts it in the 11th or 12th centuries. It's probably been rebuilt several times since then, but to the original design, so the Romanesque remains.
 
-&nbsp;
+ 

@@ -13,7 +13,7 @@ Antoine Bourdelle worked in Paris in the late 1800s and early 1900s, until his d
 
 Anyway, when he died, his daughter and son-in-law, who lived in the small town of Égreville, about an hour south of Paris, created a beautiful garden with 56 of his sculptures and bas-reliefs. It really is a beautiful and peaceful place and it was a perfect afternoon outing for us.
 
-&nbsp;
+ 
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2015/05/DSC04802.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />

@@ -132,4 +132,4 @@ Walking along the Seine...always a treat.</h3>
 
 That's our current home-away-from-home. Samois is a beautiful little village; we've enjoyed our time here a lot.
 
-&nbsp;
+ 

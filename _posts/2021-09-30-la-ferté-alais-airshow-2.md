@@ -12,7 +12,7 @@ thumbnail: 2021/09/DSC00523.jpg
 
 In late August great friend Hervé, his daughter Sophia, son Ben, Ben's friend Jurgen and I went to the La Ferté Alais airshow. A couple days ago Hervé beat me soundly (figuratively) about the head and shoulders for not doing a post on the airshow. I plead guilty! We had a great day and I should have done a post long ago. But, better never late than ever (or something like that), so here goes.
 
-<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"> </p>
 <figure class = "portrait">
 	<img src="{{"/assets/images/2021/09/IMG_0255.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
@@ -24,7 +24,7 @@ I've been a fan of old planes for years (okay, okay, I've been a fan of all plan
 
 Now, I don't want to rag on other airshows, but often they are fly-bys of some interesting airplanes and then about 450 aerobatic demonstrations. One aerobatic display is good, two not so good and from three on, boring! *La Ferté Alais* takes a different approach. Many of the planes on display here fly in staged "actions." For instance, there were a number of World War I airplanes, and they all took to the sky at the same time and staged a mock dogfight. That was followed by vignettes with airplanes from between the wars, then World War II airplanes, then more modern planes. In between lots of planes took off, flew by a couple times and landed, all right in front of us.
 
-The last two performances were *Patrouille de France* and a solo demonstration by a Dassault Rafale. *Patrouille de France* is the French Air Force demonstration team, like the U.S. Navy's Blue Angels and the U.S. Air Force's Thunderbirds. Now I've seen the Blue Angels many times and I gotta say, *Patrouille de France* does some stuff I've never&nbsp;seen the Blue Angels do. This was followed by a solo demonstration by the Rafale, which is absolutely jaw-dropping.
+The last two performances were *Patrouille de France* and a solo demonstration by a Dassault Rafale. *Patrouille de France* is the French Air Force demonstration team, like the U.S. Navy's Blue Angels and the U.S. Air Force's Thunderbirds. Now I've seen the Blue Angels many times and I gotta say, *Patrouille de France* does some stuff I've never seen the Blue Angels do. This was followed by a solo demonstration by the Rafale, which is absolutely jaw-dropping.
 
 A very fun day with good friends and great airplanes; what could be better?
 <h2 style="font-family: verdana;">Pix:</h2>
@@ -61,7 +61,7 @@ These are planes from the 1900-1914 era. Even though the United States had the f
 <h2 style="font-family: verdana;">World War I</h2>
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC00531.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>This is a Fokker Tri-plane, the plane flown by the Red Baron in World War I. The woman in front of it is dressed in mourning, representing the widows of the many pilots shot down by the Red Baron.&nbsp;</em></figcaption>
+	<figcaption><em>This is a Fokker Tri-plane, the plane flown by the Red Baron in World War I. The woman in front of it is dressed in mourning, representing the widows of the many pilots shot down by the Red Baron. </em></figcaption>
 </figure>
 
 

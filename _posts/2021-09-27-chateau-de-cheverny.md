@@ -22,13 +22,13 @@ thumbnail:  2021/09/DSC01318.jpg
 
 <p class="p1"><span class="s1">Chateau de Cheverny has a long and convoluted history. In the early 1300s the land was owned by the Herault family. A fortified chateau was here in th</span><span class="s1">e early 1500s, still owned by the Herault family. Then things get muddy: the fortified chateau was torn down but no one seems to know exactly when or what it looked like!<span class="Apple-converted-space"> Another chateau - less fortified - was then built here.</span></span></p>
 <p class="p1"><span class="s1">The chateau was confiscated by the state, and around 1550 Henry II gave it to his life-long mistress Diane de Poitiers. But she liked Chateau Chenonceau better and sold Cheverny back to Philippe Herault - a descendent of the original owners. Philippe Herault built the current chateau between 1624 and 1630.</span></p>
-<p class="p1"><span class="s1">During Napoleon's time as the head of France the family was required to “sell” (at little or no cost, likely) the property back to the state, but during the Restoration (when France had kings again, after the no-king era of the Revolution and Napoleon’s empire) the family re-gained the property - this time by a branch of the Herault family, the de Vibrays. In 1914 the family opened Chateau de Cheverny to the public, the first to do so. From the first records of the property belonging to the Herault family - early 1300s - to today,&nbsp; still owned by the de Vibraye family, this chateau and property has been in and out of the Herault/de Vibraye family for 800 years!</span></p>
+<p class="p1"><span class="s1">During Napoleon's time as the head of France the family was required to “sell” (at little or no cost, likely) the property back to the state, but during the Restoration (when France had kings again, after the no-king era of the Revolution and Napoleon’s empire) the family re-gained the property - this time by a branch of the Herault family, the de Vibrays. In 1914 the family opened Chateau de Cheverny to the public, the first to do so. From the first records of the property belonging to the Herault family - early 1300s - to today,  still owned by the de Vibraye family, this chateau and property has been in and out of the Herault/de Vibraye family for 800 years!</span></p>
 <p class="p1"><span class="s1">Okay, enough history - here are some pictures:</span></p>
 
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC01354.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>The front of the Chateau. The symmetry and clean ornamentation mark it as Renaissance.&nbsp;</em></figcaption>
+	<figcaption><em>The front of the Chateau. The symmetry and clean ornamentation mark it as Renaissance. </em></figcaption>
 </figure>
 
 
@@ -95,7 +95,7 @@ And a note from Captain Haddock, Tintin's guardian...
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC01364.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>The top sign says, "Chateau for Sale." On the bottom sign Captain Haddock has added some words to make it say, "Chateau is no longer for sale."&nbsp;</em></figcaption>
+	<figcaption><em>The top sign says, "Chateau for Sale." On the bottom sign Captain Haddock has added some words to make it say, "Chateau is no longer for sale." </em></figcaption>
 </figure>
 
 

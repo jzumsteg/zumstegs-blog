@@ -18,7 +18,7 @@ The family gathered in stages. First, grandson Christian and son-in-law Fabien a
 
 
 
-&nbsp;
+ 
 
 Christian's mother, Anne, arrived a few days later, then William and Mathilde brought the newest grandchild -  Claire, nine months. We visited Mathilde and Claire one morning when all the Germains were doing family business:
 

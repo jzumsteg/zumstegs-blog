@@ -169,4 +169,4 @@ One last detour, to Passage l'Homme, around the corner from Rue du Fauborg-Saint
 
 It rained off and on during this walk, and finally it started to rain enough that we called it quits. I know that few tourists will ever have the time or inclination to search out the Rue du Faubourg-Saint-Antoine passages, especially after seeing the rue itself, with its noise and traffic and craziness. So I hope this post gives you a sense of a different Paris, the seldom-seen-by-tourists Paris. I still think this is one of the coolest streets in Paris.
 
-&nbsp;
+ 

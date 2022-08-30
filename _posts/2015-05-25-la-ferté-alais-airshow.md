@@ -67,7 +67,7 @@ Long ago I went through Navy flight training at Pensacola Florida and there flew
 
 
 
-&nbsp;
+ 
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2015/05/DSC04842_20150524.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />

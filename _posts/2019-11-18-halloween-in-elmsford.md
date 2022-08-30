@@ -34,7 +34,7 @@ Now, this is going to be a long post so I want to first put in some pictures of 
 
 
 
-&nbsp;
+ 
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2019/11/Screen-Shot-2019-11-17-at-3.27.40-PM.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -119,7 +119,7 @@ Storm King has about 150 pieces of art spread throughout its 500 acres. This mea
 
 
 
-&nbsp;
+ 
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2019/11/DSC08956.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />

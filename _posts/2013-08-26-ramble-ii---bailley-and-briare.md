@@ -56,7 +56,7 @@ Our experience with B &amp; Bs has not been all that great, and this one kind of
 
 
 
-&nbsp;
+ 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2013/08/DSC03879.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Note the can of bug spray on the night-stand: always the sign of a high-class establishment. None of the furniture matched, none was of high- or even medium-quality, and most of it appeared to come from a garage sale. We even had a decanter and glass set that had a sign on it "For decoration only."</em></figcaption>

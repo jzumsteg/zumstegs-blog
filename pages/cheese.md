@@ -50,7 +50,7 @@ Roquefort
 Cantal Vielle  
 Brie de Meaux  
 Brie de Melun  
-Brie de&nbsp; Nangis  
+Brie de  Nangis  
 Brie de Montereaux  
 Appenzal aux Fleur  
 Montagne Bethmale Vache  
@@ -79,7 +79,7 @@ As you might imagine, many will be repeats - particularly the first ones - as we
 
 A note or two about cheeses here. First, the typical cheese assortment for a meal will have a cured cheese (hard, like cantal or comté), a blue (such as fourme d'ambert or roquefort), a chevre (goat cheese) and a creamy cheese (brie or camembert, for example). We try to have that assortment for every dinner, and because there are many cheeses that fall into each category, we can try different cheeses all the time. Except...we have favorites and we keep returning to them.
 
-Second, although in the U.S. we talk about and serve cheese and crackers, the French&nbsp;<em>never</em> serve cheese with crackers. It's cheese and bread, period.
+Second, although in the U.S. we talk about and serve cheese and crackers, the French <em>never</em> serve cheese with crackers. It's cheese and bread, period.
 
 With that said, here's a kind of running log of cheeses we're having. I know I've missed some, because when you're at someone's house for dinner and they serve five or six different cheeses, it's hard to remember them all. I will point out, though, that we haven't yet found a cheese we don't like.  
 
@@ -105,7 +105,7 @@ Coulommieres - from the brie region, but not quite a brie
 Roquefort Verniere  
 Salers  
 Tomme de Savoie  
-(I want to point out that these are the&nbsp;<em>new</em> cheeses we've tried. We keep buying the others because we like them. A lot. Generally, we have five or six cheeses floating around here.)
+(I want to point out that these are the <em>new</em> cheeses we've tried. We keep buying the others because we like them. A lot. Generally, we have five or six cheeses floating around here.)
 
 <h3>6/19</h3>  
 Abondance  

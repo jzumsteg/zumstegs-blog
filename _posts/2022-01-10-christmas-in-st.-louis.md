@@ -11,7 +11,7 @@ thumbnail: 2022/01/image-7.jpg
 I know that thousands of readers look at this blog to read about our travels inside and outside the U.S. of A., and so may be slightly disappointed that this blog is about our Christmas trip to St. Louis. Honestly, I won't feel slighted if you skip right on by. But a big reason I do this blog is so that Laurie and I can look back and say, 'Oh, yeah, we remember that." And if you want to see what the Zumsteg family looks like now, and learn a little bit about St. Louis, give it a read!  
 
 <h2>Some St. Louis Background</h2>
-We actually have an old connection with St. Louis. In 1853 my great-grandfather, Wedillin "Wendall" Zumsteg, then six years old, emigrated with his parents and some family members (don't know who yet) from a tiny village in Switzerland, about a mile south of the Switzerland/Germany border. Where did he emigrate to? St. Louis. For unknown reasons a few - maybe more than a few - &nbsp;Zumsteg families made that trip in the early 1850s. Many moved on to St. Joseph, MO, and my Zumsteg ancestors moved to a tiny town, Memphis, Missouri, on the border between Missouri and Iowa.
+We actually have an old connection with St. Louis. In 1853 my great-grandfather, Wedillin "Wendall" Zumsteg, then six years old, emigrated with his parents and some family members (don't know who yet) from a tiny village in Switzerland, about a mile south of the Switzerland/Germany border. Where did he emigrate to? St. Louis. For unknown reasons a few - maybe more than a few -  Zumsteg families made that trip in the early 1850s. Many moved on to St. Joseph, MO, and my Zumsteg ancestors moved to a tiny town, Memphis, Missouri, on the border between Missouri and Iowa.
 
 Today there are quite a few Zumstegs in Missouri. Craig said that he once started to spell his name for someone and they stopped him, since they knew other Zumstegs. Someday we'll make a run up to Memphis (population: 1,700) to see the town where my grandfather was born, and visit the cemetery where his parents (my great-grandparents) and several siblings are buried.
 
@@ -54,7 +54,7 @@ We got in lots of walks, as the weather was excellent. Christmas Eve day was sun
 
 
 
-Have you ever had that feeling that someone was looking at you? At this sculpture park, we &nbsp; encountered that feeling strongly, but never figured out what it was.
+Have you ever had that feeling that someone was looking at you? At this sculpture park, we encountered that feeling strongly, but never figured out what it was.
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2022/01/eyeball.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -63,7 +63,7 @@ Have you ever had that feeling that someone was looking at you? At this sculptur
 
 
 
-The most interesting thing in the park was an owl, sitting in a tree by the side of a path. &nbsp;We've never been this close to an owl in the wild.
+The most interesting thing in the park was an owl, sitting in a tree by the side of a path.  We've never been this close to an owl in the wild.
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2022/01/image-15.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -158,7 +158,7 @@ Henry came down with some type of flu (wasn't COVID-Omicron, evidently, as he te
 </h2>
 We had a great time in St. Louis, from start to finish. A couple days later Annie wrote that she was extending an invitation for us to come to St. Louis for Christmas for the next ten years. See what I said about her being the best daughter-in-law ever? We accepted the invitation.
 
-Then, we had to fly back to Seattle.&nbsp;
+Then, we had to fly back to Seattle. 
 <h2>Return Flight</h2>
 Now things got, um, "interesting." First, Laurie caught Henry's flu. Tuesday night (we left Wednesday), she started to hack and cough, had some head congestion and a bit of a sore throat. Departure day she felt worse and continued to go downhill as the day progressed.
 
@@ -166,11 +166,11 @@ On the other side of the country - Seattle, that is - a huge snow storm had snar
 
 Unfortunately, that "late Wednesday night" snowstorm had arrived three hours *before* our arrival, and SeaTac was a mess. We waited on the plane for an hour before it got to a gate, then waited 50 minutes to get our bags - in a baggage claim area with *thousands* of people. During this time I was checking, with growing dismay, the Uber and Lyft apps. A ride from the airport to home usually is about \\$32-\\$34, plus tip. Lyft was now showing that ride would cost \\$155, but not to worry about the cost, because they had zero drivers available. Uber was saying \\$85, and they had "few drivers" so couldn't guarantee that we could get a ride. Gulp.
 
-Our bags arrived after about 50 minutes. Off to the ground transportation area we went.&nbsp;I thought maybe we could just catch a regular taxi home. Right again. The line - outdoors in 24° temps - was about 200 yards long, with a taxi arriving maybe every five minutes. I figured the taxi wait was at least two hours. We walked out to the Lyft/Uber area; I checked Uber and amazingly, it showed a driver available in seven minutes at that \\$85 cost. Honestly, I didn't believe it, but I took the ride and, sure enough, the driver showed up about five minutes later.&nbsp;
+Our bags arrived after about 50 minutes. Off to the ground transportation area we went. I thought maybe we could just catch a regular taxi home. Wrong again. The line - outdoors in 24° temps - was about 200 yards long, with a taxi arriving maybe every five minutes. I figured the taxi wait was at least two hours. We walked out to the Lyft/Uber area; I checked Uber and amazingly, it showed a driver available in seven minutes at that \\$85 cost. Honestly, I didn't believe it, but I took the ride and, sure enough, the driver showed up about five minutes later. 
 
 Now, I don't know where the driver was from, but I'd guess the Middle East somewhere - Iraq or Iran or Egypt or thereabouts. He asked us if we wanted to wait for a four-wheel drive vehicle, but the Uber app said, "None available," so he took us, saying, "I'm a really good driver in snow." Sure, you learned that in a country that has zero snow ever. In the event, he was right. He was an excellent driver in the snow, which was good because we went up several hills with a lot of snow on them.
 
-We made it to the entrance of the development where we live. The driver said he would help us carry our bags to the house, but no way was he going to try driving there. He was right; he would likely not have been able to get out. We declined his offer and dragged our suitcases about a quarter of a mile through six inches of snow. Remember: Laurie is sick and getting sicker by the minute. We opened the garage door at about 12:45 a.m., almost three hours after we'd landed.&nbsp;
+We made it to the entrance of the development where we live. The driver said he would help us carry our bags to the house, but no way was he going to try driving there. He was right; he would likely not have been able to get out. We declined his offer and dragged our suitcases about a quarter of a mile through six inches of snow. Remember: Laurie is sick and getting sicker by the minute. We opened the garage door at about 12:45 a.m., almost three hours after we'd landed. 
 
 The one wise decision we'd made before we left ten days earlier was to not turn off the heat in the house. So the house was cool, but not freezing. We left the bags in the garage, turned the heat up, turned the electric blankets on and got into bed. Home, sweet home.
 
@@ -181,8 +181,8 @@ The one wise decision we'd made before we left ten days earlier was to not turn 
 
 
 <h2>Flu Update</h2>
-It's twelve days since Laurie came down with this flu. She says she has never been so sick in her life, and I believe it. It almost certainly was not COVID, since no one around her caught it and rapid transmission is the key marker of COVID these days. She never had a fever - another COVID symptom - nor trouble breathing nor the dry cough of COVID (but she surely had a cough; a terrible cough that lasted until just the last day or so).&nbsp;
+It's twelve days since Laurie came down with this flu. She says she has never been so sick in her life, and I believe it. It almost certainly was not COVID, since no one around her caught it and rapid transmission is the key marker of COVID these days. She never had a fever - another COVID symptom - nor trouble breathing nor the dry cough of COVID (but she surely had a cough; a terrible cough that lasted until just the last day or so). 
 
-Our doc and our resident infectious disease expert believe this was a case of the 2022 flu, and they also say that this year's flu is the most virulent in years. Laurie believes it! Almost two weeks after she felt the first symptoms, she's starting to feel human again.&nbsp;
+Our doc and our resident infectious disease expert believe this was a case of the 2022 flu, and they also say that this year's flu is the most virulent in years. Laurie believes it! Almost two weeks after she felt the first symptoms, she's starting to feel human again. 
 
-&nbsp;
+ 

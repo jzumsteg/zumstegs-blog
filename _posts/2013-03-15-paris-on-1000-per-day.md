@@ -9,7 +9,7 @@ layout: post
 ---
 I was talking to a fellow today and he said that he and his wife were planning a trip to Paris for 2014. He asked me, after hearing that we'd been there quite a few times, if \\$1,000 per day was enough for Paris. He'd heard that it "...was expensive" there. I laughed and told him I though they could have a great vacation on half that amount. Then I got to thinking about how much it could cost. Here's my estimate, based on how we spend money when we're in Paris:
 
-| Expenditure | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | Explanation |
+| Expenditure |         Cost              | Explanation |
 | :--------        |  --------:  |         :--- |
 |Hotel |    \$250 | Hotel des Deux Iles |
 |Breakfast| \$32| At the hotel; expensive but worth it for us.|

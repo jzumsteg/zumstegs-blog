@@ -153,8 +153,8 @@ Indeed, this market had pretty much anything you'd want, including a pig's head 
 
 That's La Rochelle. It is our favorite place in France and right up there on our list of favorite places in the world - maybe at the top. We already are looking forward to returning next year.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 

@@ -37,6 +37,6 @@ Oh, one last bit of history about the chateau. In 1651, not long after the chate
 
 Today Versailles is wall-to-wall tourists all the time; Laurie and I have never visited it. Vaux-le-Compte may be a "mini-Versailles," but its beauty is just overwhelming and much easier to visit andview; we'll be back.
 
-&nbsp;
+ 
 
-&nbsp;
+ 

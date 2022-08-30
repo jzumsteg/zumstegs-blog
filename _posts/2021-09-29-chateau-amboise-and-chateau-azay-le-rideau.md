@@ -65,7 +65,7 @@ Today it looks as it did in the 1500s, commanding a beautiful view of the Loire 
 <h2 id="x" style="font-family: verdana;">Chateau Azay-le-Rideau</h2>
 Chateau Azay-le-Rideau is 100% Renaissance, and we love it. We first visited it maybe 15 years ago and have been back three times since. It's not huge or famous, but we can spend a lot of time just sitting and looking at it and enjoying its beauty.
 
-We learned on this trip that for many years this chateau had a collection of portraits of French people unsurpassed anywhere. In the early 1900s much of the collection was sold to ease a financial strain on the family, but some fifty of the best were retained. They were displayed here for the first time in many decades. We saw portraits of royalty and aristocrats. A good addition to the chateau.&nbsp;
+We learned on this trip that for many years this chateau had a collection of portraits of French people unsurpassed anywhere. In the early 1900s much of the collection was sold to ease a financial strain on the family, but some fifty of the best were retained. They were displayed here for the first time in many decades. We saw portraits of royalty and aristocrats. A good addition to the chateau. 
 
 Many rooms are decorated and furnished in styles appropriate to the years of the chateau. We liked seeing those, too. But the star of this show is the chateau itself, so here are some pictures of it.
 
@@ -92,12 +92,12 @@ Many rooms are decorated and furnished in styles appropriate to the years of the
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC01607.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Dinner time! À&nbsp;mange!</em></figcaption>
+	<figcaption><em>Dinner time! À mange!</em></figcaption>
 </figure>
 
 
 
-&nbsp;
+ 
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2021/09/DSC01609.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />

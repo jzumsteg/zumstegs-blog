@@ -11,7 +11,7 @@ thumbnail: 2021/10/DSC01930.jpg
 One day while walking down our street, we saw this in a wall near our cottage:
 
 <figure class = "portrait" >
-	<img src="{{"2021/10/DSC01930.jpg" | prepend: imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/10/DSC01930.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>This well started our search. It's about a hundred yards from our cottage here in Bois-le-Roi.</em></figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ For your viewing pleasure, here are the puits we've found, in no particular orde
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2021/10/DSC01813.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Rue de France, near the railroad.&nbsp;</em></figcaption>
+	<figcaption><em>Rue de France, near the railroad. </em></figcaption>
 </figure>
 
 

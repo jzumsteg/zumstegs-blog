@@ -25,4 +25,4 @@ I gotta say, we love this about Paris (and other big cities): there is always so
 
 Tomorrow: Musée Nissim de Comando.
 
-&nbsp;
+ 

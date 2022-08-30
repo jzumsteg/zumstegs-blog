@@ -88,8 +88,8 @@ And last, the front window of a store that repair sewing machines. Like the book
 
 We were whupped after this day. Dinner, another glass of wine, and sleep.
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 

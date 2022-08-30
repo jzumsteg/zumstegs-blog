@@ -18,7 +18,7 @@ The important thing to remember, and you'll see this in the houses and buildings
 
 We were gone nine days and rather than post one big long boring post about the whole trip, I'll do several posts to cover each of the main places - Strasbourg, Colmar and Mulhouse - and maybe a couple shorter posts about places we visited. Let's start with some pictures of downtown Strasbourg. It will definitely make you think you're in a city smack in the middle of Germany.
 <h2 style="font-family: verdana;">Strasbourg</h2>
-Strasbourg is a big city: about 470,000 people in the city proper and 800,000 in the "urban area" (including suburbs and smaller towns around the city). The central city is on an island of sorts; the Ill river splits north of the city, half goes in a stream to the east and the other half in a stream to the west, and rejoins south of the city.&nbsp;
+Strasbourg is a big city: about 470,000 people in the city proper and 800,000 in the "urban area" (including suburbs and smaller towns around the city). The central city is on an island of sorts; the Ill river splits north of the city, half goes in a stream to the east and the other half in a stream to the west, and rejoins south of the city. 
 <h3 style="font-family: verdana;">The Cathedral</h3>
 The Strasbourg cathedral has several distinctive aspects. Like many churches in Europe, it was built on top of an earlier church, which may have been Catholic or Protestant or pagan. That church was started in the 1100s, largely of Romanesque architecture, solid, with thick walls, small windows and rounded or slightly pointed arches. In the 1200s, as the beautiful Gothic cathedrals were being built in France, work on the Romanesque Strasbourg cathedral was stopped and a Gothic design created. (This was not unusual; many churches in France and Europe had mysterious fires that burned a Romanesque church and allowed a new Gothic structure to be built in its place.) Rather than tearing down the existing Romanesque church, which had a completed apse and altar and transept, the new Gothic design was added onto it; this included the nave and almost all the exterior
 
@@ -26,7 +26,7 @@ The most unusual aspect of the Strasbourg cathedral is its west façade - the ma
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2021/09/DSC00646-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>The Strasbourg Cathedral from the&nbsp;place in front of it. Where most Cathedrals have a façade decorated with statues and a rose window, this cathedral has statues, a rose window and many vertical columns holding arches. This gives the façade a vertical aspect unlike any other cathedral we've seen.</em></figcaption>
+	<figcaption><em>The Strasbourg Cathedral from the place in front of it. Where most Cathedrals have a façade decorated with statues and a rose window, this cathedral has statues, a rose window and many vertical columns holding arches. This gives the façade a vertical aspect unlike any other cathedral we've seen.</em></figcaption>
 </figure>
 
 
@@ -66,7 +66,7 @@ The most unusual aspect of the Strasbourg cathedral is its west façade - the ma
 
 
 <h2 style="font-family: verdana;">Walking Around</h2>
-We did a LOT of walking in Strasbourg. It's a fairly compact city, with interesting things to see just about everywhere.&nbsp;
+We did a LOT of walking in Strasbourg. It's a fairly compact city, with interesting things to see just about everywhere. 
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2021/09/DSC00590.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />

@@ -52,7 +52,7 @@ The weather has, so far this trip, been, oh, "crappy" might describe it. Today w
 
 
 
-&nbsp;
+ 
 
 Oh, well, time to go get some wine, after a stop for lunch and to buy some cheese.
 

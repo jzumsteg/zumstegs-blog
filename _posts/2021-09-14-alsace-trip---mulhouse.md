@@ -17,7 +17,7 @@ In the early 1900s, the Schlumpf family established a textile factory in Mulhous
 
 This was all great, but they spent so much that they imperiled their textile company. In 1977 the workers of the company learned of the enormous collection and the amount of money spent on it at a time the company was paying them low wages, claiming the company wasn't making money. The workers occupied the company offices, Hans and Fritz fled to Switzerland, the company went out of business and the car collection went into limbo.
 
-An association of automobile clubs and organizations stepped in and bought the collection, for a fraction of its value (44 million francs, worth approximately \\$11 million; there are two cars in the collection that today are worth about \\$40 million&nbsp;each!). A couple years later the Cité de l'Automobile opened.
+An association of automobile clubs and organizations stepped in and bought the collection, for a fraction of its value (44 million francs, worth approximately \\$11 million; there are two cars in the collection that today are worth about \\$40 million each!). A couple years later the Cité de l'Automobile opened.
 
 I know, a picture is worth a thousand words, yada-yadda-yadda. Here ya go:
 <h2 style="font-family: verdana;">Bugatti Royales</h2>
@@ -57,7 +57,7 @@ The Cité de l'Automobile has two of the original Royales. The museum was able t
 
 
 
-The two original Royales would likely go at auction for around \\$40 million each. The last time one was sold it brought \\$20 million - in 1999. The replica would bring much less than that, not being an actual production car.&nbsp;
+The two original Royales would likely go at auction for around \\$40 million each. The last time one was sold it brought \\$20 million - in 1999. The replica would bring much less than that, not being an actual production car. 
 <h2 style="font-family: verdana;">Other interesting cars, in no particular order:</h2>
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC01091.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -209,7 +209,7 @@ The French railroad system is run by the Société Nationale des Chemins de Fer 
 
 
 
-Another museum that's not for everybody, but another museum we really enjoyed.&nbsp;
+Another museum that's not for everybody, but another museum we really enjoyed. 
 <h2 style="font-family: verdana;">Musée de l'Impression sur Étoffes (The Museum of Printed Textiles)</h2>
 Yes, indeed, there is a museum of printed textiles in Mulhouse and we went to it. And enjoyed this one, too.
 
@@ -217,7 +217,7 @@ Turns out that until the late 1700s, printed textiles came from India and pretty
 
 In the 1820s the manufacturers and designers formed an association that collected and preserved the designs. This became the first Musée de l'Impression sur Étoffes. Since then the museum has expanded its collection to include examples of the machines used, and excellent displays of the design and manufacturing process.
 
-Now, for whatever reason, textiles interest me, so when Laurie learned about this museum, we immediately decided to visit. It's a small place, so only took about an hour (plus an hour for Mary and Laurie in the museum's shop).&nbsp;
+Now, for whatever reason, textiles interest me, so when Laurie learned about this museum, we immediately decided to visit. It's a small place, so only took about an hour (plus an hour for Mary and Laurie in the museum's shop). 
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2021/09/DSC01212.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -284,4 +284,4 @@ Now, for whatever reason, textiles interest me, so when Laurie learned about thi
 <h2 style="font-family: verdana;">Home!</h2>
 Phew! Now you know all about our nine-day sojourn in Alsace. We were glad to return to our home base in Bois-le-Roi, but we can definitely envision a future return trip, especially to Strasbourg, which deserves a few more days than we gave it.
 
-&nbsp;
+ 

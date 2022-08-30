@@ -14,7 +14,7 @@ We had a great four days in Paris, though Tuesday started with an unbelievable d
 <h2 style="font-family: verdana;">Notre Dame</h2>
 You likely remember seeing pictures of Notre Dame burning in April, 2019, and I wrote a bit about it after our first stay in Paris in August. Restoration has just started; engineers worked two years to stabilize the Cathedral enough that the work of restoration could start. This beautiful building came close to completely collapsing in the fire; huge kudos to the firefighters who saved it.
 
-After much discussion, the powers-that-be decided to restore Notre Dame to its pre-fire appearance (a decision with which I whole-heartedly agree). There will surely be some changes and it will be much more resistant to catastrophes, but it will look almost exactly as it has for 800 years.&nbsp;
+After much discussion, the powers-that-be decided to restore Notre Dame to its pre-fire appearance (a decision with which I whole-heartedly agree). There will surely be some changes and it will be much more resistant to catastrophes, but it will look almost exactly as it has for 800 years. 
 
 Restoration schedule: François Macron, President of France, wants it open for the 2024 Olympics to be held in France. It may be open then, but the schedule for full restoration calls for almost twenty years(!) of work.
 
@@ -161,7 +161,7 @@ The other favorite church is Saint-Severin, just a hundred yards from Saint-Juli
 <h2 style="font-family: verdana;">River Walk</h2>
 After visiting Saint-Julian-le-Pauvre and Saint-Severin, it was time to start back. We walked to the north side of the Seine (the Right Bank, as it's known) and walked along the river.
 
-Our first few trips to Paris, I whined about how few places there were where people could walk along the river. Fortunately, things have changed, as there are now several miles of walks along the Seine. Right next to the river runs a former two-lane freeway that transported tens of thousands of cars a day. A few years back the city closed the road to cars on Sundays and opened it to walkers, runners, skateboarders, bikers, strollers, scooters.&nbsp; Then a couple years ago the mayor of Paris closed it off permanently, thus earning the ire of thousands of motorists. The payoff, though, has been fabulous for us walkers.
+Our first few trips to Paris, I whined about how few places there were where people could walk along the river. Fortunately, things have changed, as there are now several miles of walks along the Seine. Right next to the river runs a former two-lane freeway that transported tens of thousands of cars a day. A few years back the city closed the road to cars on Sundays and opened it to walkers, runners, skateboarders, bikers, strollers, scooters.  Then a couple years ago the mayor of Paris closed it off permanently, thus earning the ire of thousands of motorists. The payoff, though, has been fabulous for us walkers.
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/10/DSC01778.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />

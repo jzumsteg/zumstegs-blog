@@ -47,7 +47,7 @@ We have been through Chateau Fontainebleau three or four times before, and while
 
 <figure class="landscape">
 	<img src="{{"/assets/images/2021/10/DSC01867.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image"/>
-	<figcaption><em>The Ball Room, probably our favorite room in the chateau. &nbsp;Henry IV (ruled 1589-1610) had most of the decoration done during his reign. There are many triple "new moons" ("crescents," in French, croissants), Henri's symbol, and intertwined Hs and Ms (the M for Maria d'Medici, his second wife).</em></figcaption>
+	<figcaption><em>The Ball Room, probably our favorite room in the chateau.  Henry IV (ruled 1589-1610) had most of the decoration done during his reign. There are many triple "new moons" (</em>croissants<em> in French &mdash; "crescents"), Henri's symbol, and intertwined Hs and Ms (the M for Maria d'Medici, his second wife).</em></figcaption>
 </figure>
 
 

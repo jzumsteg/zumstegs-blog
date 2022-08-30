@@ -60,7 +60,7 @@ Lots of beautiful old buildings line the streets of Colmar. I might point out th
 
 
 <h2 style="font-family: verdana;">Musée Unterlinden</h2>
-This museum is the crown of Colmar's cultural scene. It contains quite a number of religious art works, including an altar triptych that is quite famous. Now I have to say that religious art is not my favorite genre, so I wasn't exactly deeply interested in much of this, but one aspect did catch my interest - polychrome wood carvings and statues.&nbsp;
+This museum is the crown of Colmar's cultural scene. It contains quite a number of religious art works, including an altar triptych that is quite famous. Now I have to say that religious art is not my favorite genre, so I wasn't exactly deeply interested in much of this, but one aspect did catch my interest - polychrome wood carvings and statues. 
 
 But first - the cloister. Laurie and I have become fans of cloisters and try to visit nearby ones as we travel. Cloisters were places of walking mediations in convents and monasteries and it seems to us that they maintain that sense of peace and tranquility to this day. Musée Unterlinden is housed in a former convent and many of the rooms are located off this cloister. We walked around it several times, then found a couple chairs to sit in and enjoy the sun for a while.
 <figure class = "portrait">
@@ -222,9 +222,9 @@ But there's hope: keeping in mind our friend Ken's observation that "The well-tr
 
 We enjoyed visiting Riquewihr but honestly, it's good for a couple hours only. And in August? No way.
 <h2>A Surprise: They Make Wine in Alsace!</h2>
-Our first night we had dinner in a nice little restaurant in Colmar marked by two things. One, Laurie and I had a main course of pork that ranks among the best pork we have ever had. Maybe it wasn't the pork so much (though it was excellent) but the sauce! Holy cow: some sort of mushroom gravy. Honestly, if I could have ordered a bowl of just that, I would have.&nbsp;
+Our first night we had dinner in a nice little restaurant in Colmar marked by two things. One, Laurie and I had a main course of pork that ranks among the best pork we have ever had. Maybe it wasn't the pork so much (though it was excellent) but the sauce! Holy cow: some sort of mushroom gravy. Honestly, if I could have ordered a bowl of just that, I would have. 
 
-Two, we had a really nice Alsace wine with dinner, and realized the cooperative that sold that wine was about a twenty minute drive from Colmar. So the next day, off we went.&nbsp;
+Two, we had a really nice Alsace wine with dinner, and realized the cooperative that sold that wine was about a twenty minute drive from Colmar. So the next day, off we went. 
 
 This cooperative sold wines from many local wineries, under the cooperative's label. They had some wine:
 
@@ -242,6 +242,6 @@ This cooperative sold wines from many local wineries, under the cooperative's la
 
 
 
-Here's a crazy thing about this wine-buying: the nice wine we'd had at dinner the night before? \\$7.50 per bottle.&nbsp;
+Here's a crazy thing about this wine-buying: the nice wine we'd had at dinner the night before? \\$7.50 per bottle. 
 
 That's it for Colmar and the area around it. We are glad we came to Colmar and saw Riquewihr. It's a new and interesting area for us. Not sure it's on our list of places to re-visit, though. Next post: Mulhouse and its amazing museums.

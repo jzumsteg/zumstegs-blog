@@ -61,7 +61,7 @@ Tuesday we went to one of our favorite small towns, Moret-sur-Loing (for more on
 </figure>
 
 </p>
-&nbsp;
+ 
 
 We also had some very nice meals:
 
