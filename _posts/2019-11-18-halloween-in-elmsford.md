@@ -10,24 +10,22 @@ layout: post
 We made one more trip this year - to Elmsford NY for Halloween. Craig and Annie's neighborhood really does Halloween big: the majority of the houses are decorated, from a few pumpkins to full-yard displays of ghosts, skeletons, ghouls, laser light shows and so forth. The night starts with a neighborhood party and then everyone goes out for goodies. This year the number of kids was down because it was colder and wetter than it has been, but Craig and Annie had somewhere near 200 kids come to their door. Way, way fun!
 
 Now, this is going to be a long post so I want to first put in some pictures of Clara and Henry at Halloween. I apologize that the picture quality is not so great; I was taking videos and the quality of a still from the video is not the best.
-<div class="mceTemp"></div>
 
-
-<figure class = "landscape">
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/Screen-Shot-2019-11-17-at-3.24.50-PM.png" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
+	<figcaption>Henry waving to the crowd as he starts the school parade. He's one of the Paw Patrol characters.</figcaption>
 </figure>
 
- Henry waving to the crowd as he starts the school parade. He's one of the Paw Patrol characters.[/caption]
+ 
 
-<figure class = "landscape">
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/Screen-Shot-2019-11-17-at-3.26.09-PM.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure class = "landscape">
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/Screen-Shot-2019-11-17-at-3.29.58-PM.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Clara and her best friend Daisy, going as a peanut and butter sandwich - Daisy is peanut butter and Clara jelly.</em></figcaption>
 </figure>
@@ -36,19 +34,19 @@ Now, this is going to be a long post so I want to first put in some pictures of 
 
  
 
-<figure class = "landscape">
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/Screen-Shot-2019-11-17-at-3.27.40-PM.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Tooth Fairy, as played by the principal of Clara and Henry's school. Gotta admire a guy who will do this!</em></figcaption>
 </figure>
 
 
 
-<figure class = "landscape">
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC09053-3.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "landscape">
+ <figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC09056-3.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

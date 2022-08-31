@@ -41,7 +41,7 @@ The bridge across the Hudson was surprising. We figured there might be a dozen p
 
 After walking across the bridge and back - along with hundreds of folks walking, running, strolling, sauntering, riding bicycles/scooters/a unicyle (yes!) - we headed to Kingston, about twenty minutes north. We found the restaurant Craig recommended and had an excellent lunch. Then we walked around town and were gob-smacked at what we saw. This town (about 22,000 folks) has many beautiful buildings: commercial, residential, governmental and churches. We just loved it.
 
-First, four historic buildings; the last picture explains their connection to history.
+First, four historic buildings, occupying the four corners of an intersection; the last picture explains their connection.
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2019/06/DSC08502.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -126,7 +126,8 @@ Now, a random collection of buildings we saw on a short walk around one area of 
 
 
 
-I could get into politics if I could find a group with the right idea about where to meet:<figure class = "landscape">
+I could get into politics if I could find a group with the right idea about where to meet:
+<figure class = "landscape">
 	<img src="{{"/assets/images/2019/06/DSC08525.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

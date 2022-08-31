@@ -21,12 +21,12 @@ The tallest of the Redwoods is named Hyperion, a couple inches short of 380 feet
 
 But you can see many of these giants, gathered together in groves that will take your breath away (and put a crick in your neck from looking up). Many trees we did see are around 300 ft tall.
 
-<figure class = "landscape">
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08653.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "landscape">
+ <figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08639.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

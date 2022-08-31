@@ -11,7 +11,7 @@ thumbnail: 2022/01/image-7.jpg
 I know that thousands of readers look at this blog to read about our travels inside and outside the U.S. of A., and so may be slightly disappointed that this blog is about our Christmas trip to St. Louis. Honestly, I won't feel slighted if you skip right on by. But a big reason I do this blog is so that Laurie and I can look back and say, 'Oh, yeah, we remember that." And if you want to see what the Zumsteg family looks like now, and learn a little bit about St. Louis, give it a read!  
 
 <h2>Some St. Louis Background</h2>
-We actually have an old connection with St. Louis. In 1853 my great-grandfather, Wedillin "Wendall" Zumsteg, then six years old, emigrated with his parents and some family members (don't know who yet) from a tiny village in Switzerland, about a mile south of the Switzerland/Germany border. Where did he emigrate to? St. Louis. For unknown reasons a few - maybe more than a few -  Zumsteg families made that trip in the early 1850s. Many moved on to St. Joseph, MO, and my Zumsteg ancestors moved to a tiny town, Memphis, Missouri, on the border between Missouri and Iowa.
+We actually have an old connection with St. Louis. In 1853 my great-grandfather, Windellin "Wendall" Zumsteg, then six years old, emigrated with his parents and some family members (don't know who yet) from a tiny village in Switzerland, about a mile south of the Switzerland/Germany border. Where did he emigrate to? St. Louis. For unknown reasons a few - maybe more than a few -  Zumsteg families made that trip in the early 1850s. Many moved on to St. Joseph, MO, and my Zumsteg ancestors moved to a tiny town, Memphis, Missouri, on the border between Missouri and Iowa.
 
 Today there are quite a few Zumstegs in Missouri. Craig said that he once started to spell his name for someone and they stopped him, since they knew other Zumstegs. Someday we'll make a run up to Memphis (population: 1,700) to see the town where my grandfather was born, and visit the cemetery where his parents (my great-grandparents) and several siblings are buried.
 
@@ -130,7 +130,9 @@ We walked through a Farmers' Market in Kirkwood which was selling trees and saw 
 
 
 <h2>St. Charles</h2>
-We visited St. Charles, about 30 minutes north of Craig and Annie's house, on the Missouri River. St. Charles has many beautiful restored buildings from the late 1800's/early-1900s, but honestly it's a little cutesy, especially decorated for Christmas. I wrote some about the dilemma for towns like this when we visited one in France: to stay alive, they have to attract tourists; to attract tourists, they have to prettify themselves far beyond what they looked like in their prime. Prettifying themselves detracts from the "authenticity" of the town, but draws crowds of tourists and sightseers, which keeps the town alive.  No easy answer here - I'd like to see the towns maintain their 100-year-old selves, but then they'd disappear for lack of a reason for existing. Anyway, St. Charles:
+We visited St. Charles, about 30 minutes north of Craig and Annie's house, on the Missouri River. St. Charles has many beautiful restored buildings from the late 1800's/early-1900s, but honestly it's a little cutesy, especially decorated for Christmas. 
+
+I wrote some about the dilemma for towns like this when we visited one in France: to stay alive, they have to attract tourists; to attract tourists, they have to prettify themselves far beyond what they looked like in their prime. Prettifying themselves detracts from the "authenticity" of the town, but draws crowds of tourists and sightseers, which keeps the town alive.  No easy answer here - I'd like to see the towns maintain their 100-year-old selves, but then they'd disappear for lack of a reason for existing. Anyway, St. Charles:
 
 Henry came down with some type of flu (wasn't COVID-Omicron, evidently, as he tested negative) and for a couple days he definitely was not his high-energy self:
 
@@ -162,7 +164,7 @@ Then, we had to fly back to Seattle.
 <h2>Return Flight</h2>
 Now things got, um, "interesting." First, Laurie caught Henry's flu. Tuesday night (we left Wednesday), she started to hack and cough, had some head congestion and a bit of a sore throat. Departure day she felt worse and continued to go downhill as the day progressed.
 
-On the other side of the country - Seattle, that is - a huge snow storm had snarled air travel big-time for the last four or five days. The day before, the St. Louis - Seattle flight was cancelled and another big snow storm was forecast to hit Seattle late Wednesday night, a couple hours after our arrival. So we were a little worried about getting home. Fortunately, the flights operated on our departure day and we arrived at SeaTac at exactly 10 p.m., one hour late. "No problem," thought I. "We'll get our bags, catch an Uber or Lyft and be home by 11:30." Right.
+On the other side of the country - Seattle, that is - a huge snow storm had snarled air travel big-time for the last four or five days. The day before, the St. Louis - Seattle flight was cancelled and another big snow storm was forecast to hit Seattle late Wednesday night, a couple hours after our arrival. So we were a little worried about getting home. Fortunately, the flights operated on our departure day and we arrived at SeaTac at exactly 10 p.m., one hour late. "No problem," thought I. "We'll get our bags, catch an Uber or Lyft and be home by 11:30." Wrong.
 
 Unfortunately, that "late Wednesday night" snowstorm had arrived three hours *before* our arrival, and SeaTac was a mess. We waited on the plane for an hour before it got to a gate, then waited 50 minutes to get our bags - in a baggage claim area with *thousands* of people. During this time I was checking, with growing dismay, the Uber and Lyft apps. A ride from the airport to home usually is about \\$32-\\$34, plus tip. Lyft was now showing that ride would cost \\$155, but not to worry about the cost, because they had zero drivers available. Uber was saying \\$85, and they had "few drivers" so couldn't guarantee that we could get a ride. Gulp.
 
@@ -181,7 +183,7 @@ The one wise decision we'd made before we left ten days earlier was to not turn 
 
 
 <h2>Flu Update</h2>
-It's twelve days since Laurie came down with this flu. She says she has never been so sick in her life, and I believe it. It almost certainly was not COVID, since no one around her caught it and rapid transmission is the key marker of COVID these days. She never had a fever - another COVID symptom - nor trouble breathing nor the dry cough of COVID (but she surely had a cough; a terrible cough that lasted until just the last day or so). 
+It's twelve days since Laurie came down with this flu. She says she has never been so sick in her life, and I believe it. It almost certainly was not COVID, since no one around her caught it and rapid transmission is a key marker of COVID these days. She never had a fever - another COVID symptom - nor trouble breathing nor the dry cough of COVID (but she surely had a cough; a terrible cough that lasted until just the last day or so). 
 
 Our doc and our resident infectious disease expert believe this was a case of the 2022 flu, and they also say that this year's flu is the most virulent in years. Laurie believes it! Almost two weeks after she felt the first symptoms, she's starting to feel human again. 
 

@@ -43,7 +43,7 @@ You don’t have to learn French to improve your time in Paris but learning just
 
 ***Bonjour*** -  see above  
 ***S’il vous plait*** (Seal voo play). Please.   
-**Merci** (Mare-see). Thank you.  
+***Merci*** (Mare-see). Thank you.  
 
 If you learn and use those three words, I guarantee that your interactions with French people will be smoother and friendlier.
 
