@@ -22,7 +22,7 @@ Here are some pix taken in the stores at which we shop. We think that fruit and 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}jpeg"/>
+	<img src="{{"/assets/images/2021/10/IMG_0642.jpeg"  | prepend: site.baseurl | prepend: site.url }}" alt="Image"/>
 	<figcaption><em>Really fresh green beans, and lots of them.</em></figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Here are some pix taken in the stores at which we shop. We think that fruit and 
 
 
 <figure class = "landscape">
-	<img src="{{site.url}}jpeg"/>
+	<img src="{{"/assets/images/2021/10/IMG_4462.jpeg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Laurie had to fight this head of lettuce for ten minutes to get it into a bag.</em></figcaption>
 </figure>
 

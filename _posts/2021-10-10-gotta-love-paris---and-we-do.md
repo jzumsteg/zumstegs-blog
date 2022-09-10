@@ -14,7 +14,7 @@ We had a great four days in Paris, though Tuesday started with an unbelievable d
 <h2 style="font-family: verdana;">Notre Dame</h2>
 You likely remember seeing pictures of Notre Dame burning in April, 2019, and I wrote a bit about it after our first stay in Paris in August. Restoration has just started; engineers worked two years to stabilize the Cathedral enough that the work of restoration could start. This beautiful building came close to completely collapsing in the fire; huge kudos to the firefighters who saved it.
 
-After much discussion, the powers-that-be decided to restore Notre Dame to its pre-fire appearance (a decision with which I whole-heartedly agree). There will surely be some changes and it will be much more resistant to catastrophes, but it will look almost exactly as it has for 800 years. 
+After much discussion, the powers-that-be decided to restore Notre Dame to its pre-fire appearance (a decision with which I whole-heartedly agree; there were some designs to modernize its appearance. Ack!). There will surely be some changes and it will be much more resistant to catastrophes, but it will look almost exactly as it has for 800 years. 
 
 Restoration schedule: François Macron, President of France, wants it open for the 2024 Olympics to be held in France. It may be open then, but the schedule for full restoration calls for almost twenty years(!) of work.
 

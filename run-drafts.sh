@@ -1,1 +1,2 @@
-bundle exec jekyll serve --livereload --host 0.0.0.0 --config "_config.yml,_config-dev.yml" --trace --drafts --watch
+echo Running with drafts on :4000
+bundle exec jekyll serve --livereload --host 0.0.0.0 --config "_config.yml,_config_dev.yml" --trace --drafts --watch
