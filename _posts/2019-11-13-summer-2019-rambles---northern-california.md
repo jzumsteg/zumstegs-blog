@@ -11,7 +11,7 @@ We stayed home this year and decided to make a couple local trips, here in the g
 
 Our first trip was in late-August. We spent a couple days in the Redwoods of northern California and at Ft. Bragg, farther south but still in northern California. The second ramble was to northeastern Oregon, where we visited the 37,000 acre Zumwalt Prairie, one of a few remaining areas of Northwest Prairie Grass. First, the Redwoods.
 <h2>Northern California Redwoods</h2>
-Me and the Redwoods go way back. When I was growing up just south of San Francisco, my family camped in the Redwoods many times. I remember enjoying the camping, but I can't say that I enjoyed it because I was in the Redwoods; more that I was camping, getting dirty, falling in creeks and rivers and having some fun. Then Laurie and I spent a few days in the Redwoods on our honeymoon, some mumble-mumble-mumble years ago. When Derek and Craig were young and we were still camping, we came here for a few days. It was then that I began to really appreciate how beautiful these groves were.
+Me and the Redwoods go way back. When I was growing up just south of San Francisco, my family camped in the Redwoods many times. I remember enjoying the camping, but I can't say that I enjoyed it because I was in the Redwoods; more that I was camping, getting dirty, falling in creeks and rivers and having some fun. Then Laurie and I spent a few days in the Redwoods on our honeymoon, some mumble-mumble years ago. When Derek and Craig were young and we were still camping, we came here for a few days. It was then that I began to really appreciate how beautiful these groves were.
 
 In 2014, we met our friends Mary and Gilles in Napa and drove up to the Redwoods. On that trip these trees just bowled me over. I said then that walking into groves of Redwoods is like stepping inside a Gothic cathedral in France: columns stretching upward almost out of sight, near-silence, even when there are people in the grove, beautiful sights no matter where you look. When we left the redwoods that trip, we vowed to return soon. Only took us five years...
 
@@ -77,7 +77,7 @@ But you can see many of these giants, gathered together in groves that will take
 	<figcaption></figcaption>
 </figure>
 
- <a href="http://zumsteg.us/?attachment_id=6185" rel="attachment wp-att-6185">I </a><figure class = "portrait">
+<figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC08600.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

@@ -7,4 +7,4 @@ math: true
 mermaid: true
 layout: post
 ---
-Here is a draft post
+Here is a draft post.

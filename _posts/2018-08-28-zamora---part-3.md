@@ -30,7 +30,7 @@ The Museo Santa Semana here has many of the *pasos* used in Zamora's Holy Week 
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2018/08/DSC04595.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption>Pasos *used in the Santa Semana processions in Zamora.* </figcaption>
+	<figcaption>Pasos used in the Santa Semana processions in Zamora. </figcaption>
 </figure>
 
 

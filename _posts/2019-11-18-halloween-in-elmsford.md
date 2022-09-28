@@ -55,7 +55,7 @@ Now, this is going to be a long post so I want to first put in some pictures of 
 <h2>Rambles around Elmsford</h2>
 For a couple reasons we saw more interesting places around Elmsford on this trip than on all our previous trips combined: with Henry in all-day Pre-K, Craig had more time to do stuff with us; and with two cars (see: <a href="http://zumsteg.us/?p=6117">A second car</a>) we were able to get out on our own much more.
 <h2>Storm King Art Center</h2>
-We learned about Storm King Art Center when we saw a PBS Newshour segment on the artist Andy Goldsworthy and a wall he was building at a museum in Kansas City. The wall -  a low slate wall hand-built of local materials - fascinated us and in reading more about him, we learned that he's built his first stone wall at the Storm King Art Center, about 45 minutes from Craig and Annie.
+We learned about Storm King Art Center when we saw a PBS Newshour segment on the artist Andy Goldsworthy and a wall he was building at a museum in Kansas City. The wall -  a low slate wall hand-built of local materials - fascinated us and in reading more about him, we learned that he built his first stone wall at the Storm King Art Center, about 45 minutes from Craig and Annie.
 
 Now it turned out that on Saturday, Annie needed some quiet time to work on a proposal so Craig loaded us and Clara and Henry into the car and off we went. Storm King is a 500-acre park dedicated to outdoor modern sculpture. Now I can tell you that Laurie and I have not been great aficionados of modern art, but I can also tell you that after seeing Storm King, we're getting there, especially as it relates to sculpture. I think the setting for large abstract art makes a huge difference, and Storm King has so much space people can see the pieces from afar, from close up, underneath them, and from all around them.
 
@@ -90,6 +90,9 @@ First we took a tram around the park, which was definitely Clara and Henry's hig
 
 
 Why we love Andy Goldsworthy's wall we can't explain. I guess that's art: you like it or you don't and sometimes (often?) you can't explain why you like it or don't. We hope to see more of Mr. Goldsworthy's work.
+
+(Want to see Andy Goldworthy's wall in Kansas City: [KC Wall]({% post_url 2022-06-13-back-in-st.-louis %})  - scroll down to see it.)
+
 
 Storm King has about 150 pieces of art spread throughout its 500 acres. This means that these sculptures - often big and sometimes huge - can be seen as they should be seen: in the open, with plenty of space around them.
 

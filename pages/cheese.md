@@ -159,5 +159,5 @@ Favorites:
 Hard to say, really, but in no order, we really like:  
 Brie, especially Brie de Nangis  
 Fourme d'Ambert. You can get this in varying levels of sharpness; we like it as sharp as possible  
-Morbier. A soft cheese with a streak of bleu in the middle.  
+Morbier. A soft cheese with a thin layer of ash in the middle.  
 Cantal. Our favorite of the cured cheeses.  

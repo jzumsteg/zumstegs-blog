@@ -32,7 +32,9 @@ Now, given that there are only 800 people living in Joseph, one cannot expect a 
 
 
 <h2>The Duckett Barn</h2>
-This is one of just a few structures on the Zumwalt Prairie. At the Duckett Barn is a small display set up by the Nature Conservancy, with information about the preserve. We also had a personal interest in seeing the barn: we were with our Portland friends Marv and Becky and Becky's family is friends with the descendants of the Ducketts who built this barn. <figure class = "landscape">
+This is one of just a few structures on the Zumwalt Prairie. At the Duckett Barn is a small display set up by the Nature Conservancy, with information about the preserve. We also had a personal interest in seeing the barn: we were with our Portland friends Marv and Becky and Becky's family is friends with the descendants of the Ducketts who built this barn. 
+
+<figure class = "landscape">
 	<img src="{{"/assets/images/2019/11/DSC08773.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
