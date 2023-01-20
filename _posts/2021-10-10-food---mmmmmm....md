@@ -103,14 +103,14 @@ Here are some pix taken in the stores at which we shop. We think that fruit and 
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/10/IMG_0758.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Probably the most beautiful patisserie cakes we've ever seen. Also the most expensive: for a cake serving four people, \\$35 - \\$45; for a six-person cake, \\$40 - \\$70!</em></figcaption>
+	<figcaption><em>Probably the most beautiful patisserie cakes we've ever seen. Also the most expensive: for a cake serving four people, $35 - $45; for a six-person cake, \$40 - $70!</em> We're talking around \$10 per person!</figcaption>
 </figure>
 
 
 <h2 style="font-family: verdana;">Miscellaneous Food Pix</h2>
 <figure class = "landscape">
 	<img src="{{site.url}}jpeg"/>
-	<figcaption><em>France has taken to the hamburger in a big way, but not like American hamburgers. We have not seen one that we could pick up and eat; a hamburger here is a knife-and-fork endeavor. This one is probably the shortest we have seen, and I couldn't have gotten a bite of it.</em></figcaption>
+	<figcaption><em>(My hamburger picture disappeared. I'll find it Real Soon Now.) France has taken to the hamburger in a big way, but not like American hamburgers. We have not seen one that we could pick up and eat; a hamburger here is a knife-and-fork endeavor. This one is probably the shortest we have seen, and I couldn't have gotten a bite of it.</em></figcaption>
 </figure>
 
 

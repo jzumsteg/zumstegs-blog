@@ -21,8 +21,6 @@ Then we lugged our stuff back to the hotel and found this lovely lobby and recep
 	<figcaption></figcaption>
 </figure>
 
-
-
 This is it: the entire lobby and reception area of the hotel. No one was there. We rang the bell a few times and a fellow appeared and gave us the impression of not caring a hoot about anything, including his newly-arrived guests. But then he said we needed a bigger room because I’m tall, so he gave us a room upgrade, which was nice. And we were glad he did, because the upgraded room was none too big. We looked in a couple of the regular rooms - they were really small and we would not have been happy in one. Anyway, in the end, the hotel turned out fine, if not exactly luxurious, and Laurie pointed out that it often had the feel of Fawlty Towers. True!
 
 And the kind-of-grumpy fellow at the desk? We think he was grumpy because he did everything at the hotel, except housekeeping. He was at the desk at 11 o'clock at night, and in the breakfast room when it opened at 7 the next morning. Overworked? Oh, yeah. In fact, he turned out to be a good person.

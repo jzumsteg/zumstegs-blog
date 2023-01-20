@@ -2,7 +2,7 @@
 title: Chateau Fontainebleu - inside
 author: John Zumsteg
 date: Tue, 19 Oct 2021 20:52:59 +0000
-category: [Places, Ambles]
+category: [Places, Ambles, France]
 math: true
 mermaid: true
 layout: post

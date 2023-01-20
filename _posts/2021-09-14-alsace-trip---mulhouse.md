@@ -183,7 +183,7 @@ The French railroad system is run by the Société Nationale des Chemins de Fer 
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC01185.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>A streamlined steam locomotive. This one was set up so that it appeared to be running, with the wheels turning and all the mechanical components to-ing and fro-ing.</em></figcaption>
+	<figcaption><em>A streamlined steam locomotive. This one was set up so that it appeared to be running, with the wheels turning and all the mechanical components to-ing and fro-ing. The streamlining makes this one beautiful locomotive. I'd love to see one running.</em></figcaption>
 </figure>
 
 

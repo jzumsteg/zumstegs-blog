@@ -9,15 +9,17 @@ layout: post
 thumbnail:  2021/09/DSC01318.jpg
 ---
 <p class="p1"><span class="s1">If you once had a teenage son or daughter, they might well look at a picture of Chateau Cheverny and think, “That seems familiar…” If they were to look at the picture below and cover up the right and left outer wings, it might come to mind: this is Captain Haddock’s Marlinspike Hall, the chateau in the Tintin books that were so popular - with our sons, for sure.</span></p>
-<figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/tintin-386x254-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
-</figure>
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC01318.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
+
+<figure class = "landscape">
+	<img src="{{"/assets/images/2021/09/tintin-386x254-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption></figcaption>
+</figure>
+
 
 
 <p class="p1"><span class="s1">Chateau de Cheverny has a long and convoluted history. In the early 1300s the land was owned by the Herault family. A fortified chateau was here in th</span><span class="s1">e early 1500s, still owned by the Herault family. Then things get muddy: the fortified chateau was torn down but no one seems to know exactly when or what it looked like!<span class="Apple-converted-space"> Another chateau - less fortified - was then built here.</span></span></p>
@@ -95,7 +97,7 @@ And a note from Captain Haddock, Tintin's guardian...
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC01364.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>The top sign says, "Chateau for Sale." On the bottom sign Captain Haddock has added some words to make it say, "Chateau is no longer for sale." </em></figcaption>
+	<figcaption><em>The top sign says, "Chateau for Sale." On the bottom sign Captain Haddock has added some words to make it say, "This chateau is no longer for sale." </em></figcaption>
 </figure>
 
 

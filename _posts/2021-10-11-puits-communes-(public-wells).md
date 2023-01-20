@@ -2,7 +2,7 @@
 title: Puits Communes (Public Wells)
 author: John Zumsteg
 date: Mon, 11 Oct 2021 14:40:43 +0000
-category: Activities
+category: [France,Activities]
 math: true
 mermaid: true
 layout: post

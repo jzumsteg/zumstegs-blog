@@ -9,7 +9,7 @@ layout: post
 ---
 We're preparing to head off on a four-day trip to the Loire Valley, home of many beautiful chateaus; I'll write a post about that when we return. In the meantime (and afterward) I'll try to post some pictures and scribblings about things we do around our home base, Bois-le-Roi. First up: Chateau Fontainebleau.
 
-We love Chateau Fontainebleau. It has become our go-to place for a walk around when we have some time and don't want to go far for a walk because it's close-by, has beautiful gardens and buildings and a history that we love to contemplate.
+We love Chateau Fontainebleau. It has become our go-to place for a walk around when we have some time and don't want to go far; it's close-by, has beautiful gardens and buildings and a history that we love to contemplate.
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC01293.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -26,7 +26,7 @@ We love just walking around the beautiful grounds of the chateau. There are mile
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC01285.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>The Cour Ovale, then center of the chateau.</em></figcaption>
+	<figcaption><em>The Cour Ovale, center of the chateau. (Update: this picture was taken through a gate. I've always wanted to walk inside the Cour Ovale but it has never been open to the public. The people seen in this picture alerted me that maybe it was now open. In fact, if you buy a ticket to tour the chateau, it now allows entrance to the Cour Ovale. We did this later in this trip and, as I expected, we loved being in the Cour.)</em></figcaption>
 </figure>
 
 

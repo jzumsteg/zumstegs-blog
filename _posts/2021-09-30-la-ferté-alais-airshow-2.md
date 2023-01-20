@@ -2,7 +2,7 @@
 title: La Ferté Alais Airshow
 author: John Zumsteg
 date: Thu, 30 Sep 2021 06:55:12 +0000
-category: Activities
+category: [France, Activities]
 math: true
 mermaid: true
 layout: post
@@ -37,7 +37,7 @@ Herve took a flight in a 1930s Boeing Stearman. There were quite a few airplanes
 
 
 <h2 style="font-family: verdana;">Really Old Planes</h2>
-These are planes from the 1900-1914 era. Even though the United States had the first real heavier-than-air aircraft (the famous Wright brothers and their Wright Flier), France led the aviation world during these years. These planes are pretty much perfect replicas of early French airplanes. All of these planes flew together in the afternoon and what struck me - besides how flimsy they are - is how slow they are; I'd guess they never got over about 50 miles per hour.
+These are planes from the 1905-1914 era. Even though the United States had the first real heavier-than-air aircraft (the famous Wright brothers and their Wright Flier), France led the aviation world during the years immediately following the Wright Brothers' accomplishment. These planes are pretty much perfect replicas of early French airplanes. All of these planes flew together in the afternoon and what struck me - besides how flimsy they are - is how slow they are; I'd guess they never got over about 50 miles per hour.
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC00525.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
@@ -110,7 +110,7 @@ These are planes from the 1900-1914 era. Even though the United States had the f
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC00517.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>A Douglas A1 Skyraider., known as the "Spad" in the Navy. When I was in the Navy, these had just been retired from active combat in Vietnam. Spad pilots garnered more respect than any other pilots, including fighter pilots. These planes were hugely powerful and a real handful to fly. I cannot imagine how much it must cost to restore and fly something like this; it must burn a few hundred dollars of fuel per flight hour.</em></figcaption>
+	<figcaption><em>A Douglas A1 Skyraider, known as the "Spad" in the Navy. When I was in the Navy, these had just been retired from active combat in Vietnam. Spad pilots garnered more respect than any other pilots, including fighter pilots. These planes were hugely powerful and a real handful to fly. I cannot imagine how much it must cost to restore and fly something like this; it must burn three or four hundred dollars of fuel per flight hour.</em></figcaption>
 </figure>
 
 

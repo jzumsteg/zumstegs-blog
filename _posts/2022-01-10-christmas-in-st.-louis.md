@@ -130,7 +130,7 @@ We walked through a Farmers' Market in Kirkwood which was selling trees and saw 
 
 
 <h2>St. Charles</h2>
-We visited St. Charles, about 30 minutes north of Craig and Annie's house, on the Missouri River. St. Charles has many beautiful restored buildings from the late 1800's/early-1900s, but honestly it's a little cutesy, especially decorated for Christmas. 
+We visited St. Charles, about 30 minutes north of Craig and Annie's house, on the Missouri River. St. Charles has many beautiful restored buildings from the late 1800's/early-1900s, but honestly, it's a little cutesy, especially decorated for Christmas. 
 
 I wrote some about the dilemma for towns like this when we visited one in France: to stay alive, they have to attract tourists; to attract tourists, they have to prettify themselves far beyond what they looked like in their prime. Prettifying themselves detracts from the "authenticity" of the town, but draws crowds of tourists and sightseers, which keeps the town alive.  No easy answer here - I'd like to see the towns maintain their 100-year-old selves, but then they'd disappear for lack of a reason for existing. Anyway, St. Charles:
 
