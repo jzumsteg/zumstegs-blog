@@ -23,8 +23,8 @@ I know, a picture is worth a thousand words, yada-yadda-yadda. Here ya go:
 <h2 style="font-family: verdana;">Bugatti Royales</h2>
 Six Bugatti Royales were constructed between 1927 and 1933. To give you an idea of their size:
 
-Length: 21.3 ft
-Weight: 7,500 lbs
+Length: 21.3 ft (a Chevrolet Suburban - a huge car in the U.S. - is 18.3 ft long)
+Weight: 7,500 lbs (a Suburban: 5,900 lbs)
 Engine size: 12.7 liters (715 cu. in.) producing 300 hp (that's a lot for that time)
 
 The Cité de l'Automobile has two of the original Royales. The museum was able to build a third (officially, a replica) from a spare chassis, motor and spare parts in the museum's possession and then hand-building a body for it!
