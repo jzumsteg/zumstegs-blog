@@ -173,7 +173,7 @@ Riquewihr is a beautiful town in the foothills of the Vosges Mountains. On the s
 </figure>
 
 
-Riquewihr has a challenge that many beautiful small towns in France - and other countries - have: there is not much to keep the town alive except tourism, so the town has to promote its charm. But when the tourists come, much of the town's charm is lost in a sea of people. This is the main street of Riquewihr on a day out of the tourist season; think what it must look like in August:
+Riquewihr has a challenge that many beautiful small towns in France - and other countries - have: there is not much to keep the town alive except tourism, so the town has to promote its charm. To promote its charm, buildings are over-restored, to a condition the never were when the town thrived. Then when the tourists come, much of the town's charm is lost in a sea of people. This is the main street of Riquewihr on a day out of the tourist season; think what it must look like in August:
 <figure class = "portrait">
 	<img src="{{"/assets/images/2021/09/DSC00885.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
@@ -200,8 +200,7 @@ But there's hope: keeping in mind our friend Ken's observation that "The well-tr
 	<figcaption></figcaption>
 </figure>
 
- <a href="http://zumsteg.us/?attachment_id=7000" rel="attachment wp-att-7000">
-</a> <figure class = "portrait">
+<figure class = "portrait">
 	<img src="{{"/assets/images/2021/09/DSC00919.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

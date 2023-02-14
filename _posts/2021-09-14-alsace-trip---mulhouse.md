@@ -9,7 +9,7 @@ layout: post
 ---
 Last stop on our Alsace tour: Mulhouse. Mulhouse differs quite a bit from Strasbourg and Colmar: it's an industrial city that is having a hard time keeping its industrial base. It doesn't have many beautiful and historic buildings nor beautiful parks. The street on which our hotel was located was a bit gritty. But! Mulhouse has a couple amazing museums, and one little-known museum that we wanted to see, so to Mulhouse we went.
 
-A word about the pronunciation of Mulhouse. First, in French 'u' often is pronounced almost as an English 'a', so the Mulhouse part is closer to "ma." Then, the letter 'h' is never pronounced and "s" is pronounced close to the way English pronounces "z". All this means that Mulhouse is pronounced "ma-looze." Took us a while to get that right!
+A word about the pronunciation of Mulhouse. First, in French 'u' often is pronounced almost as an English 'a', so the "Mu" part is closer to "ma." Then, the letter 'h' is never pronounced and "s" is pronounced close to the way English pronounces "z". All this means that Mulhouse is pronounced "ma-looze." Took us a while to get that right!
 
 The two well-known museums are the Cité de l'Automobile, an amazing collection of cars; and the Cité de la Train, an amazing collection of railroad stuff. The little-known museum is the Musée De L'Impression Sur Etoffes. Etoffes translates as "printed fabrics;" more about etoffes below.
 <h2 style="font-family: verdana;">The Cité de l'Automobile</h2>
