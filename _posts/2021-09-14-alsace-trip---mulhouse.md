@@ -9,7 +9,7 @@ layout: post
 ---
 Last stop on our Alsace tour: Mulhouse. Mulhouse differs quite a bit from Strasbourg and Colmar: it's an industrial city that is having a hard time keeping its industrial base. It doesn't have many beautiful and historic buildings nor beautiful parks. The street on which our hotel was located was a bit gritty. But! Mulhouse has a couple amazing museums, and one little-known museum that we wanted to see, so to Mulhouse we went.
 
-A word about the pronunciation of Mulhouse. First, in French 'u' often is pronounced almost as an English 'a', so the Mulhouse part is closer to "ma." Then, the letter 'h' is never pronounced and "s" is pronounced close to the way English pronounces "z". All this means that Mulhouse is pronounced "ma-looze." Took us a while to get that right!
+A word about the pronunciation of Mulhouse. First, in French 'u' often is pronounced almost as an English 'a', so the "Mu" part is closer to "ma." Then, the letter 'h' is never pronounced and "s" is pronounced close to the way English pronounces "z". All this means that Mulhouse is pronounced "ma-looze." Took us a while to get that right!
 
 The two well-known museums are the Cité de l'Automobile, an amazing collection of cars; and the Cité de la Train, an amazing collection of railroad stuff. The little-known museum is the Musée De L'Impression Sur Etoffes. Etoffes translates as "printed fabrics;" more about etoffes below.
 <h2 style="font-family: verdana;">The Cité de l'Automobile</h2>
@@ -23,8 +23,10 @@ I know, a picture is worth a thousand words, yada-yadda-yadda. Here ya go:
 <h2 style="font-family: verdana;">Bugatti Royales</h2>
 Six Bugatti Royales were constructed between 1927 and 1933. To give you an idea of their size:
 
-Length: 21.3 ft
-Weight: 7,500 lbs
+Length: 21.3 ft (a Chevrolet Suburban - a huge car in the U.S. - is 18.3 ft long)
+
+Weight: 7,500 lbs (a Suburban: 5,900 lbs)
+
 Engine size: 12.7 liters (715 cu. in.) producing 300 hp (that's a lot for that time)
 
 The Cité de l'Automobile has two of the original Royales. The museum was able to build a third (officially, a replica) from a spare chassis, motor and spare parts in the museum's possession and then hand-building a body for it!

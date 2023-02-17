@@ -29,7 +29,7 @@ The town also gets a point in the "Napoleon slept here" sweepstakes. When, in 18
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/08/DSC00494-e1629964132406.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Moret has plaques showing a painting by Alfred Sisley placed at the location near where set up his easel to paint this picture. So we can look at this picture...</em></figcaption>
+	<figcaption><em>Moret has plaques showing a painting by Alfred Sisley placed at locations where set up his easel to paint a picture. So we can look at this picture...</em></figcaption>
 </figure>
 
 
