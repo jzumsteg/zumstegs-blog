@@ -202,7 +202,7 @@ Some pictures of Paris from our walk down the river...
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/10/DSC01804.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Looking across at Ile St. Louis. You are seeing here some of the most expensive residences in Paris: a 230 sq. ft. studio apartment is listed for \\$400,000; a nice 750 sq. ft. two-bedroom goes for \\$1.4 million.</em></figcaption>
+	<figcaption><em>Looking across at Ile St. Louis. You are seeing here some of the most expensive residences in Paris: a 230 sq. ft. studio apartment is listed for $400,000; a nice 750 sq. ft. two-bedroom goes for $1.4 million.</em></figcaption>
 </figure>
 
 
