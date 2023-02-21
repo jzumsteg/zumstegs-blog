@@ -17,12 +17,12 @@ We loved the known Impressionists, of course,  and found a new favorite: James 
 
 <figure class = "landscape">
 	<img src="{{"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/James_Tissot_-_Too_Early.jpg/800px-James_Tissot_-_Too_Early.jpg"}}">
-	<figcaption></figcaption>
+	<figcaption>Too_Early</figcaption>
 </figure>
 
 <figure class = "landscape">
 	<img src="{{"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/James_Tissot_-_The_Thames.jpg/2560px-James_Tissot_-_The_Thames.jpg"}}">
-	<figcaption></figcaption>
+	<figcaption>The_Thames</figcaption>
 </figure>
 
 <figure class = "landscape">
