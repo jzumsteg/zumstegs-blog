@@ -15,11 +15,20 @@ Laurie says I have to provide a little more detail. Ok, ok. Many of the Impressi
 
 We loved the known Impressionists, of course,  and found a new favorite: James Tissot (born Jean-Jaques). Born in France, but evidently an almost-lifelong Anglophile, he moved to England after fighting in the 1870-1871 Franco-Prussian war, and lived there until 1882 or 1883, when he returned to France following the death of his love Kathleen Newton. Before moving to England he studied painting in several French studios and learned the ways of Impressionism. While in England he painted scenes from English society and gained great renown (and income). We loved his paintings of this time; they reminded me of Auguste Renoir's later paintings - Luncheon of the Boating Party, Dance in the City, Dance in the Country, Dance at Bougival. He will definitely get some attention from us. Here are a couple of our favorite paintings in the exhibit:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/James_Tissot_-_Too_Early.jpg/800px-James_Tissot_-_Too_Early.jpg" srcset="https://upload.wikimedia.org/wikipedia/commons/b/be/James_Tissot_-_Too_Early.jpg 1.5x" alt="File:James Tissot - Too Early.jpg" width="600" height="412" data-file-width="1059" data-file-height="728" />
+<figure class = "landscape">
+	<img src="{{""https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/James_Tissot_-_Too_Early.jpg/800px-James_Tissot_-_Too_Early.jpg"}}">
+	<figcaption></figcaption>
+</figure>
 
-<img class="mw-mmv-final-image jpg mw-mmv-dialog-is-open" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/James_Tissot_-_The_Thames.jpg/2560px-James_Tissot_-_The_Thames.jpg" alt="" width="600" height="400" crossorigin="anonymous" />
+<figure class = "landscape">
+	<img src="{{"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/James_Tissot_-_The_Thames.jpg/2560px-James_Tissot_-_The_Thames.jpg"}}">
+	<figcaption></figcaption>
+</figure>
 
-<img class="mw-mmv-final-image jpg mw-mmv-dialog-is-open" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Ballonshipboard_jamestissot_1874.jpg" alt="" width="600" height="400" crossorigin="anonymous" />
+<figure class = "landscape">
+	<img src="{{"https://upload.wikimedia.org/wikipedia/commons/3/34/Ballonshipboard_jamestissot_1874.jpg"}}">
+	<figcaption></figcaption>
+</figure>
 
 I gotta say, we love this about Paris (and other big cities): there is always something cool going on, no matter what your interests are.
 
