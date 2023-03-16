@@ -132,7 +132,7 @@ The other favorite church is Saint-Severin, just a hundred yards from Saint-Juli
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2021/10/DSC01764.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Tcaption</em></figcaption>
+	<figcaption><em></em></figcaption>
 </figure>
 <!-- <figure class = "portrait">
 	<img src="{{"/assets/images/2021/10/DSC01764.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
