@@ -12,6 +12,7 @@ cover_image: /DSC08791.jpg
 markdown: kramdown
 imageurl: /assets/images/
 
+
 # Gems
 plugins:
   - jekyll-gist

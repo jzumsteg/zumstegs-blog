@@ -1,0 +1,30 @@
+To make a gallery with the ability to jump from a thumbnail in the post to a full-page view of an image:
+for each image in the post:
+	put the image in /assets/images/yyyy/dd folders
+	create a square, 300x300px thumbnail and title it "<image>-sq-jpg"
+
+	Note: the "responsive" doesn't look so good
+
+Use the following as a model for the gallery:
+
+<h2>Title for the gallery if desired</h2>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ "2022/01/image-1.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}">
+	  <img src="{{ "2022/01/image-1-sq.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image 1" />
+    </a>
+    <div class="desc">Clara</div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ "2022/01/image-2.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}">
+ 	<img src="{{ "2022/01/image-2-sq.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image 2" />
+   </a>
+    <div class="desc">Yikes!</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
