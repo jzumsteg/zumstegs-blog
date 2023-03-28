@@ -10,7 +10,7 @@ layout: post
 
 
 
-<h2>Responsive Image Gallery..M1</h2>
+<h2>Responsive Image Gallery - M1</h2>
 
 <div class="responsive">
   <div class="blog-photo">
