@@ -10,7 +10,7 @@ When we started this blog, we really thought it would be for us, so that we coul
 For a couple technical reasons, I moved the blog from a Word Press site to a Jekyll site. Makes no difference to you, but it gives me a lot more flexibility in making the blog look and behave as I want it to. Now, as I publish the new blog, you will see it's formatted differently. I like to keep the main page and posts as clean as possible: I'm a fan of white space. So where before you could just scroll down the home page and see the entire post for the four or five most recent posts, now you'll see a page that shows the first 100 words or so of the first posts. Click on the title or the line that reads *(Full post...)* to go to the full post. Lemme know what you think; I can change it back to the old way if enough people ask.
 
 <h2>History of Posts</h2>  
-Also, you can click on "History" and see all the post titles arranged by date, most recent at the top. Click on the blog title to see the full post. Some of the older posts - 2013 and 2015 - will be missing images. I'm working on it.
+Also, you can click on "Post Timeline" and see all the post titles arranged by date, most recent at the top. Click on the blog title to see the full post. Some of the older posts - 2013 and 2015 - will be missing images. I'm working on it.
 
 <h2>Post Categories</h2>  
 All posts have one or more categories. Click on "Categories" to see a list of the categories. On that page, click on a Category to see all the posts in that category, and then click on a post title to see the full post.
