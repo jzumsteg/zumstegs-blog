@@ -17,7 +17,7 @@ All posts have one or more categories. Click on "Categories" to see a list of th
 
 
 <h2>Missing Pictures</h2>
-Yeah, yeah, I know there are some pictures missing. I'll find them Real Soon Now
+Yeah, yeah, I know there are some pictures missing. I'll find them Real Soon Now.
 
 
 <h2>Comments</h2>
