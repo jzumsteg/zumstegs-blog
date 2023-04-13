@@ -46,7 +46,7 @@ The earliest wing is in the lower right-hand corner. Starting there, here are th
 
 
 
-<strong>Flamboyant Gothic</strong> - this section, to the left of the Gothic wing, is marked by the use of red bricks. It was built by Louis XII from 1498 to 1508.
+<strong>Flamboyant Gothic</strong> - this section, to the right of the Gothic wing, is marked by the use of red bricks. It was built by Louis XII from 1498 to 1508.
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC01382.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />

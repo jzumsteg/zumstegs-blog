@@ -10,7 +10,7 @@ thumbnail: 2021/09/DSC00523.jpg
 ---
 
 
-In late August great friend Hervé, his daughter Sophia, son Ben, Ben's friend Jurgen and I went to the La Ferté Alais airshow. A couple days ago Hervé beat me soundly (figuratively) about the head and shoulders for not doing a post on the airshow. I plead guilty! We had a great day and I should have done a post long ago. But, better never late than ever (or something like that), so here goes.
+In late August great friend Hervé, his daughter Sophia, son Ben, Ben's friend Jurgen and I went to the La Ferté-Alais airshow. A couple days ago Hervé beat me soundly (figuratively) about the head and shoulders for not doing a post on the airshow. I plead guilty! We had a great day and I should have done a post long ago. But, better never late than ever (or something like that), so here goes.
 
 <p style="text-align: center;"> </p>
 <figure class = "portrait">
@@ -20,7 +20,7 @@ In late August great friend Hervé, his daughter Sophia, son Ben, Ben's friend J
 
 A note of caution: if you're not interested in old airplanes, you can skip right on by this post. I certainly will not take offense.
 
-I've been a fan of old planes for years (okay, okay, I've been a fan of all planes for years), and I've gone to a lot of airshows. I can say that the *Fête Aérienne La Ferté Alais* is my favorite. We came here in 2015 or 2016 but the 2020 show was canceled and the 2021 show, scheduled for May, seemed to be canceled. But the organizers decided to just postpone the airshow a few months and so the last weekend of August, rather than the last weekend of May, we had an airshow!
+I've been a fan of old planes for years (okay, okay, I've been a fan of all planes for years), and I've gone to a lot of airshows. I can say that the *Fête Aérienne La Ferté-Alais* is my favorite. We came here in 2015 or 2016 but the 2020 show was canceled and the 2021 show, scheduled for May, seemed to be canceled. But the organizers decided to just postpone the airshow a few months and so the last weekend of August, rather than the last weekend of May, we had an airshow!
 
 Now, I don't want to rag on other airshows, but often they are fly-bys of some interesting airplanes and then about 450 aerobatic demonstrations. One aerobatic display is good, two not so good and from three on, boring! *La Ferté Alais* takes a different approach. Many of the planes on display here fly in staged "actions." For instance, there were a number of World War I airplanes, and they all took to the sky at the same time and staged a mock dogfight. That was followed by vignettes with airplanes from between the wars, then World War II airplanes, then more modern planes. In between lots of planes took off, flew by a couple times and landed, all right in front of us.
 
@@ -82,7 +82,7 @@ These are planes from the 1905-1914 era. Even though the United States had the f
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC00523.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>A Spitfire, the plane that, along with the Hawker Hurricane, staved off the ferocious attacks on England known as the "Battle of Britain." This is a rare Spitfire, powered by a Griffon V12 engine (rather than the more common Merlin V12) and a five-bladed prop. This plane flew in the afternoon WWII segment and was pretty amazing to hear.</em></figcaption>
+	<figcaption><em>A Spitfire, the plane that, along with the Hawker Hurricane, staved off the ferocious attacks on England known as the "Battle of Britain." This is a rare Spitfire, powered by a Griffon V12 engine (rather than the more common Merlin V12) with a five-bladed prop. This plane flew in the afternoon WWII segment and was pretty amazing to hear.</em></figcaption>
 </figure>
 
 
@@ -110,7 +110,7 @@ These are planes from the 1905-1914 era. Even though the United States had the f
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/09/DSC00517.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>A Douglas A1 Skyraider, known as the "Spad" in the Navy. When I was in the Navy, these had just been retired from active combat in Vietnam. Spad pilots garnered more respect than any other pilots, including fighter pilots. These planes were hugely powerful and a real handful to fly. I cannot imagine how much it must cost to restore and fly something like this; it must burn three or four hundred dollars of fuel per flight hour.</em></figcaption>
+	<figcaption><em>A Douglas A1 Skyraider, known as the "Spad" in the Navy. When I was in the Navy, these had just been retired from active combat in Vietnam. Spad pilots garnered more respect than any other pilots, including fighter pilots. These planes were hugely powerful and a real handful to fly. I cannot imagine how much it must cost to restore and fly something like this; it must burn four or five hundred dollars of fuel per flight hour.</em></figcaption>
 </figure>
 
 
