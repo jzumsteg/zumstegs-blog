@@ -52,7 +52,7 @@ We have been through Chateau Fontainebleau three or four times before, and while
 
 
 <h2>Cour Ovale</h2>
-The Cour Ovale. This space has been the center of the chateau since it was first built, although the buildings forming it now were built mostly in the 1500s. For years I've looked out windows and through a gate and wished we could walk in it, but it has always been closed to the public. No longer! Visitors to the chateau can now stroll around the Cour Ovale, and we took full advantage! I love this courtyard and was very happy to be able to spend twenty minutes in it. A lot of historic people entered the chateau through the Cour Ovale.
+The Cour Ovale has been the center of the chateau since it was first built, although the buildings forming it now were built mostly in the 1500s. For years I've looked out windows and through a gate and wished we could walk in it, but it has always been closed to the public. No longer! Visitors to the chateau can now stroll around the Cour Ovale, and we took full advantage! I love this courtyard and was very happy to be able to spend twenty minutes in it. A lot of historic people entered the chateau through the Cour Ovale.
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2021/10/DSC01901.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image"  />
