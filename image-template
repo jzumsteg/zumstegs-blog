@@ -2,3 +2,4 @@
 	<img src="{{"/assets/images/yyyy/mm/xxxxxx.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption>caption</figcaption>
 </figure>
+

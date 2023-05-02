@@ -2,6 +2,12 @@
 layout: page
 title: Cheese Log
 ---
+  <h2>2023 Cheese Log</h2>
+  Brie de Meaux  
+  Roquefort  
+  Comté  
+  Bleu de Auvergne
+
   <h2>2021 Cheese Log</h2>  
 Beaufort  
 Brie de Meaux  
