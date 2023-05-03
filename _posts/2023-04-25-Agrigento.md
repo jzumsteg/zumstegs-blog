@@ -102,7 +102,7 @@ The Temple of Heracles is, of the three main temples in the valley, the least-re
 	<figcaption>Temple of Heracles.</figcaption>
 </figure>
 
-Pretty impressive, eh? It's powerful to look at this temple and see the ruin all around it. How archaologists are able to piece together any of thyis amazes me.
+Pretty impressive, eh? It's powerful to look at this temple and see the ruin all around it. How archaologists are able to piece together any of this amazes me.
 
 We spent a few hours wandering around the <em>Valle dei Templi</em> and probably could have spent more. Next trip. Even in a crowd of similarly amazed tourists, it's hard not to wonder at the skill and dedication that created these spectacular constructions 25 centuries ago. Some modern-day architects could take lessons in how beautiful buildings can be.
 
