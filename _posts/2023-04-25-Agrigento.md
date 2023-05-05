@@ -12,7 +12,7 @@ On to Agrigento - about 2 hours due south of Palermo, on the southern coast of S
 
 I should point out that the "Valley of the Temples" is built on a ridge. Go figure.
 
-The <em>Valle dei Templi</em> temples were built by the Greeks in the fourth and fifth centuries BC. Most were destroyed by the Carthaginians after their victory over the Greeks in the Second Punic War (241 BC to 201 BC). Several of the constructions that were spared the razing of the Carthaginians were not maintained afterwards, and eventually fell into ruin. Some temples were restored by the Romans and used as churches by them.
+The <em>Valle dei Templi</em> temples were built by the Greeks in the fourth and fifth centuries BC. Most were destroyed by the Carthaginians after their victory over the Greeks in the Second Punic War (241 BC to 201 BC). Several of the constructions that were spared the razing of the Carthaginians were not maintained afterwards, and eventually fell into ruin. Some temples were restored by the Romans and used as churches.
 
 One temple here - called Temple Zeus Olympian - was the largest Greek temple in the world, bigger even than the Parthenon in Athens. The Cartheginians destroyed much of it, and its ruin was completed in the 18th century when it became essentially a quarry providing stones for many constructions in the area. (Makes you want to cry, doesn't it?) The Temple of Zeus Olympian had many thirty-foot high statues that formed a structural ring around the top of the walls. The only one that remains is in the archeological museum nearby, and is the only large piece of the temple remaining.
 

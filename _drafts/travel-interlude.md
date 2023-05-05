@@ -1,5 +1,5 @@
 ---
-title: A Short Interlude for a Travel Story=
+title: A Short Interlude for a Travel Story
 author: JZ
 date: Wed, 03 May 2023
 category: 
@@ -8,5 +8,43 @@ mermaid: true
 layout: post
 thumbnail: 
 ---
-I'm going to interrupt my Sicily posts to relate a little travel adventure we had yesterday.
+I'm going to interrupt my Sicily posts to relate a little travel adventure we had coming home from Sicily. The whole day was, um, interesting.
+
+The day's planned activites were:  
+- Before checking out of the place we stayed where we stayed in Syracusa/Ortigia, we wanted to buy a small souvenir of Ortigia.  
+
+- Check out and drive to Catania. Our flight was scheduled to leave at 7:30, so we figured we'd just hang out in the most interesting (okay, only interesting) place in Catania - its main piazza, surrounded by beautiful buildings of the Italian Baroque style.
+
+- Get to the aiport around 5, check in the rental car, sit and wait, return to Paris-Orly airport.
+
+- Head for Mary & Gilles house in Bois-le-Roi, arriving somewhere around midnight.
+     
+- Go to bed.
+
+How it unfolded:
+- Got the souvenir.  
+
+- Got to Catania. The piazza was interesting, but the rest of Catania? Bad news. So we headed to the airport about 3 o'clock. 
+
+- Checked in the car. The Avis employee looked it over and found a tiny scratch that had not  been recorded when we accepted the car. (This car had probably a dozen scratches already on it, all of them much worse.) The guys said he would have to charge Giles for damage: $250. An argument ensued, still not resolved. But the idea that a tiny scratch would bring such a fee is ridiculous, and given that there were multiple other scratches, made us wonder how much that car was making for Avis in damage charges.  (Possibly beside the point is that it was a terrible car: a Jeep. Uncomfortable, noisy, fuel inefficient and a few other gripes and priced at $110 per day! We should have rejected it at the get-go.)
+
+- Sat in the terminal. While there, Gilles received a message from the airline, Transavia, that our flight would be landing at Charles DeGaulle airport in Paris, not Orly.  
+
+Now, this presented a non-trivial problem. When we left from Orly twelve days before, we had given the car to a parking service that would bring it to us at the terminal and we could then zip home in about 45 minutes. Now, since we were going to a different airport, farther away, we had to figure out how we were going to get home - a taxi big enough for all of us and baggage would cost at least $200.  
+
+But Gilles saved the day - he called the parking service to tell them what was going on, and they said they could drive the car to Charles DeGaulle and have it waiting there for us. At a price, of course: $165. Gilles went for it; a good decision, as otherwise we'd have to take that $200 taxi, then he and I woud have to return to Orly the next day to get the car.  
+
+We boarded the plane about an hour late. As we were boarding, the captain came on and said that if we could get out of the gate a bit early, the plane might be able to land at Orly. Orly has an 11:30 curfew - no landings after that. Everybody piled on, we pushed back and the captain came on to say, that yes indeed, we were going to be able to land at Orly, with a few minutes to spare. 
+
+Now that was good news except: the car was now going to be at Charles DeGaulle. Gilles saved the day a second time by making a quick call before he had to shut the phone down and got the drive-to-CDG request canceled.  
+
+So finally, we arrived at Orly, got our bags, got our car, drove to Mary & Gilles house. We arrived at about 1 a.m. and Mary followed through on a promise to make scrambled eggs for all of us. So at about 2 a.m. we sat down to a very late dinner? very early breakfast? of great scrambled eggs, cheese and wine. 
+
+What a day, eh? Now you may wonder why all the hassle about leaving late and getting in late and different airports. The French air traffic controllers were stiking and/or limiting the number of flights they would handle in solidarity with those protesting the new French rules raising the retirement age in France from 62 to 64. I might point out that the French air traffic controllers <em>are not covered by those rules!</em> They were causing chaos in the skies (Transavia alone had to cancel well over 100 flights) to support those other poor souls who might have to wait until 64 to retire. Can you tell my sympathy is limited?  
+
+I understand Transavia is adopting a new slogan: "Fly with Transavia and your destination may be a surprise." (Although this wasn't really a Transavia problem; they did a great job adapting to the circumstances brought about by those %#*$@ air traffic controllers.)
+
+But we got home, safe and sound. And tired. And cranky. But home.
+
+
 
