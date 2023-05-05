@@ -10,7 +10,7 @@ thumbnail:
 ---
 After the Greek temples at Agrigento, we headed inland to see a wonder of the Roman world. In the fourth century AD (probably; no firm dates for construction or destruction of the villa have been solidly determined), a wealthy Roman landowner and aristocrat built the first parts of a sumptuous villa. Added to by subsequent owners, it grew to palatial size. Parts of it may have been destroyed or damaged by a short-lived Vandal occupation in the late 400s. Evidence indicates that some buildings on the site were used until around 1160; later in the century the site was covered by a landslide, with just a few buildings visible above ground.
 
-That landslide had one huge beneficial affect for us modern-day lovers of history and art: it covered and protected what is now the largest known installation of Roman mosaics: over 3,600 square yards: some 30,000 square feet. Besides the extent of these mosacics, they are also known as among the very best Roman mosaics in terms of quality, subject and color. 
+That landslide had one huge beneficial effect for us modern-day lovers of history and art: it covered and protected what is now the largest known installation of Roman mosaics: over 3,600 square yards: some 30,000 square feet. Besides the extent of these mosaics, they are also known as among the very best Roman mosaics in terms of quality, subject and color. 
 
 The site was first excavated by non-archaologists in the late 1800s; then by professionals in 1929. Since then it has undergone almost continuous study and morse rooms have been excavated. Archaologists believe more rooms - and more mosaics - remain to be found.
 
