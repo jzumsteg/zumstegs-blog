@@ -6,7 +6,7 @@ category:
 math: true
 mermaid: true
 layout: post
-thumbnail: 
+thumbnail: 2023/04/villa-romana/DSC03899.jpg
 ---
 After the Greek temples at Agrigento, we headed inland to see a wonder of the Roman world. In the fourth century AD (probably; no firm dates for construction or destruction of the villa have been solidly determined), a wealthy Roman landowner and aristocrat built the first parts of a sumptuous villa. Added to by subsequent owners, it grew to palatial size. Parts of it may have been destroyed or damaged by a short-lived Vandal occupation in the late 400s. Evidence indicates that some buildings on the site were used until around 1160; later in the century the site was covered by a landslide, with just a few buildings visible above ground.
 
@@ -63,6 +63,6 @@ And...a couple of photos of the intrepid Sicilian travelers:
 	<figcaption>Mary and Gilles - our traveling companions and great friends.</figcaption>
 </figure>
 <figure class = "portrait">
-	<img src="{{"/assets/images/2023/04/us-agrigento.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/Us-agrigento.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption>Les Zumstegs.</figcaption>
 </figure>
