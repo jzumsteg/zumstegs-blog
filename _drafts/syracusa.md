@@ -8,31 +8,31 @@ mermaid: true
 layout: post
 thumbnail: 
 ---
-After visiting the<em>Villa Romana</em> we made the two-hour drive to Syracusa, where we stayed for five nights. We had planned for just four nights, but then Transavia cancelled the flight on our preferred return day and gave us the choice of returning a day early (not enough time in Syracusa) or a day later (maybe too much time in Syracusa). As it turned out, we were able to enjoy all five days there, but pushing the flight to May 1 caused us some problems getting home (next post).
+After visiting the <em>Villa Romana</em> we made the two-hour drive to Syracusa, where we stayed for five nights. We had planned for just four nights, but then Transavia cancelled the flight on our preferred return day and gave us the choice of returning a day early (not enough time in Syracusa) or a day later (maybe too much time in Syracusa). As it turned out, we were able to enjoy all five days there, but pushing the flight to May 1 caused us some problems getting home (next post).
 
-Syracusa is a good-sized city - about 170,000 residents - but the interesting part is the island of Ortigia, where we stayed. Ortigia is where Syracusa was founded and remains far and away the most interesting part of the city. It's small: about three-quarters of a mile long and half a mile wide. Ortigia has been populated for 3,000 years, but many of the buildings were constructed after the 1693 earthquake that pretty much leveled every town and city in eastern Sicily. Now a UNESCO-designated site of historic interest (what's the real title for this?), Ortigia is an historic city in a beautiful location. We loved the place.
+Syracusa is a good-sized city - about 170,000 residents - but the interesting part is the island of Ortigia, where we stayed. Ortigia is where Syracusa was founded and remains far and away the most interesting part of the city. It's small: about three-quarters of a mile long and half a mile wide. Ortigia has been populated for 3,000 years, but many of the buildings were constructed after the 1693 earthquake that pretty much leveled every town and city in eastern Sicily. Now a UNESCO-designated World Heritage Sitge, Ortigia is an historic city in a beutiful location. We loved the place.
 
-There is, of course, a downside to being a beautiful, historic city: lots and lots of tourists. During the day Ortigia was pretty crowded, not helped by the weekend we were there being a holiday weekend. But, as with so many places that attract hordes of tourists, the town started to empty out at about six or seven in the evening and by eight, it had returned to what it must have been like hundreds of years before: quiet narrow streets, walks along the water deserted, excellent restaurants with plenty of seating. 
+There is, of course, a downside to being a beautiful, historic city: lots and lots of tourists. During the day Ortigia was pretty crowded, maybe moreso than usually as it was aholkiday weekend. But, as with so many places that attract hordes of tourists, the town started to empty out at about six or seven in the evening and by eight, it had returned to what it must have been like hundreds of years before: quiet narrow streets, walks along the water deserted, excellent restaurants with plenty of seating. 
 
 Now I know that among that horde of tourists that I complain about were the four of us - tourists, for sure. But I'm pretty sure we were different from all the others. Really.
 
-Touristy or not, we found Ortigia to be an enjoyable place to spend some time, and we spent three full days just in Ortigia and a small part of Syracusa proper. Ortigia just has a good feel to it - lots of interesting streets and buildings, excellent restaurants (and one not-so-excellent), boats to ride on, things to see. We really enjoyed our time here. 
+Touristy or not, we found Ortigia to be an enjoyable place to spend some time, and we spent three full days just in Ortigia and a small part of Syracusa proper. Ortigia just has a good feel to it - lots of interesting streets and buildings, excellent restaurants (and at least one not-so-excellent), boats to ride on, things to see. We really enjoyed our time here. 
 
 I'm going to post a bunch of photos of Ortigia, as it is definitely a photogenic place. I'll also relate a few stories of our stay...
 
-<h2>Boss</h2>
-We chose a restaurant on the water for a lunch one day, even though the guy running the show seemed a little smarmy. We should have listened to our instincts. 
+<h2>"Boss"</h2>
+We chose a restaurant on the water for a lunch one day, even though the guy running the show seemed a little smarmy. We should have heeded our instincts. 
 
-First, Mary asked for a glass of white wine. The guy recommemnded one and brought out a glass for her to try it. It was, of course, the most expensive wine he had. "Try it, try it," he said over and over. She did and didn't particularly like either the wine or its price. Mary chose a less expensive glass and immediately, all the warmth and charm went away. He was one irritating guy.
+First, Mary asked for a glass of white wine. The guy recommemnded one and brought out a glass so she could tgry it. It was, of course, the most expensive wine he had. "Try it, try it," he said over and over. Mary did and didn't particularly like either the wine or its price. She chose a less expensive glass and immediately, all the warmth and charm went away. He was one irritating guy.
 
-Then the guy kept calling Gilles and me "Boss." When we paid the bill (we always split it, which means we each have to give a credit card), he called me "Big Boss" and I jumped on him, told him not to call me Boss, I wasn't his boss and I didn't like it when he called me that. "Ok, ok," he said, and went to Gilles, called him "Boss," and Gilles jumped all over him for the same thing. Gilles then noticed that his half of the bill was 10€ more than my half. He pointed that out, got an argument, then the guy conceded and because Gilles' credit card had already been run, gave Gilles 12€ to make up the error. Gilles took the money and ran.
+Then the guy kept calling Gilles and me "Boss." When we paid the bill (we always split it 50%-50%, which means we each have to go through the process of paying with a credit card), he called me "Big Boss" and I jumped on him, told him not to call me Boss, I wasn't his boss and I didn't like it when he called me that. "Ok, ok," he said, and went to Gilles, called him "Boss," and Gilles jumped all over him for the same thing. Gilles then noticed that his half of the bill was 10€ more than my half. He pointed that out, got an argument, then the guy conceded and because Gilles' credit card had already been run, gave Gilles 12€ to make up the error. Gilles took the money - including the extra 2€ - and ran.
 
 <h2>The Archaeolgical Park</h2>
 Syracusa, the main city of the Greek and Roman occupation of Sicily, has some sites from those times. The main one is a beautiful Greek theather, cut into a hillside a mile or so outside Syracusa proper. So we decided to go see it. We were told that because the theater will be used for a season of Greek plays, it would be covered but we went anyway. Maybe not the best use of our time that day.
 
 First, the place was absolutely jammed with school kids - it must have been the week for school outings.
 
-Second, when they said the thater was covered, we thought "Bit Tent." No, it meant thatg all the tiers of seating, the stage and everything originally carved out by the Greeks 2,000 years ago, was covered with wooden tiers so that people could sit there without damaging the place. It looked not one bit like an ancient Greek theater.
+Second, when they said the theater was covered, we thought "Big Tent." No, it meant that all the tiers of seating, the stage and everything originally carved out by the Greeks 2000 years ago was covered with wooden tiers so that people could sit there without damaging the place. It looked not one bit like an ancient Greek theater.
 
 We did get to see the remains of a later Roman theater and that was interesting. Other than that, meh.
 <figure class = "landscape">
@@ -41,7 +41,7 @@ We did get to see the remains of a later Roman theater and that was interesting.
 </figure>
 
 <h2>Buildings of Ortigia</h2>
-Because most of Ortigia's buildings were built after the 1693 earthquake, Italian Baroque predominates. This style has lots of curlicues and carvings. But Ortigia also has some beautiful buildings that are kind of baroque.
+Because most of Ortigia's buildings were built after the 1693 earthquake, Italian Baroque predominates. This style has lots of curlicues and carvings. But Ortigia also has some beautiful buildings that are only kind of baroque.
 
 <h3>Buildings Along the Waterfront</h3>
 <figure class = "landscape">
@@ -60,11 +60,11 @@ Because most of Ortigia's buildings were built after the 1693 earthquake, Italia
 <h3>Buildings on the main Piazza</h3>
 <figure class = "landscape">
 	<img src="{{"/assets/images/2023/04/Syracusa/DSC04086.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption>Acity government building.</figcaption>
+	<figcaption>A city government building.</figcaption>
 </figure>
 <figure class = "portrait">
 	<img src="{{"/assets/images/2023/04/Syracusa/DSC04087.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption>The Cathedral of Syracusa</figcaption>
+	<figcaption>The Cathedral of Syracusa, a shining example of Italian Baroque architecture. Not my favorite style.</figcaption>
 </figure>
 <figure class = "landscape">
 	<img src="{{"/assets/images/2023/04/Syracusa/DSC04088.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -75,15 +75,12 @@ Because most of Ortigia's buildings were built after the 1693 earthquake, Italia
 	<figcaption>Chiesa Santa Lucia alla Badia. This church is famous for a painting by Caravaggio, which, we discovered, was transferred to another church a couple miles away and replaced here by a copy. Good enough for us!</figcaption>
 </figure>
 <h3>Streets of Ortigia</h3>
-The streets of Ortigia are a delight. We walked many of these, often multiple times, and still found them interesting and beautiful.
+The streets of Ortigia are a delight. We walked many of these, often multiple times, and always found them interesting and beautiful.
 <figure class = "portrait">
 	<img src="{{"/assets/images/2023/04/Syracusa/streets/DSC04081.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
-<figure class = "portrait">
-	<img src="{{"/assets/images/2023/04/Syracusa/streets/DSC04081.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption></figcaption>
-</figure>
+
 <figure class = "portrait">
 	<img src="{{"/assets/images/2023/04/Syracusa/streets/DSC04100.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
@@ -107,7 +104,7 @@ The streets of Ortigia are a delight. We walked many of these, often multiple ti
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2023/04/Syracusa/streets/DSC04126.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption>The car is a Fiat 500 - a classic of the original Volkswagen Bug era. It's about the right size for driving in Ortigia. We had a Jeep and its size gave us a few hold-your-breath moments. Gilles did an amazing job of driving in and out of the island.</figcaption>
+	<figcaption>The car is a Fiat 500 - a classic of the original Volkswagen Bug era. It's about the right size for driving in Ortigia. We had a Jeep and its size gave us a few hold-your-breath moments. Gilles did an amazing job of driving in and out of Ortigia.</figcaption>
 </figure>
 
 <h2>Syracusa/Ortigia Wrap-up</h2>
