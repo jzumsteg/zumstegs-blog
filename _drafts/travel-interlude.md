@@ -8,7 +8,7 @@ mermaid: true
 layout: post
 thumbnail: 
 ---
-I'm going to interrupt my Sicily posts to relate a little travel adventure we had coming home from Sicily. The whole day was, um, interesting.
+Our last whole day was, um, interesting.
 
 The day's planned activites were:  
 - Before checking out of the place we stayed where we stayed in Syracusa/Ortigia, we wanted to buy a small souvenir of Ortigia.  
@@ -26,7 +26,7 @@ How it unfolded:
 
 - Got to Catania. The piazza was interesting, but the rest of Catania? Bad news. So we headed to the airport about 3 o'clock. 
 
-- Checked in the car. The Avis employee looked it over and found a tiny scratch that had not  been recorded when we accepted the car. (This car had probably a dozen scratches already on it, all of them much worse.) The guys said he would have to charge Gilles for damage: $250. An argument ensued, still not resolved. But the idea that a tiny scratch would bring such a fee is ridiculous, and given that there were multiple other scratches, made us wonder how much that car was making for Avis in damage charges.  (Possibly beside the point is that it was a terrible car: a Jeep. Uncomfortable, noisy, fuel inefficient and a few other gripes and priced at $110 per day!)
+- Checked in the car. The Avis employee looked it over and found a tiny scratch that had not been recorded when we accepted the car. (This car had probably a dozen scratches already on it, all of them much worse.) The guys said he would have to charge Gilles for damage: $250. An argument ensued, still not resolved. But the idea that a tiny scratch would bring such a fee is ridiculous, and given that there were multiple other scratches, made us wonder how much that car was making for Avis in damage charges.  (Possibly beside the point is that it was a terrible car: a Jeep. Uncomfortable, noisy, fuel inefficient and a few other gripes and priced at $110 per day!)
 
 - Sat in the terminal. While there, Gilles received a message from the airline, Transavia, that our flight would be landing at Charles DeGaulle airport in Paris, not Orly.  
 
