@@ -1,7 +1,7 @@
 ---
-title: A Short Interlude for a Travel Story
+title: Ah, the Romance Of Air Travel...
 author: JZ
-date: Sun, 07 May 2023
+date: Mon, 08 May 2023
 category: 
 math: true
 mermaid: true

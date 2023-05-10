@@ -6,7 +6,7 @@ category:
 math: true
 mermaid: true
 layout: post
-thumbnail: 
+thumbnail: 2023/04/agrigento/DSC03846.jpg
 ---
 A few words to wrap up our Sicily trip. 
 
