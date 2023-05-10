@@ -25,4 +25,4 @@ As is my practice, I took no food pictures. Sorry, I know that's the style now, 
 
 We drank a lot of Nero d'Avola wine from the Sicilian region of Avola.  I might also point out that the average price <em>in restaurants</em> of a good bottle of this wine averaged somewhere around $25. Compare that to the average price of a bottle of red wine of similar quality in a Seattle restaurant (probably $50 - $60) and you'll wonder why such a difference. I don't know, that's for sure.
 
-Will we return to Sicily? I don't know; honetly it's not high on or list for a return trip and if we did return, it would be to concentrate on some ancient Greek and Roman sites that we didn't see this trip. Having said that, we're glad that we came to Sicily. We had a great time!
+Will we return to Sicily? I don't know; honestly it's not high on or list for a return trip and if we did return, it would be to concentrate on some ancient Greek and Roman sites that we didn't see this trip. Having said that, we're glad that we came to Sicily. We had a great time!
