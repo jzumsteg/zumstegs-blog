@@ -17,7 +17,7 @@ Agrigento, by a wide margin. There was something pretty powerful about walking a
 
 We saw many beautiful and interesting and historic sights, and we also saw the result of Italy's neglect of Sicily. Many places clearly don't have the ability to provide the basic services expected and required of a government: roads were pretty much universally in terrible shape; towns and cities were overwhelmed by trash; buildings were falling down. We saw many apartment buildings abandoned and falling apart; we saw many industrial buildings half-built and abandoned. 
 
-There surely are a thousand reasons for this neglect, none of which I know or understand. Whatever the causes, I find Italy's maltreatment of this wonderful place to be unconscionable. 
+There surely are a thousand reasons for this neglect, none of which I know or understand. Whatever the causes, I find Italy's maltreatment of this wonderful place so sad. 
 
 <h3>Eating</h3>  
 
