@@ -39,7 +39,7 @@ We boarded the plane about an hour late. As we were boarding, the captain came o
 
 Now that was good news except: the car was now going to be at Charles DeGaulle. Gilles saved the day a second time by making a quick call before he had to shut the phone down and got the drive-to-CDG request canceled. Because Laurie and I were sitting way behind Mary & Gilles, we didn't know he'd saved the day with that call so we fretted the whole flight.
 
-Finally, we arrived at Orly, got our bags, got our car, drove to Mary & Gilles house. We arrived at about 1 a.m. and Mary followed through on a promise to make scrambled eggs for all of us. So at about 2 a.m. we sat down to a very late dinner? very early breakfast? of scrambled eggs, cheese and wine. 
+Finally, we arrived at Orly, got our bags, got our car, drove to Mary & Gilles house. We arrived at about 1 a.m. and Mary made good on a promise to make scrambled eggs for all of us. So at about 2 a.m. we sat down to a very late dinner? very early breakfast? of scrambled eggs, cheese and wine. 
 
 What a day, eh? Now you may wonder why all the hassle about leaving late and getting in late and different airports. The French air traffic controllers were stiking and/or limiting the number of flights they would handle in solidarity with those protesting the new French rules raising the retirement age in France from 62 to 64. I might point out that the French air traffic controllers <em>are not covered by those rules!</em> They were causing chaos in the skies (Transavia alone had to cancel well over 100 flights) to support those other poor souls who might have to wait until 64 to retire. Can you tell my sympathy is limited?  
 
