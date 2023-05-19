@@ -2,23 +2,162 @@
 title: Zamora
 author: JZ
 date: Thur, 11 May 2023
-category: 
+category: Spain
 math: true
 mermaid: true
 layout: post
-thumbnail:
+thumbnail: 2023/05/zamora/DSC04228.jpg
 ---
-Zamora. Zamora. Zamora...
+Zamora. Zamora. Ah, Zamora...
 
-We first came to Zamora probably in 2010 or 2011. We liked it for many reasons. We recommended it to friends wo came here and returned raving about it. So in 2018, we returned and fell head over heels with this city. This time we came back, stayed four nights, found we like it even better and realized that, after some thirty years of coming to Spain and staying all over the place, Zamora is our favorite place. By a lot.
+We first came to Zamora probably in 2010 or 2011. We liked it for many reasons. We recommended it to friends who came here and returned raving about it. So in 2018, we returned and fell head over heels in love with this city. This time we came back, stayed four nights, found we like it even better and realized that after some thirty years of coming to Spain and staying all over the place, Zamora is our favorite place in Spain. By a lot.
 
-Oddly, Zamora is not well-known among Spaniards. A good friend who lived in Spain for years told me he'd nevber been to Zamora. We met a very nice young man in a church who said he was born in Zamora, has family there and though he lives and works in Madrid, returns when he can. He said that he has friends in Madrid who have never been to Zamora and know little about it. When we told him that we love the city, he said, in kind of halting English, "I love that you love Zamora."
+Oddly, Zamora is not well-known among Spaniards. A good friend who lived in Spain for years told me he'd never been to Zamora. We met a very nice young man in a church who said he was born in Zamora, has family there and though he lives and works in Madrid, returns when he can. He said that he has friends in Madrid who have never been to Zamora and know little about it. When we told him that we love the city, he responded, "I love that you love Zamora."
 
-What is it that we love about this place? Zamora is a good-sized city, population somewhere above 60,000. Its "old town" is separate from the modern development and has two distinct parts, separated by the Plaza Mayor. The western part is really old, with many buildings three- or four-hundred years old. This section has about a dozen Romanesque churches, built in the 11th and 12th century. It has a fortress started in the 7th century. ALmost all the updating and modernizing of this sector has been done with an eye to maintaining the look and feel of the original city.
+What is it that we love about this place? Zamora is a good-sized city, population somewhere above 60,000. Its "old town" is separate from the modern development and has two distinct parts, separated by the Plaza Mayor. The western part is really old, with many buildings three- or four-hundred years old. This section has about a dozen Romanesque churches, built in the 11th and 12th century. It has a fortress started in the 9th century. Almost all the updating and modernizing of this sector has been done with an eye to maintaining the look and feel of the original city.
 
-East of the Plaza Mayor is more modern, "modern" in this case being early 1900s to today. For some unknown (to us) reason, the Modernism movement of buildings that was prevalent in Barcelona, came to Zamora and is expressed in the eastern half of the old town. These are beautiful. kind of art-deco, kind of art-nouveau, kind of unique-to-Zamora style buildings, interspersed with older buildings and churches. 
+East of the Plaza Mayor is more modern, "modern" in this case being early 1900s to today. For some unknown (to us) reason, the Modernism movement of buildings that was prevalent in Barcelona, came to Zamora and is expressed in the eastern half of the old town. These are beautiful; kind of art-deco, kind of art-nouveau, kind of unique-to-Zamora style buildings, interspersed with older buildings and churches. 
 
-In this respect, Zamora rewards just walking around. Every block will have some surprising building or plaza or store or restaurant. We walked and walked and walked, and the next time we come to Zamora, we'll do it again.
+Laurie and I love just walking in the places we visit - we call it "absorbing the culture." We love just being part of a place.  Zamora rewards just walking around. Every block will have some surprising building or plaza or store or restaurant. We walked and walked and walked, and the next time we come to Zamora, we'll do it again.
 
-Zamora also maintains the tradition of the <em>paseo</em>. Every evening, starting at about 5 o'clock, people come out into the streets and walk from the western end of the old town to the eastern end, turn around and do it again and again. You see young and old couples, families of three and four generations, kids, whatever. It is so much fun to join the <em>paseo</em> during the evening. By about ten o'clock, it's wound down, but tomorrow night, everyone's out again.
+Zamora also maintains the Spanish tradition of the <em>paseo</em>. Every evening, starting at about 5 o'clock, people come out into the streets and walk from the one end of the old town to the other, turn around and do it again and again. You see young and old couples, families of three and four generations, kids, whatever. It is so much fun to join the <em>paseo</em> during the evening. By about ten o'clock, it's winding down, but tomorrow night, everyone's out again. We joined the <em>paseo</em> every night we were here.
 
+<figure class = "landscape" >
+	<img src="{{"2023/05/zamora/overview/DSC04381.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>Zamora from across Rio Duero.</em></figcaption>
+</figure>
+
+
+<h2>Strolling around Zamora</h2>  
+Some sights from our strolls around Zamora.
+
+<figure class = "landscape" >
+	<img src="{{"2023/05/zamora/streets/DSC04193.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>Nothing better than sitting and watching the world go by...</em></figcaption>
+</figure>
+
+<figure class = "landscape" >
+	<img src="{{"2023/05/zamora/streets/DSC04341.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>A small plaza.</em></figcaption>
+</figure>
+
+<figure class = "landscape" >
+	<img src="{{"2023/05/zamora/streets/DSC04343.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>Flowers - especially roses - were everywhere. How these things even live, much less thrive, is beyond us. They are planted in small holes in the pavement surrounded by stone, yet grow to huge sizes and bloom far earlier than their Seattle cousins.</em></figcaption>
+</figure>
+<figure class = "landscape" >
+	<img src="{{"2023/05/zamora/streets/DSC04188.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em></em></figcaption>
+</figure>
+
+<figure class = "portrait" >
+	<img src="{{"2023/05/zamora/streets/DSC04190.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>A typical street in the medieval part of Zamora. When Laurie sees a street like this, she often asks, "Is this a street for cars?!?" Frequently the answer is "Yes" (though not in this case - this is a pedestrian-only street. Usually. Motor scooter drivers love a street like this.) </em></figcaption>
+</figure>
+
+<figure class = "landscape" >
+	<img src="{{"2023/05/zamora/streets/DSC04359.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>The Castillo. The first fortress here was built in the 9th century and added to and modified until the 19th, when it was abandoned as a fortress. As I've pointed out elsewhere, I can see an attacking army standing below the fortress and the officers saying, "Ok, men - storm that fortress. I'll be right behind you."</em></figcaption>
+</figure>
+
+<figure class = "landscape" >
+	<img src="{{"2023/05/zamora/streets/DSC04403.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>Zamora's Plaza Mayor. Honestly, we could sit here all afternoon and much of the evening, eating tapas and drinking crazily inexpensive good wine ($4.50 a glass) and watching the world of Zamora go by. </em></figcaption>
+</figure>
+ <figure class = "portrait" >
+	<img src="{{"2023/05/zamora/streets/DSC04405.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>Another corner of our favorite Plaza Mayor. </em></figcaption>
+</figure>
+<figure class = "portrait" >
+	<img src="{{"2023/05/zamora/streets/DSC04397.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>This street was one tapas bar after another. We didn't try even one, as we found we liked sitting on the Plaza Mayor for our tapas. There was much more to watch there.</em></figcaption>
+</figure>
+ <figure class = "portrait" >
+	<img src="{{"2023/05/zamora/streets/DSC04399.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>Another street of restaurants and tapas bars. Notice the windows - these area called "Oriel" windows and are common here and in Barcelona, but not seen much anywhere else in Spain. </em></figcaption>
+</figure>
+
+
+<h2>Churches</h2>
+Lot of churches in Zamora! Officially, there are 22 Romanesque churches, which gives Zamora its title of the capital of Romanesque in Europe. In fact, there is no other place in Europe with a higher concentration of Romanesque churches. 
+
+Romanesque architecture came just before the soaring Gothic architecture that evolved in France first and then the rest of Europe in the 12th ands 13th centuries. Romanesque is marked by rounded arches, thick walls, few windows and a sense of solidity.
+
+Some Romanesque churches in Zamora:
+<figure class = "portrait" >
+	<img src="{{"2023/05/zamora/churches/DSC04180.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>See what I'm saying about solidity? Romanesque churches do not have the soaring lightness and stained glass of Gothic, but they are beautiful in their own right.</em></figcaption>
+</figure>
+<figure class = "portrait" >
+	<img src="{{"2023/05/zamora/churches/DSC04179.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em></em></figcaption>
+</figure>
+
+<figure class = "landscape" >
+	<img src="{{"2023/05/zamora/churches/DSC04215.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>This church, just outside the walls of medieval Zamora, claims to be the oldest church in the city. Another church about a half mile away also claims that title. In fact, both appear in the same records of the city in the mid-eleventh century, so no one knows which is really the oldest. This one, though, has a claim on history: El Cid - the legendary defender of Spain who started to push the Moors out of the country, was knighted in this church sometime in the 12th century. Well, legend says he was...true? Lost in the fog of history. </em></figcaption>
+</figure>
+<figure class = "landscape" >
+	<img src="{{"2023/05/zamora/churches/DSC04231.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>The façade of one of the 22 Romanesque churches in Zamora. </em></figcaption>
+</figure>
+<figure class = "portrait" >
+	<img src="{{"2023/05/zamora/churches/DSC04221.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>An unusual church: pure Romanesque except...at some point in its history the interior was revamped to appear to be Gothic. Note the pointed arches and ribs into the ceiling. Here they are superficial, serving no purpose but to make the church look Gothic. </em></figcaption>
+</figure>
+
+<figure class = "portrait" >
+	<img src="{{"2023/05/zamora/churches/DSC04265.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>Spanish Baroque. In the 17th century, this florid style started to appear in Spanish buildings and church interiors. It's crazy! You can look at these things for a long time and not see half the detail. Kept the sculptors busy, that's for sure. </em></figcaption>
+</figure>
+<figure class = "portrait" >
+	<img src="{{"2023/05/zamora/churches/DSC04267.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>More Spanish Baroque. This image of Mary typifies the Spanish church; the center of the Spanish church is Mary; Jesus is a minor figure.</em></figcaption>
+</figure>
+<figure class = "portrait" >
+	<img src="{{"2023/05/zamora/churches/DSC04317.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>Our Lady of Fatima. This chapel shows the image of Mary appearing in a tree to three children in 1917 in Fatima, Portugal. She continued to appear for six months, to one of the children and then more people until her last appearance, which was seen by 70,000 people. The site of this event is now a pilgrimage site, with the capability of holding a million pilgrims during the annual pilgrimage culminating on May 13.</em></figcaption>
+</figure>
+
+<figure class = "landscape" >
+	<img src="{{"2023/05/zamora/churches/DSC04289.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>Saturday afternoon is the big day for weddings - every church in Zamora will have at least one wedding Saturday afternoons. We love to stand around and watch the activities.</em></figcaption>
+</figure>
+<h2>Medieval Buildings</h2>
+
+<h2>Modernista Buildings</h2>
+From about 1900 to 1920, a modernista wave of buildings brought some beautiful buildings to Zamora. To a large extent, these were built east of the Plaza Mayor in a newer section of the old city (if that makes sense). These buildings reflect styles that were dominant in Barcelona at the time, following the two leading Moderisme architechs there, Antoni Gaudi and Lluís Domènech i Montaner. 
+
+Modernista buildings are marked by organic designs - flowers and leaves and trees often mark Modernista buildings. In the Zamoran version, the buildings often use color as an architectural element and we can see the first glimmers of art-deco in many of the Modernista buildings.
+
+<figure class = "landscape" >
+	<img src="{{"2023/05/zamora/modernista/DSC04325.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>A perfect example of Zamoran Modernista buildings: the Teatro Ramos Carrión. Completed in 1916, it entered a period of decline during which it eventually became a movie theater and then was completely abandoned. At the start of this century, the city decided it was worth saving and restored it to its original condition. Kudos to Zamora for that.</em></figcaption>
+</figure>
+
+<figure class = "landscape" >
+	<img src="{{"2023/05/zamora/modernista/DSC04184.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>This building has "organic" sculptures above the doors and windows, a commonly-seen element of Zamora modernista buildings</em></figcaption>
+</figure>
+
+<figure class = "landscape" >
+	<img src="{{"2023/05/zamora/modernista/DSC04233.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>Color used as an architecural element. These are ceramic tiles. </em></figcaption>
+</figure>
+
+<figure class = "portrait" >
+	<img src="{{"2023/05/zamora/modernista/DSC04249.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>This building shows two common Modernista elememnts: the organic decoration around the doors and windows on the left, and the Oriel window on the right. There are a couple windows on which the Oriel window takes up the entire front of the building, with only the ground floor being regular windows and doors. </em></figcaption>
+</figure>
+
+<figure class = "portrait" >
+	<img src="{{"2023/05/zamora/modernista/DSC04263.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Zamora" />
+	<figcaption><em>One last building, with beautiful details above the doors and graceful railings on the windows. </em></figcaption>
+</figure>
+
+<h3>Zamora Wrap-up</h3>
+I took a <em>lot</em> of pictures in Zamora, but I'll spare you. 
+
+There's no city Laurie and I like better to walk in and around and through. Long ago we realized that what we like best to do on our travels is just walk and absorb a place, its life and buildings and culture; Zamora is one of our favorite places to do that.
+
+Some years ago Laurie and I said that whenever we came to Europe we'd find a way to spend a few days in Paris; Zamora has reached that level for us. I suspect we'll find many excuses to visit Zamora again, but we really don't need excuses. We love the city, and hope to return many times.

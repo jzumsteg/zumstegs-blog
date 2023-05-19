@@ -2,7 +2,7 @@
 title: Ah, the Romance Of Air Travel...
 author: JZ
 date: Mon, 08 May 2023
-category: 
+category: [Sicily, Misadventures]
 math: true
 mermaid: true
 layout: post

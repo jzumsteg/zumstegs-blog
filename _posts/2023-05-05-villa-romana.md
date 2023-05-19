@@ -2,7 +2,7 @@
 title: Mosaics at <em>Villa Romana</em>
 author: JZ
 date: Thur, 04 May 2023
-category: 
+category: Sicily
 math: true
 mermaid: true
 layout: post

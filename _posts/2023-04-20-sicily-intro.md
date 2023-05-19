@@ -2,7 +2,7 @@
 title: Introducing Sicily
 author: JZ
 date: Sat,20 Apr 2023 15:58:00 +0000
-category: 
+category: Sicily
 math: true
 mermaid: true
 layout: post
