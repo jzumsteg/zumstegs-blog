@@ -8,7 +8,7 @@ mermaid: true
 layout: post
 thumbnail:
 ---
-After our adventuresome return from Sicily, Laurie had only one day to get everything washed and re-packed for our departure to Spain - driving this time. We didn't plan it this way; we expected to have two days to do all that, but Transavia cancelled our Sunday flight and put us on a Monday one. By then, we had booked three places in Spain and arranged to spend time with friends in the Pyrenees mountains and we didn't want to change all those arrangements. In a Herculean effort, Laurie got it all done and about 9 Wednesday morning we jumped into our leased car and headed south.
+After our adventure-filled return from Sicily, Laurie had only one day to get everything washed and re-packed for our departure to Spain - driving this time. We didn't plan it this way; we expected to have two days to do all that, but Transavia cancelled our Sunday flight and put us on a Monday one. By then, we had booked three places in Spain and arranged to spend time with friends in the Pyrenees mountains and we didn't want to change all those arrangements. In a Herculean effort, Laurie got it all done and about 9 Wednesday morning we jumped into our leased car and headed south.
 
 Big surprise of the day: there were no surprises. Our car ran fine; our debit cards worked in the machines on the toll roads; the hotel at our stopping point - Saint-Jean-de-Luz - was fine; we found free parking and a good restaurant in the city. All was good!
 

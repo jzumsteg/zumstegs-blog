@@ -6,7 +6,10 @@ title: Cheese Log
   Brie de Meaux  
   Roquefort  
   Comté  
-  Bleu de Auvergne
+  Bleu d'Auvergne
+  Ossau-Iraty
+  Saint-Felicien 
+  Morbier
 
   <h2>2021 Cheese Log</h2>  
 Beaufort  
