@@ -33,7 +33,7 @@ Whoops - wait a minute. Small mistake there. Below is our house for this summer:
 </figure>
 We became immediately comfortable in the house. Built in 1903, it has been much updated and improved by its current owner. It's got large bedrooms, a huge bathroom, lots of storage and a very comfortable living room. What's not to like? The only real challenge is that Laurie is cooking in an unfamilar kitchen, with unfamilar utensils and all the food just different, too. But I can tell you, she's doing great at it; not a bad meal yet and I don't expect that will change.
 
-After a big trip to the local supermarket, we have gone several times to our favorite store, Fraich. What can we get there? The best produce and fruit imaginable (pictures to follow Real Soon Now, after our next foray there), a huge selection of inexpensive wines, a well-stocked cheese shop (my favorite - I buy the cheese and almost always get the one I ask for. I think.) and a butcher (which has a fig paté - mmmmmm!). I mean really, fruit, produce, wine, cheese and paté; we don't need anything else, do we?
+After a big trip to the local supermarket, we have gone several times to our favorite store, Fraich. What can we get there? The best produce and fruit imaginable (pictures to follow Real Soon Now, after our next foray there), a huge selection of inexpensive wines, a well-stocked cheese shop (my favorite - I buy the cheese and almost always get the one I ask for. I think.) and a butcherie (which has a fig paté - mmmmmm!). I mean really, fruit, produce, wine, cheese and paté; we don't need anything else, do we?
 
 <h2>Some Sights Around Bois-le-Roi</h2>
 Just a couple things...
