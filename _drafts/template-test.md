@@ -1,14 +1,14 @@
 ---
-title: Template
+title: Template Test
 author: JZ
-date: Thu, 30 Mar 2023 15:58:00 +0000
+date: Sun, 04 Jun 2023
 category: 
 math: true
 mermaid: true
 layout: post
 thumbnail: 2022/06/DSC02529-1.jpg
 ---
-
+<p>site.imageURL: {{ site.imageURL}}, site.baseURL: {{ site.baseURL}}, site.url: {{ site.url}}</p><br>
 <figure class = "landscape" >
 	<img src="{{ "2022/06/DSC02529-1.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The St. Louis Zummies - ready for a swimming pool outing.</em></figcaption>

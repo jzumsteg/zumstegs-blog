@@ -11,6 +11,7 @@ permalink: pretty
 cover_image: /DSC08791.jpg
 markdown: kramdown
 imageurl: /assets/images/
+date_format: "%-d %b %Y"
 
 
 # Gems

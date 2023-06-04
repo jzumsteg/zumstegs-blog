@@ -10,6 +10,11 @@ title: Cheese Log
   Ossau-Iraty
   Saint-Felicien 
   Morbier
+  Saint-Marcellin
+  Mimolet
+  Colummiers
+  Crottin de Chavignol
+  Tommes de Savoie
 
   <h2>2021 Cheese Log</h2>  
 Beaufort  
@@ -25,7 +30,7 @@ Port Salut
 Chaussee aux moines  
 Crottin de Chauvignol (A chèvre that comes in little wheels about 2 inches in diameter. It is sold in different ages, from a month or so old to a year old; it gets smaller, drier and more flavorful as it ages.)  
 St. Nectaire  
-Mimolet (French version of gouda)  
+Mimolette (French version of gouda)  
 Morbier  
 Ossau-Iraty  
 Roquefort  
