@@ -15,6 +15,7 @@ title: Cheese Log
   Colummiers
   Crottin de Chavignol
   Tommes de Savoie
+  Chaource
 
   <h2>2021 Cheese Log</h2>  
 Beaufort  
