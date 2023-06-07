@@ -30,7 +30,7 @@ Hervé and I opted for steak/frites, because steak/frites. Mighty good.
 	<img src="{{ "autrefois/IMG_5613.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Perfect!</em></figcaption>
 </figure>
-And the big surprise: we had to have a little rosé with lunch because that's what we do. The restaurant offered a <em>pichet</em> of wine&mdash;half a liter, 2/3rds of a bottle&mdash;for about $6.50. Yes, $6.50 and it was fine. That was such a bargain that we had a second <em>pichet</em>. I wanted to know if we could buy some at that price to take some home with us.
+And the big surprise: we had to have a little rosé with lunch because that's what we do. The restaurant offered a <em>pichet</em> of wine&mdash;half a liter, 2/3rds of a bottle&mdash;for about $6.50. Yes, $6.50 and it was fine. It was such a bargain that we had a second <em>pichet</em>. I wanted to know if we could buy some at that price to take some home with us.
 
 A great start to our museum visit...
 
