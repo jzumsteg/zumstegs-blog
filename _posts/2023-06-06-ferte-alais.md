@@ -8,9 +8,9 @@ mermaid: true
 layout: post
 thumbnail: ferte-alais/DSC04872.jpg
 ---
-<em>(Note: If you have no interest in old airplanes, you might want to just skip this post, which is about...wait for it...old airplanes. I won't be offended.)</em>
+<em>(Note: If you have no interest in old airplanes, you might want to just skip this post, which is about...you guessed it...old airplanes. I won't be offended.)</em>
 
-I've written before about the Fete Aérien, <em>Los Temps de Hélices ("The Days of Propellers"),</em> as this is the third time I've gone to this airshow at the town of La Ferte-Alaïs with Hervé and his daughter Sophia, this time also accompanied by a friend of Sophia. This was the 50th anniversary of this airshow, so a little special. I've been to a fair number of air shows, and enjoyed none of them nearly as much as this one.
+I've written before about the <em>Fete Aérien, Los Temps de Hélices ("The Days of Propellers"),</em> as this is the third time I've gone to this airshow at the town of La Ferte-Alaïs with Hervé and his daughter Sophia, this time also accompanied by a friend of Sophia. This was the 50th anniversary of this airshow, so a little special. I've been to a fair number of air shows, and enjoyed none of them nearly as much as this one.
 
 This year 84 different planes were scheduled to fly, planes ranging from perfect replicas of planes from the 1910s to the French front-line fighter, the Dassault Rafale. Unlike most airshows, which have fly-bys of a few interesting airplanes, interspersed with 345 displays of aerobatics - each doing the same aerobatics as the others; how many loops and rolls can a person watch? - at Ferte-Alaïs there was just one aerobatic demonstration, and a bunch of "vignettes," in which planes of an era flew together and chased each other all over the sky. Great fun to watch!
 
@@ -72,9 +72,13 @@ There's a fair amount of cosplay at the show: folks dressed in aviation-related 
 </figure>
 <figure class = "landscape" >
 	<img src="{{ "ferte-alais/DSC04883.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Curtiss P-40 Warhawk. Early in World War II the Warhawk was the best fighter the Allies had, but was at a decided disadvantage in high-altitude air-to-air combat with the German Focke-Wolf ME-109. Its role became ground support, first supporting the Allied invasion of North Africa. It also found success in covering later invasions in the Pacific and China. This Warhawk flew at Ferte-Alaïs and the sound of its V12 Allison engine at full scream was fantastic.  </em></figcaption>
+	<figcaption><em>Curtiss P-40 Warhawk. Early in World War II the Warhawk was the best fighter the Allies had, but was at a decided disadvantage in high-altitude air-to-air combat with the German Messerschmitt Bf-109. The Warhawk's role became ground support, first supporting the Allied invasion of North Africa. It also found success in covering later invasions in the Pacific and China. This Warhawk flew at Ferte-Alaïs and the sound of its V12 Allison engine at full scream was fantastic.  </em></figcaption>
 </figure>
 
 Unfortunately I have no good pictures of the two Submarine Spitfires that flew at the airshow. They, too, thrilled everyone just by the sound as they flew by at high speed.
 
 I think that's all for the 2023 edition of my report on the Ferte-Alaïs airshow. I can tell you that for us slightly crazy old airplane nuts, it was a great day, sitting in the sun and watching planes that could have been scrapped years ago buzzing around the sky. Thanks, again, Hervé; it was a special day for me. See ya next year, same time, same place.
+
+
+(If you'd like to see my post on the 2021 Ferte-Alaïs airshow, it's at: [2021 Ferte-Alaïs]({% post_url 2021-09-30-la-ferte-alais-airshow-2 %}) )
+
