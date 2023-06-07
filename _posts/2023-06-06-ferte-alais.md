@@ -64,7 +64,7 @@ A number of planes are available for demonstration flights, and Hervé loves to 
 There's a fair amount of cosplay at the show: folks dressed in aviation-related period outfits. 
 <figure class = "landscape" >
 	<img src="{{ "ferte-alais/DSC04878.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Costumes of two English air officers from the time of the Battle of Britain. They're standing in front of a Submarine Spitfire, the hero airplane of that battle.</em></figcaption>
+	<figcaption><em>Two men dressed in what must be Russian airmen uniforms. They're standing in front of a Yak-3, a airplane developed by Russia late in World War II. One source says that despite its success as a low-altitude figher, its problems "included plywood surfaces delaminating when the aircraft pulled out of a high-speed dive, short-range and poor engine reliability." Yikes!</em></figcaption>
 </figure>
 <figure class = "landscape" >
 	<img src="{{ "ferte-alais/DSC04880.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
