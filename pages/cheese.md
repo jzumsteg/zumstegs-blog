@@ -6,16 +6,16 @@ title: Cheese Log
   Brie de Meaux  
   Roquefort  
   Comté  
-  Bleu d'Auvergne
-  Ossau-Iraty
-  Saint-Felicien 
-  Morbier
-  Saint-Marcellin
-  Mimolet
-  Colummiers
-  Crottin de Chavignol
-  Tommes de Savoie
-  Chaource
+  Bleu d'Auvergne  
+  Ossau-Iraty  
+  Saint-Felicien   
+  Morbier  
+  Saint-Marcellin  
+  Mimolet  
+  Colummiers  
+  Crottin de Chavignol  
+  Tommes de Savoie  
+  Chaource  
 
   <h2>2021 Cheese Log</h2>  
 Beaufort  
