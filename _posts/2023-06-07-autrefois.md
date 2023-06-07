@@ -1,7 +1,7 @@
 ---
 title: Musée de la Vie d'Autrefois (Museum of Life in Past Times)
 author: JZ
-date: Tue, 06 Jun 2023
+date: Wed, 07 Jun 2023
 category: 
 math: true
 mermaid: true
