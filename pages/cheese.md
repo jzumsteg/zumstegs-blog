@@ -6,16 +6,24 @@ title: Cheese Log
   Brie de Meaux  
   Roquefort  
   Comté  
-  Bleu d'Auvergne  
+  Bleu d'Auvergne    
   Ossau-Iraty  
   Saint-Felicien   
   Morbier  
   Saint-Marcellin  
+  Fourme d'Ambert  
   Mimolet  
   Colummiers  
   Crottin de Chavignol  
-  Tommes de Savoie  
+  
+  Tommes are cheeses from the French Alps
+  Tomme de Savoie  
+  Tomme de Brebis - a tomme with milk from sheep; this has become one of my favorite cheeses [I have about forty-two favorite cheeses, I think). 
+  Tomme des Fleurs - a tomme with tiny wildflowers (fleurs) in the rind.
+    
   Chaource  
+  Salers  
+
 
   <h2>2021 Cheese Log</h2>  
 Beaufort  
