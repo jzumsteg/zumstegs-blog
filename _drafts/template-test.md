@@ -7,6 +7,7 @@ math: true
 mermaid: true
 layout: post
 thumbnail: 2022/06/DSC02529-1.jpg
+summary: A test. If you see this, I screwed up.
 ---
 <p>site.imageURL: {{ site.imageURL}}, site.baseURL: {{ site.baseURL}}, site.url: {{ site.url}}</p><br>
 <figure class = "landscape" >
