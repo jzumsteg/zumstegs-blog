@@ -1,7 +1,7 @@
 ---
 title: A Couple Day-trips
 author: JZ
-date: Sat, 17 Jun 2023
+date: Sun, 18 Jun 2023
 category: Rambles
 math: true
 mermaid: true
