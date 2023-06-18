@@ -12,13 +12,13 @@ summary: Two day trips to interesting sites nearby - the home of artist Gustave 
 <h2>Gustave Caillebotte</h2>
 Gustave Caillebotte was a painter who was a part of the Impressionist movement of the second half of the 19th century, though his painting style was more realistic than the other Impressionists. Because he was born (1848) into a wealthy family, had an impressive allowance and then inherited his father's fortune in 1874, he was able to support the often-moneyless Impressionist artists, usually by purchasing their paintings. Caillebotte exhibited with the Impressionist artists at their salons, though his style wasn't really the same.
 
-In 1878 he and his brothers sold the family estate - the house and grounds we visited last week, in the town of Yerres, about 20 miles south of Paris. Though he continued to paint, Caillebotte stopped exhibiting, and increased his help to other artists. In 1888 he moved to a house in Argentueil, a favorite location of many impressionists. From this time to his death five years later at age 45, he devoted himself to designing, building and racing sailboats, though he continued to paint. At the time of his death he owned 65 paintings by the main Impressionist artists: Money, Manet, Pissarro, his close friend Renoir, and others.
+In 1878 he and his brothers sold the family estate - the house and grounds we visited last week, in the town of Yerres, about 20 miles south of Paris. Though he continued to paint, Caillebotte stopped exhibiting, and increased his help to other artists. In 1888 he moved to a house in Argentueil, a favorite location of many impressionists. From this time to his death five years later at age 45, he devoted himself to designing, building and racing sailboats, though he continued to paint. At the time of his death he owned 65 paintings by the main Impressionist artists: Monet, Manet, Pissarro, his close friend Renoir, and others.
 
-This house, long the main house of the family, is owned by the town of Yerres and has been restored thoroughly. Much of the furniture was in the house when it was in the family. Laurie and I really enjoy seeing set pieces of rooms furnished and decorated as they were when a house was lived in, so we were pleased whe Mary & Gilles suggested we visit it - about an hour away.
+This house, long the main house of the family, is owned by the town of Yerres and has been restored thoroughly. Much of the furniture was in the house when it was in the family. Laurie and I really enjoy seeing set pieces of rooms furnished and decorated as they were when a house was lived in, so we were pleased when Mary & Gilles suggested we visit it - about an hour away.
 
 First, probably the best known painting of Gustave Caillebotte (image from Wikipedia):
 <figure class = "landscape" >
-	<img src="{{ "caillebotte-meaux/caillebotte.jpeg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "caillebotte-meaux/Caillebotte.jpeg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>The Floor Scrapers, by Gustave Caillebotte (1875). For a look at more Caillebotte paintings, https://en.wikipedia.org/wiki/Gustave_Caillebotte#Development</em></figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ First, probably the best known painting of Gustave Caillebotte (image from Wikip
 </figure>
 <figure class = "landscape" >
 	<img src="{{ "caillebotte-meaux/DSC05036.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>A view of the "backyard." (A small part of the 16 acres.) The building is the Orangerie, where orange trees where kept in pots and raised indoors so they could provide fresh oranges during winter.</em></figcaption>
+	<figcaption><em>A view of the "backyard." (A small part of the 16 acres.) The building is the Orangerie, where orange trees were kept in pots and raised indoors so they could provide fresh oranges during winter.</em></figcaption>
 </figure>
 We very much enjoyed our day in Yerres, at the house and estate of Gustave Caillebotte. We had a very nice lunch at the <em>Salon de Thé</em> on the grounds, saw the house and walked a bit around the grounds. The temperature was in the high-80s, so not too much walking!
 
@@ -59,7 +59,7 @@ Meaux (pronounced "Moe") was near the front lines of WW1 - about an hour east of
 A few pictures of the museum...
 <figure class = "portrait" >
 	<img src="{{ "caillebotte-meaux/DSC05049.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>A Scottish soldier in full uniform and kit.</em></figcaption>
+	<figcaption><em>A Scottish soldier in full uniform and army kit (not to mention kilt).</em></figcaption>
 </figure>
 <figure class = "portrait" >
 	<img src="{{ "caillebotte-meaux/DSC05051.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />

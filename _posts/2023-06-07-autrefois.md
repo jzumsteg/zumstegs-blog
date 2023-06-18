@@ -7,7 +7,7 @@ math: true
 mermaid: true
 layout: post
 thumbnail: autrefois/DSC04927.jpg
-summary: A trip to a great meal and a most unusual museum.
+summary: A trip to a great meal and a most unusual and enjoyable museum.
 ---
 Jamie and Hervé told us of a most unusual museum they had recently visited: <em>La Musée de la Vie d'Autrefois</em>, which can be translated as "The Museum of Life in Past Times." It's dedicated to showing what life in France was like from around 1800 to 1950. It does that by presenting 101 "scenes," rooms that show how people lived and worked in those times. And it does that by creating a room showing everything - and I do mean <em>everything</em> that could have been in that room. It's mind-boggling!
 

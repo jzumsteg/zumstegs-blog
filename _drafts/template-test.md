@@ -15,9 +15,9 @@ summary: A test. If you see this, I screwed up.
 	<figcaption><em>The St. Louis Zummies - ready for a swimming pool outing.</em></figcaption>
 </figure>
 
-<figure class = "landscape" >
-	<img src="{{"2022/06/DSC02536.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Craig and Annie, Laurie and me, heading out to an excellent dinner.</em></figcaption>
+<figure class = "portrait-wide-caption" >
+	<img class = "narrow" src="{{"sancerre/DSC04945-3.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption><em>Sancerre. This caption is lengthyu, so we match it with a class that spreads it out more than the image, and keep the image smaller. I hope this works as it would make the long captiosn appear much nicer.</em></figcaption>
 </figure>
 
 <- use the below to create a image gallery >
