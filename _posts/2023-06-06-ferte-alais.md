@@ -7,6 +7,7 @@ math: true
 mermaid: true
 layout: post
 thumbnail: ferte-alais/DSC04872.jpg
+summary: A day spent watching old airplanes - what could be better?
 ---
 <em>(Note: If you have no interest in old airplanes, you might want to just skip this post, which is about...you guessed it...old airplanes. I won't be offended.)</em>
 

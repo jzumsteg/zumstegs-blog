@@ -7,6 +7,7 @@ math: true
 mermaid: true
 layout: post
 thumbnail: caillebotte-meaux/DSC05034.jpg
+summary: Two day trips to interesting sites nearby - the home of artist Gustave Caillebotte and the World War 1 museum at Meaux.
 ---  
 <h2>Gustave Caillebotte</h2>
 Gustave Caillebotte was a painter who was a part of the Impressionist movement of the second half of the 19th century, though his painting style was more realistic than the other Impressionists. Because he was born (1848) into a wealthy family, had an impressive allowance and then inherited his father's fortune in 1874, he was able to support the often-moneyless Impressionist artists, usually by purchasing their paintings. Caillebotte exhibited with the Impressionist artists at their salons, though his style wasn't really the same.

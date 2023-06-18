@@ -7,9 +7,9 @@ math: true
 mermaid: true
 layout: post
 thumbnail: 2023/04/agrigento/DSC03846.jpg
----
-A few words to wrap up our Sicily trip. 
+summary: A few words to wrap up our Sicily trip. 
 
+---
 <h3>Our favorite place</h3>
 Agrigento, by a wide margin. There was something pretty powerful about walking among these temples built 2,500 years, thinking about the effort to build them and the effort to reconstruct them from a heap of rubble. They are breath-taking.
 
