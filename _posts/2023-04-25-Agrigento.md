@@ -2,7 +2,7 @@
 title: Agrigento, Sicily
 author: JZ
 date: Tue, 25 Apr 2023
-category: Sicily
+category: [Sicily, Places]
 math: true
 mermaid: true
 layout: post

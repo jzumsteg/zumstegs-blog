@@ -2,7 +2,7 @@
 title: Musée de la Vie d'Autrefois (Museum of Life in Past Times)
 author: JZ
 date: Wed, 07 Jun 2023
-category: 
+category: Rambles
 math: true
 mermaid: true
 layout: post

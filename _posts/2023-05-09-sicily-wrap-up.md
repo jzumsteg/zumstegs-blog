@@ -2,7 +2,7 @@
 title: Sicily Wrap-up
 author: JZ
 date: Tue, 09 May 2023
-category: Sicilys
+category: Sicily
 math: true
 mermaid: true
 layout: post
