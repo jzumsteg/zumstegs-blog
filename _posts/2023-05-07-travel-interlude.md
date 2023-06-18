@@ -43,7 +43,7 @@ Finally, we arrived at Orly, got our bags, got our car, drove to Mary & Gilles h
 
 What a day, eh? Now you may wonder why all the hassle about leaving late and getting in late and different airports. The French air traffic controllers were stiking and/or limiting the number of flights they would handle in solidarity with those protesting the new French rules raising the retirement age in France from 62 to 64. I might point out that the French air traffic controllers <em>are not covered by those rules!</em> They were causing chaos in the skies (Transavia alone had to cancel well over 100 flights) to support those other poor souls who might have to wait until 64 to retire. Can you tell my sympathy is limited?  
 
-I understand Transavia is adopting a new slogan: "Fly with Transavia and your destination may be a surprise." (Although this wasn't really a Transavia problem; they did a great job adapting to the circumstances brought about by those %#*$@ air traffic controllers.)
+I understand French Air Traffic Control is adopting a new slogan: "Fly with us and your destination may be a surprise." (This wasn't a Transavia problem; they did a great job adapting to the circumstances brought about by those %#*$@ air traffic controllers.)
 
 But we got home, safe and sound. And tired. And cranky. But home.
 
