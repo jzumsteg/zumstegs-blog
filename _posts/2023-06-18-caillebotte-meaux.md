@@ -19,7 +19,7 @@ This house, long the main house of the family, is owned by the town of Yerres an
 First, probably the best known painting of Gustave Caillebotte (image from Wikipedia):
 <figure class = "landscape" >
 	<img src="{{ "caillebotte-meaux/Caillebotte.jpeg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>The Floor Scrapers, by Gustave Caillebotte (1875). For a look at more Caillebotte paintings: <a href="https://en.wikipedia.org/wiki/Gustave_Caillebotte#Development" target="_blank">Caillebotte</a></em> </figcaption>
+	<figcaption><em>The Floor Scrapers, by Gustave Caillebotte (1875). For a look at more Caillebotte paintings: <a href="https://en.wikipedia.org/wiki/Gustave_Caillebotte#Development" target="_blank">More Caillebotte</a></em> </figcaption>
 </figure>
 
 
