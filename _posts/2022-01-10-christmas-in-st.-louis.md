@@ -63,7 +63,7 @@ Have you ever had that feeling that someone was looking at you? At this sculptur
 
 
 
-The most interesting thing in the park was an owl, sitting in a tree by the side of a path.  We've never been this close to an owl in the wild.
+A most interesting thing in the park was an owl, sitting in a tree by the side of a path.  We've never been this close to an owl in the wild.
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2022/01/image-15.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -72,7 +72,7 @@ The most interesting thing in the park was an owl, sitting in a tree by the side
 
 
 
-We walked through a Farmers' Market in Kirkwood which was selling trees and saw this one. Yikes!
+We walked through a Farmers' Market in Kirkwood which was selling Christmas trees and saw this one. Yikes!
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2022/01/image-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -175,6 +175,8 @@ Now, I don't know where the driver was from, but I'd guess the Middle East somew
 We made it to the entrance of the development where we live. The driver said he would help us carry our bags to the house, but no way was he going to try driving there. He was right; he would likely not have been able to get out. We declined his offer and dragged our suitcases about a quarter of a mile through six inches of snow. Remember: Laurie is sick and getting sicker by the minute. We opened the garage door at about 12:45 a.m., almost three hours after we'd landed. 
 
 The one wise decision we'd made before we left ten days earlier was to not turn off the heat in the house. So the house was cool, but not freezing. We left the bags in the garage, turned the heat up, turned the electric blankets on and got into bed. Home, sweet home.
+
+The next morning a neighbor texted us to tell us that she had seen one of our suitcases in the driveway and took it up to the porch. We didn't even know it was missing! That gives you an idea of how were were feeling when we got home!
 
 <figure class = "landscape">
 	<img src="{{"/assets/images/2022/01/image-1-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />

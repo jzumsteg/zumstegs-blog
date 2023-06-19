@@ -74,9 +74,9 @@ The Cour Ovale has been the center of the chateau since it was first built, alth
 
 As we (finally) left the Cour Ovale, I told Laurie that now I could die happy, having been there. An exaggeration, of course, but it was very fun to walk around this exceedingly beautiful courtyard that we'd had to look at from the outside for years!
 <h2 style="font-family: verdana;">Some Other Pix</h2>
-<figure class = "portrait">
-	<img src="{{"/assets/images/2021/10/DSC01924.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>This is the throne Napoleon used when he was at Fontainebleau. Napoleon was an enigmatic figure and I'm not sure anyone will ever be able to say whether he was good or bad for France; both, I guess. But no one can deny that he was a force. I'm fascinated by him and his place in history, but when I asked some French friends what the French think of him 200 years after his death, the response was, "They don't think of him at all."</em></figcaption>
+<figure class = "portrait-wide-caption">
+	<img class="narrow" src="{{"/assets/images/2021/10/DSC01924.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<figcaption class="narrow" ><em>This is the throne Napoleon used when he was at Fontainebleau. Napoleon was an enigmatic figure and I'm not sure anyone will ever be able to say whether he was good or bad for France; both, I guess. But no one can deny that he was a force. I'm fascinated by him and his place in history, but when I asked some French friends what the French think of him 200 years after his death, the response was, "They don't think of him at all."</em></figcaption>
 </figure>
 
 

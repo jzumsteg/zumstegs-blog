@@ -38,7 +38,7 @@ A great start to our museum visit...
 To prepare ourselves for the museum, we walked over to the Eiffel Tower. Well, a replica of the Eiffel Tower in the garden of the restaurant.
 <figure class = "portrait" >
 	<img src="{{ "autrefois/DSC04896.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>Jamie and Hervé in the replica of the Eiffel Tower (about 1/20th scale, we think) in the garden of chez Grand Mere - the restaurant at the museum</em></figcaption>
+	<figcaption><em>Jamie and Hervé under the replica of the Eiffel Tower (about 1/20th scale, we think) in the garden of chez Grand Mere - the restaurant at the museum</em></figcaption>
 </figure>
 
 <h2>La Musée de la Vie d'Autrefois</h2>

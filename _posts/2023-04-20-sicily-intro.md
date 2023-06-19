@@ -7,6 +7,7 @@ math: true
 mermaid: true
 layout: post
 thumbnail: 2023/04/DSC03646.jpg
+summary: We finally get to Sicily, three years after we decided to travel here, and two years after we canceled our planned trip. Worth the wait? Read and see...
 ---
 We became interested in Sicily some years back when good friends showed us pictures of a trip they made there. Then, as we were starting to plan our 2020 trip to France, we saw two Rick Steves episodes on Sicily and decided we really wanted to see the place. Mary & Gilles agreed that it would make an excellent ramble so we started planning. I booked a hotel in Palermo and sent them a 500€ deposit. 
 
