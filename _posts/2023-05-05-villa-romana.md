@@ -7,6 +7,7 @@ math: true
 mermaid: true
 layout: post
 thumbnail: 2023/04/villa-romana/DSC03899.jpg
+summary: We visit an ancient Roman villa with what may be the best Roman mosaics in the world, and a lot of them.
 ---
 After the Greek temples at Agrigento, we headed inland to see a wonder of the Roman world. In the fourth century AD (probably; no firm dates for construction or destruction of the villa have been solidly determined), a wealthy Roman landowner and aristocrat built the first parts of a sumptuous villa. Added to by subsequent owners, it grew to palatial size. Parts of it may have been destroyed or damaged by a short-lived Vandal occupation in the late 400s. Evidence indicates that some buildings on the site were used until around 1160; later in the century the site was covered by a landslide, with just a few buildings visible above ground.
 

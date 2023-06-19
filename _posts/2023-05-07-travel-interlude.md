@@ -7,6 +7,7 @@ math: true
 mermaid: true
 layout: post
 thumbnail: 2023/05/1513244as.jpg
+summary: The days air travel being glamorous are LONG gone.
 
 ---
 Our last day in Sicily was, um, interesting.

@@ -7,6 +7,7 @@ math: true
 mermaid: true
 layout: post
 thumbnail: 2023/04/agrigento/DSC03828.jpg
+summary: A day explorng Greek temples built 2,500 years ago; a fabulous trip into the past.
 ---
 On to Agrigento - about 2 hours due south of Palermo, on the southern coast of Sicily. Agrigento is a good-sized city, but just about no one goes there to see the city. Just outside Agrigento is the "<em>Valle dei Templi</em>," a stretch of land that once had some ten or twelve Greek temples on it. Now, three remain in different stages of completeness and condition. All three, and the remnants of others, are gob-smacking.
 
