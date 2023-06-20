@@ -27,11 +27,11 @@ First, probably the best known painting of Gustave Caillebotte (image from Wikip
 <h3>The Caillebotte House</h3>
 <figure class = "landscape" >
 	<img src="{{ "caillebotte-meaux/DSC05034.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>The house in which Gustave Caillebotte grew up. His family was clearly well off. The house sits on about 15 acres of parkland.</em></figcaption>
+	<figcaption><em>The house in which Gustave Caillebotte lived for almost twenty years. His family was clearly well off. The house sits on about 15 acres of parkland.</em></figcaption>
 </figure>
 <figure class = "landscape" >
 	<img src="{{ "caillebotte-meaux/DSC05033.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>We were surprised at how much the dining room resembles the dining room of our house back home: it has a table and chairs; ours also has a table and chairs.</em></figcaption>
+	<figcaption><em>We were surprised at how much the dining room resembles the dining room of our house back home: it has a table and chairs; ours has a table and chairs, too.</em></figcaption>
 </figure>
 <figure class = "landscape" >
 	<img src="{{ "caillebotte-meaux/DSC05024.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -43,7 +43,7 @@ First, probably the best known painting of Gustave Caillebotte (image from Wikip
 </figure>
 <figure class = "landscape" >
 	<img src="{{ "caillebotte-meaux/DSC05019.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>This is an unusual collection: the husband of the woman who owned this house before the Caillebotte family was associated with Napoleon, and she collected Napoleon memorabilia. Although Napoleon was never here, his bed is. Sure looks comfortable, right? </em></figcaption>
+	<figcaption><em>This is an unusual collection: the husband of the woman who owned this house before the Caillebotte family, was associated with Napoleon, and she collected Napoleon memorabilia. Although Napoleon was never here, his bed is. Sure looks comfortable, right? </em></figcaption>
 </figure>
 <figure class = "landscape" >
 	<img src="{{ "caillebotte-meaux/DSC05036.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
@@ -54,7 +54,7 @@ We very much enjoyed our day in Yerres, at the house and estate of Gustave Caill
 <h2><em>La Musée de la Grand Guerre</em> - the Museum of World War I</h2>
 Two days later we went - again with Mary & Gilles - to a far more sobering place: the Museum of World War One. To the French this is "<em>la Grand Guerre:</em> the great (in terms of size) war. Now, in the United States we think of World War Two as "the big one," but in France, World War Two pales in comparison with World War One in terms of deaths. In WW2, France's total military deaths were about 390,000. In WW1, the country suffered 1,400,000 deaths - about 4% of the population and somewhere around 18% of its young men!
 
-On the other hand, the United States lost about 117,000 soldiers in World War One (less that one-tenth of one percent of its population), and 420,000 in World War Two (three-tenths of one percent of population). So while we see WW2 as the "Great War," France rightfully looks at WW1 as a disaster.
+On the other hand, the United States lost about 117,000 soldiers in World War One (less that one-tenth of one percent of its population), and 420,000 in World War Two (three-tenths of one percent of population). So while we see WW2 as the "Great War," France rightfully looks at WW1 as a "the big one."
 
 Meaux (pronounced "Moe") was near the front lines of WW1 - about an hour east of Paris - and so is an excellent location for this museum. This is a spectacular museum. It has an amazing collection of everything war-related, from military equipment to art that soldiers built from war debris, to mock-ups of the infamous trenches that soldiers lived in for weeks at a time, to mannequins wearing almost every type of uniform and carrying their kit. Everything is well organized and beautifully presented. You see World War One in its military history, and how the soldiers and the populations lived it. This place is amazing and absorbing.
 
