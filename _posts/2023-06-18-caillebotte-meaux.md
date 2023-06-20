@@ -10,7 +10,7 @@ thumbnail: caillebotte-meaux/DSC05034.jpg
 summary: Two day trips to interesting sites nearby - the home of artist Gustave Caillebotte and the World War 1 museum at Meaux.
 ---  
 <h2>Gustave Caillebotte</h2>
-Gustave Caillebotte was a painter who was a part of the Impressionist movement of the second half of the 19th century, though his painting style was more realistic than the other Impressionists. Because he was born (1848) into a wealthy family, had an impressive allowance and then inherited his father's fortune in 1874, he was able to support the often-moneyless Impressionist artists, usually by purchasing their paintings. Caillebotte exhibited with the Impressionist artists at their salons, though his style wasn't really the same.
+Gustave Caillebotte was a part of the Impressionist movement of the second half of the 19th century, though his painting style was more realistic than the other Impressionists. Because he was born (1848) into a wealthy family, had an impressive allowance and then inherited his father's fortune in 1874, he was able to support the often-moneyless Impressionist artists, usually by purchasing their paintings. Caillebotte exhibited with the Impressionist artists at their salons, though his style wasn't really the same.
 
 In 1878 he and his brothers sold the family estate - the house and grounds we visited last week, in the town of Yerres, about 20 miles south of Paris. Though he continued to paint, Caillebotte stopped exhibiting, and increased his help to other artists. In 1888 he moved to a house in Argentueil, a favorite location of many impressionists. From this time to his death five years later at age 45, he devoted himself to designing, building and racing sailboats, though he continued to paint. At the time of his death he owned 65 paintings by the main Impressionist artists: Monet, Manet, Pissarro, his close friend Renoir, and others.
 
@@ -31,7 +31,7 @@ First, probably the best known painting of Gustave Caillebotte (image from Wikip
 </figure>
 <figure class = "landscape" >
 	<img src="{{ "caillebotte-meaux/DSC05033.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>We were surprised at how much the dining room resembles the dining room of our house back home: it has a table and chairs; ours has a table and chairs.</em></figcaption>
+	<figcaption><em>We were surprised at how much the dining room resembles the dining room of our house back home: it has a table and chairs; ours also has a table and chairs.</em></figcaption>
 </figure>
 <figure class = "landscape" >
 	<img src="{{ "caillebotte-meaux/DSC05024.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
