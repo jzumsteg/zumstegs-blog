@@ -1,25 +1,15 @@
 ---
-title: Template Test
+title: Test template
 author: JZ
-date: Sun, 04 Jun 2023
-category: 
-math: true
-mermaid: true
-layout: post
-thumbnail: 2022/06/DSC02529-1.jpg
-summary: A test. If you see this, I screwed up.
---- 
----
-title: 
-author: JZ
-date: ,   2023,
+date: Thu, 22-Jun-2023,
 category: 
 math: true
 mermaid: true
 layout: post
 thumbnail: .jpg
-summary: 
+summary: This is a test template. If you see it in the blog, I screwed up!
 ---  
+
 
 
 
