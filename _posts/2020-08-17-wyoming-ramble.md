@@ -323,7 +323,7 @@ This was part of some off-the-main-roads traveling we did outside Cheyenne. Afte
 </figure>
 
 
-Oakes Ames and Oliver Ames were instrumental in financing the Union Pacific railroad, the eastern part of the first transcontinental railroad. When other financing failed, they took over and got Congress to provide financing, taking for themselves a rather comfortable chunk for their efforts, of course. It turned out later that their efforts to "persuade" members of Congress to approve the financing was often accompanied by some payments made under the table to those Congressmen.
+Oakes Ames and Oliver Ames were instrumental in financing the Union Pacific railroad, the eastern part of the first transcontinental railroad. When other financing failed, they took over and got Congress to provide financing, taking for themselves a rather comfortable chunk for their efforts, of course. It turned out later that their efforts to "persuade" members of Congress to approve the financing were often accompanied by some "donations" of stock in the railroad made under the table to those Congressmen. They were discovered and the Ames boys spent some time in prison.
 
 In the 1870s the Union Pacific, trying to rehabilitate the Ames Brothers' reputation (and the company's at the same time) built the Ames Monument. At the time it was at the highest point on the transatlantic railroad, and trains actually stopped to let passengers see the monument. A later change to the railroad's route now means the monument is out in the middle of nowhere. We'd never make a special trip to see it - and would not recommend doing so to any traveller - but as part of a day-trip, it was fun to see.
 <h2>A Trip Highlight: Re-connecting with Friends</h2>

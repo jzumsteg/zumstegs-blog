@@ -8,7 +8,44 @@ mermaid: true
 layout: post
 thumbnail: 2022/06/DSC02529-1.jpg
 summary: A test. If you see this, I screwed up.
+--- 
 ---
+title: 
+author: JZ
+date: ,   2023,
+category: 
+math: true
+mermaid: true
+layout: post
+thumbnail: .jpg
+summary: 
+---  
+
+
+
+<figure class = 'landscape' >
+  <img src="{{ ".jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+  <figcaption><em></em></figcaption>
+</figure>   
+<figure class = 'landscape' >
+  <img src="{{ "sos/asddsfa.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+  <figcaption><em>caption</em></figcaption>
+</figure>
+
+<figure class = 'portrait-wide-caption' >
+  <img src="{{ ".jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+  <figcaption><em></em></figcaption>
+</figure>
+
+<figure class = 'portrait' >
+  <img src="{{ ".jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+  <figcaption><em></em></figcaption>
+</figure>
+<figure class = 'portrait' >
+  <img src="{{ ".jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+  <figcaption><em></em></figcaption>
+</figure>
+
 <p>site.imageURL: {{ site.imageURL}}, site.baseURL: {{ site.baseURL}}, site.url: {{ site.url}}</p><br>
 <figure class = "landscape" >
 	<img src="{{ "2022/06/DSC02529-1.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image" />

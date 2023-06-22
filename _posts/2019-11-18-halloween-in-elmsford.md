@@ -57,7 +57,7 @@ For a couple reasons we saw more interesting places around Elmsford on this trip
 <h2>Storm King Art Center</h2>
 We learned about Storm King Art Center when we saw a PBS Newshour segment on the artist Andy Goldsworthy and a wall he was building at a museum in Kansas City. The wall -  a low slate wall hand-built of local materials - fascinated us and in reading more about him, we learned that he built his first stone wall at the Storm King Art Center, about 45 minutes from Craig and Annie.
 
-Now it turned out that on Saturday, Annie needed some quiet time to work on a proposal so Craig loaded us and Clara and Henry into the car and off we went. Storm King is a 500-acre park dedicated to outdoor modern sculpture. Now I can tell you that Laurie and I have not been great aficionados of modern art, but I can also tell you that after seeing Storm King, we're getting there, especially as it relates to sculpture. I think the setting for large abstract art makes a huge difference, and Storm King has so much space people can see the pieces from afar, from close up, underneath them, and from all around them.
+Now it turned out that on Saturday, Annie needed some quiet time to work on a proposal so Craig loaded us and Clara and Henry into the car and off we went. Storm King is a 500-acre park dedicated to outdoor modern sculpture. Now I can tell you that Laurie and I have not been great aficionados of modern art, but I can also tell you that after seeing Storm King, we're getting there, especially as it relates to sculpture. I think the setting for large abstract art makes a huge difference, and Storm King has so much space people can see the pieces from afar, from close up, underneath and all around them.
 
 First we took a tram around the park, which was definitely Clara and Henry's high point of the day. From it we saw all the installations, many of which interested us greatly. Then we went back to see Andy Goldsworthy's wall. That was definitely the high point of the day for us.
 
@@ -191,7 +191,7 @@ In 1948, John D. Rockefeller, Jr.'s wife, Abby Aldridge, died, and her son Nelso
 
 
 
-After the death of his father, John D. Rockefeller, Jr., in 1960, Nelson asked Marc Chagall to create a window in his memory. Chagall was delighted to do so, partly because he revered Henri Matisse and was honored to have a window in the same location as a Matisse work, but also because the Rockefellers had supported him too. He created this window, on the Good Samaritan theme, because he looked upon John D. Rockefeller, Jr. as a good samaritan for all his philanthropic work.
+After the death of his father, John D. Rockefeller, Jr., in 1960, Nelson asked Marc Chagall to create a window in his memory. Chagall was delighted to do so, partly because he revered Henri Matisse and was honored to have a window in the same location as a Matisse work, and also because the Rockefellers had supported him too. He created this window, on the Good Samaritan theme, because he looked upon John D. Rockefeller, Jr. as a good samaritan for all his philanthropic work.
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2019/11/DSC09000.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />

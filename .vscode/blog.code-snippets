@@ -1,0 +1,79 @@
+{
+	"frontmatter":{ 
+		"prefix": "frontmatter",
+		"scope": "markdown",
+		"body": [
+		  	"---",
+		  	"title: $1",
+			"author: JZ",
+			"date: $2, $3 $4 2023,
+			"category: $5",
+			"math: true",
+			"mermaid: true",
+			"layout: post",
+			"thumbnail: $6.jpg",
+			"summary: $7",
+			"---  ""
+		]
+	  },
+
+	"Landscape figure": {
+		"scope": "markdown",
+		"prefix": "lfigure",
+		"body": [
+			"<figure class = 'landscape' >",
+			"\t<img src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}\" alt=\"Image\" />",
+			"\t<figcaption><em>$2</em></figcaption>",
+			 "</figure>"
+		]
+	},
+
+	"Portrait-wide caption figure": {
+		"scope": "markdown",
+		"prefix": "pwfigure",
+		"body": [
+			"<figure class = 'portrait-wide-caption' >",
+			"\t<img src=\"{{ \"$0.jpg\" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}\" alt=\"Image\" />",
+			"\t<figcaption><em>$1</em></figcaption>",
+			 "</figure>"
+		]
+	},
+
+	"Portrait-narrow caption figure": {
+		"scope": "markdown",
+		"prefix": "pnfigure",
+		"body": [
+			"<figure class = 'portrait' >",
+			"\t<img src=\"{{ \"$0.jpg\" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}\" alt=\"Image\" />",
+			"\t<figcaption><em>$1</em></figcaption>",
+			 "</figure>"
+		]
+	},
+
+	"Markdown link": {
+        "scope": "markdown",
+        "prefix": "link",
+        "body": "[$1]($2)"
+    },
+    "Markdown post link": {
+        "scope": "markdown",
+        "prefix": "post",
+        "body": "[$1]({{ site.baseurl }}{% post_url $2 %})"
+    },
+    "Markdown post anchor link": {
+        "scope": "markdown",
+        "prefix": "anchor",
+        "body": "[$1]({{ site.baseurl }}{% post_url $2 %}#$3)"
+    },
+    "Markdown image": {
+        "scope": "markdown",
+        "prefix": "image",
+        "body": "![$1]({{ site.baseurl }}/assets/images/$2)"
+    },
+    "Markdown video": {
+        "scope": "markdown",
+        "prefix": "video",
+        "body": "{% include youtube.html id=\"$1\" %}"
+    }
+
+}
