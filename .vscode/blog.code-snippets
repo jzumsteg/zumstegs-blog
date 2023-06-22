@@ -6,13 +6,13 @@
 		  	"---",
 		  	"title: $1",
 			"author: JZ",
-			"date: $2, $3 $4 2023,
-			"category: $5",
+			"date: $CURRENT_DAY_NAME_SHORT, $CURRENT_DATE-$CURRENT_MONTH_NAME_SHORT-$CURRENT_YEAR,
+			"category: $2",
 			"math: true",
 			"mermaid: true",
 			"layout: post",
-			"thumbnail: $6.jpg",
-			"summary: $7",
+			"thumbnail: $3",
+			"summary: $4",
 			"---  ""
 		]
 	  },

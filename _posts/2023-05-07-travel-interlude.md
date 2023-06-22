@@ -38,7 +38,7 @@ Gilles saved the day - he called the parking service to tell them what was going
 
 We boarded the plane about an hour late. As we were boarding, the captain came on and said that if we could get out of the gate a bit early, the plane might be able to land at Orly. Orly has an 11:30 curfew - no landings after that. Everybody piled on, we pushed back and the captain came on to say, that yes indeed, we were going to be able to land at Orly, with a few minutes to spare. 
 
-Now that was good news except: the car was now going to be at Charles DeGaulle. Gilles saved the day a second time by making a quick call before he had to shut the phone down and got the drive-to-CDG request canceled. Because Laurie and I were sitting way behind Mary & Gilles, we didn't know he'd saved the day with that call so we fretted the whole flight.
+Now that was good news except: the car was now going to be at Charles DeGaulle. Gilles saved the day a second time by making a quick call before he had to shut the phone down and got the drive to CDG request canceled. Because Laurie and I were sitting way behind Mary & Gilles, we didn't know he'd saved the day with that call so we fretted the whole flight.
 
 Finally, we arrived at Orly, got our bags, got our car, drove to Mary & Gilles house. We arrived at about 1 a.m. and Mary made good on a promise to make scrambled eggs for all of us. So at about 2 a.m. we sat down to a very late dinner? very early breakfast? of scrambled eggs, cheese and wine. 
 
