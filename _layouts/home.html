@@ -35,11 +35,11 @@ layout: default
             {%- else -%}
               <p>{{ post.excerpt | strip_html | truncatewords: 60  }}
             {%- endif -%}
-              <a href="{{ post.url | relative_url }}">
+              <p></p><a href="{{ post.url | relative_url }}">
                 <em>(Full post)</em> 
               </a>
             </p>
-          </dr>
+          </td>
         </tbody>
         {%- if post.thumbnail -%}
       </table>

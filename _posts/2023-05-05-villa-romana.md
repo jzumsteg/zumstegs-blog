@@ -13,7 +13,7 @@ After the Greek temples at Agrigento, we headed inland to see a wonder of the Ro
 
 That landslide had one huge beneficial effect for us modern-day lovers of history and art: it covered and protected what is now the largest known installation of Roman mosaics: over 3,600 square yards: some 30,000 square feet. Besides the extent of these mosaics, they are also known as among the very best Roman mosaics in terms of quality, subject and color. 
 
-The site was first excavated by non-archaologists in the late 1800s; then by professionals in 1929. Since then it has undergone almost continuous study and morse rooms have been excavated. Archaologists believe more rooms - and more mosaics - remain to be found.
+The site was first excavated by non-archaologists in the late 1800s; then by professionals in 1929. Since then it has undergone almost continuous study and more rooms have been excavated. Archaologists believe more rooms - and more mosaics - remain to be found.
 
 Our favorite mosaics:
 
@@ -65,5 +65,5 @@ And...a couple of photos of the intrepid Sicilian travelers:
 </figure>
 <figure class = "portrait">
 	<img src="{{"/assets/images/2023/04/Us-agrigento.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption>Les Zumstegs.</figcaption>
+	<figcaption>Les Zumsteg.</figcaption>
 </figure>

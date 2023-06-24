@@ -6,7 +6,7 @@ category:
 math: true
 mermaid: true
 layout: post
-thumbnail: .jpg
+thumbnail: food/france/IMG_5575.jpg
 summary: This is a test template. If you see it in the blog, I screwed up!
 ---  
 
