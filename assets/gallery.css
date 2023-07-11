@@ -1,3 +1,7 @@
+:root {
+  --blue: #1e90ff;
+  --white: #ffffff; 
+} 
 * {
 	box-sizing: border-box;
   }
@@ -82,7 +86,7 @@ div.desc {
 @media only screen and (max-width: 500px) {
   .responsive {
     width: 200px;
-	height:200px
+	  height:200px;
     margin: 6px 0;
   }
 }
@@ -112,5 +116,9 @@ div.desc {
   content: "";
   display: table;
   clear: both;
+}
+
+.test {
+  background-color: var(--blue);
 }
 

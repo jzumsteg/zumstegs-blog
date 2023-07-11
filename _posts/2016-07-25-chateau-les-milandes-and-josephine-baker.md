@@ -9,14 +9,13 @@ layout: post
 ---
 We visited Chateau Les Milandes, the home of Joséphine Baker for many years, and loved the place for many reasons. But I don't know how to talk about Joséphine Baker, because she seems to be largely unknown in the country of her birth, the United States. Here are a couple pictures of her from the mid-1920s in Paris.
 
-<figure class = "landscape">
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/07/baker.png" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
-
-<figure class = "landscape">
+<figure class = "portrait">
 	<img src="{{"/assets/images/2016/07/160519-josephine-baker-01.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em>Josephine Baker, (1906-1975) African American dancer, actress and entertainer, famous for her Paris stage shows and her scanty costumes (Photo by Bob Thomas/Popperfoto/Getty Images)</em></figcaption>
 </figure>
@@ -90,7 +89,7 @@ We came here because I'd heard about Les Milandes years ago - before it was boug
 
 <figure class = "portrait">
 	<img src="{{"/assets/images/2016/07/DSC04930.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
-	<figcaption><em>There is a famous picture of an almost-destitute Josephine sitting on the kitchen-door steps the day she was evicted from Les Milandes. Here's Laurie sitting in the same place as Josephine.</em></figcaption>
+	<figcaption><em>There is a famous picture of an almost-destitute Josephine sitting on the kitchen-door steps the day she was evicted from Les Milandes. Here's Laurie sitting in the same place as Josephine. She doesn't appear to be destitute.</em></figcaption>
 </figure>
 
 

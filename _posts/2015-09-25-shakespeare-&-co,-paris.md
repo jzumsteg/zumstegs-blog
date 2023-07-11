@@ -42,4 +42,4 @@ This location has a reference to its history; the plaque between the two upper w
 
 Not a word about the location's center of English writers for twenty years, but at least Sylvia gets a mention for publishing Ulysses here.
 
-After the Nazis closed Shakespeare &amp; Co. in 1941, Sylvia remained in Paris - she was the first person Hemingway visited after he liberated Paris (in his always-humble opinion) in 1944. She died in 1962, in the apartment above the rue de l'Odeon site of Shakespeare &amp; Company.
+After the Nazis closed Shakespeare &amp; Co. in 1941, Sylvia remained in Paris - she was the first person Hemingway visited after he liberated Paris (he actually claimed that) in 1944. She died in 1962, in the apartment above the rue de l'Odeon site of Shakespeare &amp; Company.

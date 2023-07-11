@@ -23,7 +23,7 @@ I know, a picture is worth a thousand words, yada-yadda-yadda. Here ya go:
 <h2 style="font-family: verdana;">Bugatti Royales</h2>
 Six Bugatti Royales were constructed between 1927 and 1933. To give you an idea of their size:
 
-Length: 21.3 ft (a Chevrolet Suburban - a huge car in the U.S. - is 18.3 ft long)
+Length: 21.3 ft (a Chevrolet Suburban - a huge vehicle in the U.S. - is a full three feet shorter)
 
 Weight: 7,500 lbs (a Suburban: 5,900 lbs)
 
