@@ -17,77 +17,77 @@ Troyes' claim to fame is that, for some reason, the city has maintained hundreds
 
 <b>Troyes Buildings</b>
 <figure class ="landscape">
-	<img src="{{ "/assets/images/2013/07/dsc03520.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03520.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/dsc03517.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03517.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/dsc03511.jpg" | prepend: site.baseurl | prepend:site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03511.jpg" | prepend: site.baseurl | prepend:site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/dsc03505.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03505.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/dsc03497.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03497.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/dsc03487.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03487.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/dsc03476.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03476.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/dsc03460.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03460.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/dsc03447.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03447.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/dsc03445.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03445.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/dsc03443.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03443.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 <h3>Streets</h3>
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/dsc03449.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03449.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/dsc03514.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03514.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/dsc03510.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03510.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/dsc034961.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/dDSC034961.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/dsc03516.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03516.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
@@ -104,11 +104,11 @@ I wanted to see this church because my guidebook said it has one of the few rema
 The jubé was, indeed, worth seeing, but better were the stained-glass windows. Created in the 16th century, they are beautiful and unusual in two respects: they have been recently restored; and they are down low, so a person can see them quite clearly. In many churches, the stained-glass is so high in the walls that it's difficult to see the details. 
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/dsc03535.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03535.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em>Stained glass windows in Iglise St. Madeline</em></figcaption>
 </figure>
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/dsc03539.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03539.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 		<figcaption><em>Stained glass windows in Iglise St. Madeline</em></figcaption>
 </figure>
 

@@ -26,27 +26,27 @@ Rather than boring you again with lots of words, I'm just going to post some pic
 Some sights around the town. We all went swimming in the bay and I have to say that, after that initial getting-wet shock, it was wonderful. Been a long time since we swam in salt water; I hope it isn't so long to the next time.
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/08/dsc03708.jpg" | prepend: site.baseurl | prepend: site.url }}"  alt="Image" />
+	<img src="{{ "/assets/images/2013/08/DSC03708.jpg" | prepend: site.baseurl | prepend: site.url }}"  alt="Image" />
 		<figcaption><em>The beach and the bay, on the calm. protected side of the peninsula.</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/08/dsc03693.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
+	<img src="{{ "/assets/images/2013/08/DSC03693.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
 		<figcaption><em>These menhirs were in the town. They were likely erected about 5,000 years ago, for unknown reasons.</em></figcaption>
 </figure>
 <figure class ="landscape">
-	<img src="{{ "/assets/images/2013/08/mg_8378.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
+	<img src="{{ "/assets/images/2013/08/MG_8378.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
 		<figcaption><em>Yep, a 1953 Cadillac. </em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/08/mg_8376.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
+	<img src="{{ "/assets/images/2013/08/MG_8376.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
 		<figcaption><em>A dolmen in the middle of a residential district.</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/08/mg_8353.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
+	<img src="{{ "/assets/images/2013/08/MG_8353.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
 		<figcaption><em>The beach on the bay side of the penisula.</em></figcaption>
 </figure>
 
@@ -55,25 +55,25 @@ That translates as the "wild coast" and wild it is. Believe it or not, Hervé, A
 [gallery size = "large" link = "files" columns="1" ids="1270,1274,1273,1272,1271"]
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/08/mg_8383.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
+	<img src="{{ "/assets/images/2013/08/MG_8383.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/08/mg_8391.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
-		<figcaption><em></em></figcaption>
-</figure>
-
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/08/mg_8390.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
-		<figcaption><em></em></figcaption>
-</figure>
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/08/mg_8386.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
+	<img src="{{ "/assets/images/2013/08/MG_8391.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/08/mg_8384.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
+	<img src="{{ "/assets/images/2013/08/MG_8390.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
+		<figcaption><em></em></figcaption>
+</figure>
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/08/MG_8386.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
+		<figcaption><em></em></figcaption>
+</figure>
+
+<figure class = "landscape">
+	<img src="{{ "/assets/images/2013/08/MG_8384.jpg" | prepend: site.baseurl | prepend: site.url }}"   alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 

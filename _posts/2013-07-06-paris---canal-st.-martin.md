@@ -17,23 +17,23 @@ Today, Canal St. Martin is a testimony to Paris understanding that a head-long r
 <h3>Bridges on the Canal</h3>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/dsc03125.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03125.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/dsc03145.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03145.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/dsc03120.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03120.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/dsc03122.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03122.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/dsc03123.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03123.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Today, Canal St. Martin is a testimony to Paris understanding that a head-long r
         </figure>
         
  <figure class = "landscape">
-     <img src="{{ "/assets/images/2013/07/dsc03126.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+     <img src="{{ "/assets/images/2013/07/DSC03126.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
          <figcaption><em>Hotel du Nord, made famous in the 1938 film of the same name. Now a café.</em></figcaption>
   </figure>
 
