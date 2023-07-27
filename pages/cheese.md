@@ -18,10 +18,11 @@ title: Cheese Log
   
   Tommes are cheeses from the French Alps
   Tomme de Savoie  
-  Tomme de Brebis - a tomme with milk from sheep; this has become one of my favorite cheeses [I have about forty-two favorite cheeses, I think). 
+  Tomme de Brebis - a tomme with milk from sheep; this has become one of my favorite cheeses (I have about forty-two favorite cheeses, I think).  
   Tomme des Fleurs - a tomme with tiny wildflowers (fleurs) in the rind.
     
   Chaource  
+  Cantal  
   Salers  
 
 
@@ -74,7 +75,7 @@ Cantal Vielle
 Brie de Meaux  
 Brie de Melun  
 Brie de  Nangis  
-Brie de Montereaux  
+Brie de Montereau  
 Appenzal aux Fleur  
 Montagne Bethmale Vache  
 Morbier  
