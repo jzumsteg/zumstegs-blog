@@ -21,17 +21,17 @@ Anyway, Langres, 2013. We had a bit more time this trip to just walk and see Lan
 <h3>Walls - Langres does indeed have walls</h3>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03406.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03406.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03409.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03409.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03411.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03411.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
@@ -41,60 +41,60 @@ Anyway, Langres, 2013. We had a bit more time this trip to just walk and see Lan
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03351.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03351.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03363.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03363.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03362.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03362.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03402.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03402.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>The wall that started it all: Roman, thought to have been built in 20 BC or thereabouts. 20 BC...</em></figcaption>
 </figure>
 
 
 <h3>Streets of Langres</h3>
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03427.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03427.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03354.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03354.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03377.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03377.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>Sure, a quick way into the city from the wall walk...</em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03386.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03386.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>Oh-oh, is this going anywhere?</em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03382.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03382.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>Looks like a dead-end to me!</em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03380.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03380.jpg" | prepend: site.baseurl }}" alt="Image" />
 		<figcaption><em>Phew! End in sight!</em></figcaption>
 </figure>
 
 
 <figure class ="landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03387.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03387.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>Back to civilization!</em></figcaption>
 </figure>
 
@@ -102,44 +102,44 @@ Anyway, Langres, 2013. We had a bit more time this trip to just walk and see Lan
 <h3>Buildings</h3>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03441.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03441.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03439.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03439.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03391.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03391.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03347.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03347.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03343.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03343.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03338.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03338.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03337.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03337.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 
 <h3>And a fountain</h3>
 <figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03413.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/07/DSC03413.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>A fountain below the walls.</em></figcaption>
 </figure>
 

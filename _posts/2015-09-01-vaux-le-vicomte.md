@@ -25,7 +25,7 @@ We were there for the night visit, so here's a picture of the chateau with its 2
 Mary took this picture of Laurie and me. Not many pictures of me in this blog, as I'm usually doing the picture-taking.
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2015/09/DSCF0061-1024x768.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2015/09/DSCF0061-1024x768.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

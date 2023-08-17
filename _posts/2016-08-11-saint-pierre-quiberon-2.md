@@ -12,38 +12,38 @@ As I pointed out in the Carnac post, we're in the small town of Saint-Pierre-Qui
 Some pictures of the Côte Sauvage:
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/08/DSC07958.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/08/DSC07958.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{"/assets/images/2016/08/DSC07953.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/08/DSC07953.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/08/DSC07962.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/08/DSC07962.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Laurie enjoying the scenery.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2016/08/DSC07954.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/08/DSC07954.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{"/assets/images/2016/08/DSC07966.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/08/DSC07966.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/08/DSC07950.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/08/DSC07950.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Look carefullybetween the two cars - there's a fellow in a beach chair, right on the busiest road around. Fifty feet away he could have sat on sand with a view of the ocean. Tourists!</em></figcaption>
 </figure>
 
@@ -52,24 +52,24 @@ Some pictures of the Côte Sauvage:
 On the bay side is the pretty town of Saint-Pierre-Quiberon.
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/08/DSC07944.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/08/DSC07944.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>The restaurant on the left is our favorite for moules frites (mussels and fries).</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/08/DSC07931.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/08/DSC07931.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/08/DSC07942.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/08/DSC07942.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/08/DSC07933.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/08/DSC07933.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

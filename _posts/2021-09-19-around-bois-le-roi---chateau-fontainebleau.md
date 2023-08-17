@@ -12,7 +12,7 @@ We're preparing to head off on a four-day trip to the Loire Valley, home of many
 We love Chateau Fontainebleau. It has become our go-to place for a walk around when we have some time and don't want to go far; it's close-by, has beautiful gardens and buildings and a history that we love to contemplate.
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01293.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01293.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -25,28 +25,28 @@ Chateau Fontainebleau started as a hunting lodge, and has been added to, changed
 We love just walking around the beautiful grounds of the chateau. There are miles of forest trails, an English garden, a garden dedicated to Diane de Poitier, Henry II's mistress for many years, and a parterre, a wide open space with ponds and flower beds. We can walk for hours if we want and we always have in sight that magnificent chateau.
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01285.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01285.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>The Cour Ovale, center of the chateau. (Update: this picture was taken through a gate. I've always wanted to walk inside the Cour Ovale but it has never been open to the public. The people seen in this picture alerted me that maybe it was now open. In fact, if you buy a ticket to tour the chateau, it now allows entrance to the Cour Ovale. We did this later in this trip and, as I expected, we loved being in the Cour.)</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01288.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01288.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>This pond is about a mile long, and has forests and paths all round it.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01249.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01249.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>What I love about this place. The area above the door has a salamander, the mark of Francois I, who was king from 1514-1547, while the door itself has a monogram added later by Louis XIV - the Sun King mentioned above as the creator of Versailles. He would have installed this door in the 1660s probably.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01287.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01287.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

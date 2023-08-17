@@ -18,35 +18,35 @@ We took the train to the le Bourget stop (the airshow is at the le Bourget airfi
 
 Anyway, we finally got through the lines, received our entrance badges and made our way in. After wanting to do this for so long, I was at the Paris Air Show:
 <figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/entrance.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2013/06/entrance.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Wet.</em></figcaption>
 </figure>
 
 
 We first went into one of the exhibit halls, just to see the extent of this place. There simply is NO way to describe how big it is, but here are pictures I took from one spot, forming a panorama. This shows maybe a hundredth of one of the smaller of the exhibition halls.
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/view-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/06/view-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/view-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/06/view-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/view-3.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/06/view-3.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/view-4.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/06/view-4.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/flight-line.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/06/flight-line.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>Lots o' planes</em></figcaption>
 </figure>
 
@@ -58,17 +58,17 @@ I suppose I could find somewhere how many aviation-related companies were presen
 Many companies display their aircraft on the flight line. I apologize for the quality of these pictures; it was a very bright day by now, with lots of glare, and my poor old point-and-shoot camera had a hard time dealing with it. Heck, I had a hard time dealing with it! Anyway, here are some flight-line pictures:
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/su35.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/06/su35.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>Russian SU-35</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/flight-line.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/06/flight-line.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>Lots of airplanes!</em></figcaption>
 		</figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/a380-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/06/a380-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>Airbus 380. This is one BIG airplane. I hope we can fly on one to France someday.</em></figcaption>
 </figure>
 
@@ -76,17 +76,17 @@ Many companies display their aircraft on the flight line. I apologize for the qu
 One highlight of the flying demonstrations was by a French fighter, the Dassault Rafale; the things that pilot did were amazing. But the real highlight was the British Airways Airbus A380, doing steep climbs, turns and dives right over the airfield, all under a thousand feet or so; this flying demo was just amazing.
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/a380-3.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/06/a380-3.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>Big airplane!</em></figcaption>
 </figure>
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/a380-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{ "/assets/images/2013/06/a380-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 An hour later, the Boeing 787 took off, with this pretty spectacular climb from the runway (note the landing gear still coming up):
 <figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/b787-4.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2013/06/b787-4.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Dreamliner take-off</em></figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ After that start, the Dreamliner flew a more sedate show than the A380 - don't k
 
 Le Bourget has a museum of flight, so there are some older airplanes there. In the midst of all these sleek modern aircraft was this Lockheed Super Constellation, designed in the early 1940s (the co-pilot on the first flight of the prototype was Eddie Allen, later President of Boeing) and flown until jet aircraft pushed it into obsolescence in the early 1960s. Maybe it's just me and my love of old airliners, but I think the Connie still looks beautiful, even when (maybe especially when) it's surrounded by modern airplanes.
 <figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/connie.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2013/06/connie.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

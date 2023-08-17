@@ -18,14 +18,14 @@ In 1951 George Whitman wanted to open a bookstore in Paris. Somehow, he met Sylv
 
 I decided to look up the locations of the real Shakespeare &amp; Co. Sylvia opened the first store in 1921 at 8, rue Dupuytren; today, it looks like this:
 <figure class = "landscape">
-	<img src="{{"/assets/images/2015/09/DSC09322.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2015/09/DSC09322.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Not a word about its history!</figcaption>
 </figure>
 
 Sylvia moved Shakespeare &amp; Co. around the corner to 12, rue de l'Odeon about 18 months later. This was a larger location, and across the street from the French-language bookstore of Adrienne Monnier, Sylvia's life-long love.
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2015/09/DSC09326.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2015/09/DSC09326.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ Sylvia moved Shakespeare &amp; Co. around the corner to 12, rue de l'Odeon about
 This location has a reference to its history; the plaque between the two upper windows:
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2015/09/DSC09254.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2015/09/DSC09254.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

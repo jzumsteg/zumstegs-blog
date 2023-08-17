@@ -22,7 +22,7 @@
 		"prefix": "lfigure",
 		"body": [
 			"<figure class = 'landscape' >",
-			"\t<img src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}\" alt=\"Image\" />",
+			"\t<img src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption><em>$2</em></figcaption>",
 			 "</figure>"
 		]
@@ -33,7 +33,7 @@
 		"prefix": "pwfigure",
 		"body": [
 			"<figure class = 'portrait-wide-caption' >",
-			"\t<img class='narrow' src=\"{{ \"$0.jpg\" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}\" alt=\"Image\" />",
+			"\t<img class='narrow' src=\"{{ \"$0.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption><em>$1</em></figcaption>",
 			"</figure>"
 		]
@@ -44,7 +44,7 @@
 		"prefix": "pnfigure",
 		"body": [
 			"<figure class = 'portrait' >",
-			"\t<img src=\"{{ \"$0.jpg\" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}\" alt=\"Image\" />",
+			"\t<img src=\"{{ \"$0.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption><em>$1</em></figcaption>",
 			 "</figure>"
 		]

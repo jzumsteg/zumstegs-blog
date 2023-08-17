@@ -14,8 +14,8 @@ layout: post
 
 <div class="responsive">
   <div class="blog-photo">
-    <a target="_blank" href="{{ "2022/01/image-1.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}">
-	  <img src="{{ "2022/01/image-1-sq.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image 1" />
+    <a target="_blank" href="{{ "2022/01/image-1.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}">
+	  <img src="{{ "2022/01/image-1-sq.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image 1" />
     </a>
     <div class="desc">Clara</div>
   </div>
@@ -24,8 +24,8 @@ layout: post
 
 <div class="responsive">
   <div class="blog-photo">
-    <a target="_blank" href="{{ "2022/01/image-2.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}">
- 	<img src="{{ "2022/01/image-2-sq.jpg" | prepend: site.imageurl | prepend: site.baseurl | prepend: site.url }}" alt="Image 2" />
+    <a target="_blank" href="{{ "2022/01/image-2.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}">
+ 	<img src="{{ "2022/01/image-2-sq.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image 2" />
    </a>
     <div class="desc">Yikes!</div>
   </div>

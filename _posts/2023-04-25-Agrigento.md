@@ -22,12 +22,12 @@ One temple here - called Temple Zeus Olympian - was the largest Greek temple in 
 <h2>A Hint at What We'll See Here</h2>
 As we walked toward the <em>Valle dei Templi</em> we saw these views:
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03809.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03809.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Temple of Concordia</figcaption>
 </figure>
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03810.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03810.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Temple of Juno</figcaption>
 </figure>
 
@@ -38,17 +38,17 @@ Once we entered the site, with quite a few other temple-touring folks, we came f
 The reconstruction is limited to about 30 columns and the peristyle along one edge. The peristyle is the horizontal band of stone supported by the columns; it formed the base of the roof. 
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03821.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03821.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>An overview of the Temple of Juno</figcaption>
 </figure>
 
 <figure class = "portrait ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03824.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03824.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Temple of Juno. That's a small piece of the peristyle on the top of the two columns.</figcaption>
 </figure>
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03828.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03828.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Temple of Juno</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ The reconstruction is limited to about 30 columns and the peristyle along one ed
 In its heyday, the <em>Valley dei Templi</em> was completely encircled with walls. Much of the wall remains, though clearly in a reduced state. The wall has many semi-circular niches, which were used to bury high-ranking soldiers and leaders in the 4th and 5th century BC.
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03842.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03842.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>A portion of the remaining wall.</figcaption>
 </figure>
 
@@ -64,23 +64,23 @@ In its heyday, the <em>Valley dei Templi</em> was completely encircled with wall
 The Temple of Concordia, slightly larger than the Temple of Juno and sharing its 6 column by 13 column construction, is the best preserved and restored temple in the site. It was converted to a Christian church in the fifth century AD, at which time some major interior renovations were carried out. But the exterior remained pretty much as original and is just stunning. Remember, this was built some 2,500 years ago.
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03846.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03846.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Temple of Concordia. This is the original front, though when it was converted into a Christian church, the other end became the front entrance.</figcaption>
 </figure>
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03848.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03848.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Temple of Concordia.</figcaption>
 </figure>
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03855.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03855.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Temple of Concordia. The inner door formed the entrance to the church built inside the temple in the fifth century.</figcaption>
 </figure>
 
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03857.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03857.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Temple of Concordia.</figcaption>
 </figure>
 
@@ -89,17 +89,17 @@ The Temple of Heracles is, of the three main temples in the valley, the least-re
 
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03862.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03862.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Temple of Heracles.</figcaption>
 </figure>
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03865.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03865.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Temple of Heracles.</figcaption>
 </figure>
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03875.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03875.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Temple of Heracles.</figcaption>
 </figure>
 
@@ -114,18 +114,18 @@ One room had hundreds of small terra-cotta busts and these were our favorites (t
 
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03882.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03882.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>About 2 inches tall.</figcaption>
 </figure>
 
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03880.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03880.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>About 1.5 inches tall.</figcaption>
 </figure>
 
 <figure class = "landscape ">
-	<img src="{{"/assets/images/2023/04/agrigento/DSC03885.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2023/04/agrigento/DSC03885.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>About 4 inches tall.</figcaption>
 </figure>
 

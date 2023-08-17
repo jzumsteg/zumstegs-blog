@@ -11,12 +11,12 @@ thumbnail:  2021/09/DSC01318.jpg
 <p class="p1"><span class="s1">If you once had a teenage son or daughter, they might well look at a picture of Chateau Cheverny and think, “That seems familiar…” If they were to look at the picture below and cover up the right and left outer wings, it might come to mind: this is Captain Haddock’s Marlinspike Hall, the chateau in the Tintin books that were so popular - with our sons, for sure.</span></p>
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01318.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01318.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/tintin-386x254-1.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/tintin-386x254-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -29,14 +29,14 @@ thumbnail:  2021/09/DSC01318.jpg
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01354.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01354.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>The front of the Chateau. The symmetry and clean ornamentation mark it as Renaissance. </em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01368.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01368.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>The back of Chateau Cheverny, every bit as beautiful as the front.</em></figcaption>
 </figure>
 
@@ -45,49 +45,49 @@ thumbnail:  2021/09/DSC01318.jpg
 Chateau Cheverny is famous for its interior decorations, showing how the rooms have been decorated and furnished through the years. As you'll see, some of the rooms had some whimsical additions...
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01321.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01321.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>The dining room set for a small dinner...for twelve people. There probably was no flamingo on the table when it was used for dinners.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01329.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01329.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>The less-formal dining room for family meals. Note the deserts at each place; these are called "Religieuses au chocolat" and I'm sure you wouldn't like them at all. Nope.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01322.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01322.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>The ceiling in one room; decorating ideas for your house.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01339.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01339.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>The chateau built with Lego-like blocks. Many Lego-like blocks.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01333.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01333.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>A little treat on the mantle, one for Clara and one for Henry.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01349.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01349.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2021/09/DSC01326.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01326.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>More decorating ideas for you...</em></figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ Chateau Cheverny is famous for its interior decorations, showing how the rooms h
 And a note from Captain Haddock, Tintin's guardian...
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2021/09/DSC01364.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2021/09/DSC01364.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>The top sign says, "Chateau for Sale." On the bottom sign Captain Haddock has added some words to make it say, "This chateau is no longer for sale." </em></figcaption>
 </figure>
 

@@ -16,14 +16,14 @@ What's all this got to do with Monpazier? During the war, both sides built basti
 Here's a look down a main street of Monpazier:
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00656.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00656.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Wide and straight. Take away the cars and you've got a bastide town of 700 years ago.</figcaption>
 </figure>
 
 Monpazier also has about my favorite main square in the world. Here's a panoramic  view of it, showing about 2-1/2 sides of the square.
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00579-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00579-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -31,29 +31,29 @@ Monpazier also has about my favorite main square in the world. Here's a panorami
 
 And some pictures of the different sides.
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00578-2.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00578-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00577.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00577.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00575.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00575.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00574.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00574.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00584.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00584.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>The bastide towns almost always have arcaded buildings on the square.</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ And some pictures of the different sides.
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00583.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00583.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>And many of the bastide towns have their original market hall; here's Monpazier's.  </figcaption>
 </figure>
 
@@ -72,27 +72,27 @@ The population of Monpazier is about 500 people, though the area around it has p
 Some other pictures of Monpazier:
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00660.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00660.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00659.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00659.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00654.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00654.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00648.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00648.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC00582.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00582.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Some other pictures of Monpazier:
 We like Monpazier, not least because the hotel we stay in here is beautiful, with a way-above-average restaurant. Here's Laurie looking out the "tower room" of our room.
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC00667.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/2016/07/DSC00667.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

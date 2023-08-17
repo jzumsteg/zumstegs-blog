@@ -1,5 +1,5 @@
 <figure class = "landscape | portrait">
-	<img src="{{"/assets/images/yyyy/mm/xxxxxx.jpg" | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/yyyy/mm/xxxxxx.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>caption</figcaption>
 </figure>
 

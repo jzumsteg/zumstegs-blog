@@ -77,13 +77,13 @@ Don’t just leap into English, thinking everyone will understand. In Paris, it�
 Because I think my French pronunciation lacks a little um, *je ne sais pas*, when I order a small quantity of something I always show the number with my hands as well as saying it. The first time I remember doing this, I ordered two sandwiches in a boulangerie, saying to the employee, “*Je prends deux sandwich*”, and holding up this:  
 
 <figure class = "small-thumb">
-	<img src="{{"/assets/images/two-us.png " | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/two-us.png " | prepend: site.baseurl  }}" alt="Image" />
 </figure>
 
 When I was ready to pay, I was surprised to find that I had three sandwiches. Once we got it straightened out, I remembered: the French (and Germans and Italians and all other European countries) use this sign for the number two:   
 
 <figure class = "small-thumb">
-	<img src="{{"/assets/images/two-france.png " | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/two-france.png " | prepend: site.baseurl  }}" alt="Image" />
 </figure>
 
  
@@ -91,12 +91,12 @@ It’s great to use your hands when ordering a quantity of something but remembe
   
 
   <figure class = "wide-thumb">
-	<img src="{{"/assets/images/one-five-france.png " | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/one-five-france.png " | prepend: site.baseurl  }}" alt="Image" />
 </figure>
 
 Where in the United States we use:
 <figure class = "wide-thumb">
-	<img src="{{"/assets/images/one-five-us.png " | prepend: site.baseurl | prepend: site.url }}" alt="Image" />
+	<img src="{{"/assets/images/one-five-us.png " | prepend: site.baseurl  }}" alt="Image" />
 </figure>
 
  
