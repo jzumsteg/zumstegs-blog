@@ -24,6 +24,8 @@ title: Cheese Log
   Chaource  
   Cantal  
   Salers  
+  Bleu de Auvergne  
+  
 
 
   <h2>2021 Cheese Log</h2>  
