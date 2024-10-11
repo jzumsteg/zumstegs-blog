@@ -1,0 +1,2 @@
+Get the message that no access to git (can't remember the exact wordiong), do this:
+git config --global http.postBuffer 157286400  
