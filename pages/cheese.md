@@ -167,10 +167,10 @@ Morbier
 Muenster  
 Epoisses  
 Epoisses a la bas  
-Columierres  
+Columnierres  
 Sousmaintain  
 Brie (we're in the middle of brie country)  
-Brie de Montereau  
+Brie de Montereau  4
 Brie de Meaux  
 Brie de Melun  
 Brie de Nangis  

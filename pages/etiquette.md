@@ -21,7 +21,7 @@ Let’s start off with the easiest and probably most important thing you can do 
 This is important to the French. Not a little important, extremely important. I can recall some interactions in which I just started off spouting what I wanted to say without the opening *“Bonjour*;” the subsequent conversation was definitely cooler than expected. 
 This is easy: when you want to say something to or ask something of a French person, start by saying, *“Bonjour*.” Then wait a second or two for that person to respond with a *“Bonjour*;” I promise they will. This short interaction establishes a bond between the two of you, and that bond is important to the French person.
 
-When you order a sandwich in a boulangerie, wait your turn and when the staff indicates that it's your turn, say *“Bonjour*,” wait a second for the response, then ask for what you want.
+When you order a sandwich or *croissant* or anything in a boulangerie, wait your turn and when the staff indicates that it's your turn, say *“Bonjour*,” wait a second for the response, then ask for what you want.
 
 When you’re in a store and a clerk comes to you, say *“Bonjour*.”
 
@@ -30,13 +30,13 @@ If you need to ask directions of someone, start with *“Bonjour*.”
 Get the drift here? Bonjour, all the time.
 
 <h2>“Bonsoir”</h2>  
-In the evening, substitute *“Bonsoir”* (bunswar) for *Bonjour*. If you forget and say *Bonjour*, no one is going to care or comment, but you might as well do it right. When do you stop saying *Bonjour* and start saying *Bonsoir*? I asked a few French friends and got a few answers: Five o’clock; six o’clock; after dark, etc. My advice and practice is: about six p.m or when the sun is setting and it’s starting to get dark. Honestly, no one is going to say a word or think badly of you if you start using *Bonsoir* at a different time than they do. Unless you use it at 1 in the afternoon, as I did once. Once. I got a polite lecture from the server about that!
+In the evening, substitute *“Bonsoir”* (bunswar) for *Bonjour*. If you forget and say *Bonjour*, no one is going to care or comment, but you might as well do it right. When do you stop saying *Bonjour* and start saying *Bonsoir*? I asked a few French friends and got a few answers: Five o’clock; six o’clock; after dark, etc. My advice and practice is: about six p.m or when the sun is setting and it’s starting to get dark. Honestly, no one is going to say a word or think badly of you if you start using *Bonsoir* at a different time than they do. Unless you use it at one in the afternoon, as I did once. Once. I got a semi-polite lecture from the server about that!
 
 To make it all a little more interesting, when you leave a place during the day – that is, during the *bonjour* time - you say “*Au revoir*” (pronounced “ovwar” – all one word). At night, you can leave with a *“Bonsoir*,” as *“Bonsoir”* can mean “Good evening” at both arrival and departure. 
 
 But you don’t use *“Bonjour”* as a parting statement during the day; it’s just not done. 
 
-And, if it’s really late at night when you depart a place and you figure your host is going right to bed, you can say “*Bon nuit*” (bun noo-wee). But honestly, *“Bonsoir”* works just fine leaving a place in the evening.
+And, if it’s really late at night when you depart a place and you figure your host is going right to bed, you can say “*Bon nuit*” (bun noo-wee). But honestly, *“Bonsoir”* works just fine leaving a place in the evening. If you want to show yourself as a seasoned French traveler, after you've finished your dinner and stood up to gather jackets, purses, etc, and as you start for the door, say "*Bonsoir* "quietly - just loud enough for your table neigbors to hear. They will stop for an instanrt, say "*Bonsoir*" back to you and then immediately continue their conversation. Just a little bit of true France customs. Note, if you've got non-French folks around you, forget this - they won't respond.
 
 <h2>More Important Words and Phrases</h2>  
 You don’t have to learn French to improve your time in Paris but learning just a few words will really help. Here are what I consider the essential:
@@ -61,7 +61,7 @@ Note what I said above: when you enter a small shop, say *“Bonjour”* even if
 
 It’s possible an employee will come to you and ask if he or she can help you with anything. In Paris, I can almost guarantee that the employee already knows you don’t speak French and almost always knows you’re American or English; if the employee speaks English, they’ll use it. If not, well, sign language works. In any case, it’s almost certain that the employee will start with *“Bonjour*,” to which you reply…? Yes, of course; you reply *“Bonjour”* and then start the conversation.  
 
-In larger stores or supermarkets, you won’t say anything when you enter because there’s no one there to say it to. But when you reach the cashier or if you interact with any employee, start with a “Bonjour” and leave with a “*Merci, au revoir*.” Always. Always!  
+In larger stores or supermarkets, you won’t say anything when you enter because there’s no one there to say it to. But when you reach the cashier or if you interact with any employee, start with a “*Bonjour*” and leave with a “*Merci, au revoir*.” Always. Always!  
 
 Entering a restaurant, say *“Bonjour”* to the person who comes to seat you. Say *“Bonjour”* to the server when he or she comes to your table.  
 
@@ -69,9 +69,9 @@ Have a question of someone? Start with *“Bonjour*.”
 
 I suspect by now you’re getting the idea.  
 
-I know that this seems like a small thing but is not; it’s a big deal. I have seen merchants get ornery with people coming into their store, looking around and leaving without saying a word, and I once had a cooler-than-expected transaction in a boulangerie in which I’d shopped every other day for a month and so was well-known; later I realized I had not started with “Bonjour” that morning. I have little doubt that was why I noticed a less-friendly interaction.  
+I know that this seems like a small thing but is not; it’s a big deal. I have seen merchants get ornery with people coming into their store, looking around and leaving without saying a word, and I once had a cooler-than-expected transaction in a boulangerie in which I’d shopped every other day for a month and so was well-known; later I realized I had not started with “*Bonjour*” that morning. I have little doubt that was why I noticed a less-friendly interaction.  
 
-Don’t just leap into English, thinking everyone will understand. In Paris, it’s likely that someone around will speak some English, but you will have a better interaction if you start with *“Bonjour*.” You might add “*Je regrette, je ne parle pas la Français*” (pronounced “je regret, je parl pah la Francais.” Starting this way, the person to whom you’re talking will likely switch to English but appreciate that you started in French. I cringe seeing Americans not even trying to say bonjour, au revoir, s’il vous plait and merci. It just isn’t that difficult.  
+Don’t just leap into English, thinking everyone will understand. In Paris, it’s likely that someone around will speak some English, but you will have a better interaction if you start with *“Bonjour*.” You might add “*Je regrette, je ne parle pas la Français*” (pronounced “je regret, je parl pah la Francais.”) Starting this way, the person to whom you’re talking will likely switch to English but appreciate that you started in French. I cringe seeing Americans not even trying to say bonjour, au revoir, s’il vous plait and merci. It just isn’t that difficult.  
 
 <h2>How Many with Your Hands</h2>
 Because I think my French pronunciation lacks a little um, *je ne sais pas*, when I order a small quantity of something I always show the number with my hands as well as saying it. The first time I remember doing this, I ordered two sandwiches in a boulangerie, saying to the employee, “*Je prends deux sandwich*”, and holding up this:  
@@ -104,7 +104,7 @@ Where in the United States we use:
 Here’s one I hope you don’t have to use, but if you do, it’s really helpful:  
 
 ***J’ai un problem*** (Jhay anh problem – kind of a soft ‘j’) – “I have a problem.”
-If you have a problem that someone can help you solve, start the conversation with: “*Bonjour Monsieur/Madam/Mademoiselle). J’ai un problem.*” We have heard and seen that French people really want to help solve a problem, and this phrase seems to trigger that urge in them. We ran into a problem once —a credit card left the day before in the café of a museum—and I started the effort to find it and get it back by saying to the fellow in charge at the door “*Bonjour, monsieur. J’ai un problem.*” By the time we retrieved our credit card, half a dozen people had gotten involved, all wanted to help, and all were happy when the card was found and returned to us.  
+If you have a problem that someone can help you solve, start the conversation with: “*Bonjour Monsieur/Madam/Mademoiselle). J’ai un problem.*” We have heard and seen that French people really want to help solve a problem, and this phrase seems to trigger that urge in them. We ran into a problem once — a credit card left the day before in the café of a museum — and I started the effort to find it and get it back by saying to the fellow in charge at the door “*Bonjour, monsieur. J’ai un problem.*” By the time we retrieved our credit card, half a dozen people had gotten involved, all wanted to help, and all were happy when the card was found and returned to us.  
 <h2>Summary</h2>  
 See, I told you it wasn’t difficult. I promise you these little things will help you be more comfortable in your interactions with French people. 
 

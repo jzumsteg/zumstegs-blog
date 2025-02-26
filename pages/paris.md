@@ -9,11 +9,11 @@ Years ago, as I started to travel internationally with Boeing, a colleague gave 
 
 Here's what happens - and had happened to me the first international trip I took:  
 
-You arrive after a long flight. Going to Europe you will have almost certainly flown through the night and maybe you sleep on the airplane (I do not at all), but it wasn't a good sleep, so you're really tired. 
+You arrive after a long flight. Going to Europe you will have almost certainly flown through the night and maybe you sleep on the airplane (I do not at all), but it wasn't a good sleep, so you're really tired; not just physically tired, but mentally fatigued to the max. 
 
 You've traveled across eight or nine time zones, so your body is way out of sync with what time it is and what time it feels like it is. 
 
-Everything is different. You can't read the signs and you can't understand the simplest things said to you because you don't speak the language. (If you thought you could speak it, because you took a year of it in high school, you're now learning that you don't speak it.)
+*Everything* is different. You can't read the signs and you can't understand the simplest things said to you because you don't speak the language. (If you thought you could speak it, because you took a year of it in high school, you're now learning that you don't speak it.)
 
 The streets are different, the buildings are different, the cars are different, the hotel is different, the bed in the hotel is different. *Nothing* is the same as back home.
 
