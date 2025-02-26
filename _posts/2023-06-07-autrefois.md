@@ -9,7 +9,7 @@ layout: post
 thumbnail: autrefois/DSC04927.jpg
 summary: A trip to a great meal and a most unusual and enjoyable museum.
 ---
-Jamie and Hervé told us of a most unusual museum they had recently visited: <em>La Musée de la Vie d'Autrefois</em>, which can be translated as "The Museum of Life in Past Times." It's dedicated to showing what life in France was like from around 1800 to 1950. It does that by presenting 101 "scenes," rooms that show how people lived and worked in those times. And it does that by creating a room showing some part of life - rooms in houses, rooms representing stores (pharmacies, blacksmiths, cobbler, etc.) - and having many examples of <em>everything</em> that would have been in that scene in real life. It's mind-boggling!
+Jamie and Hervé told us of a most unusual museum they had recently visited: <em>La Musée de la Vie d'Autrefois</em>, which can be translated as "The Museum of Life in Past Times." It's dedicated to showing what life in France was like from around 1800 to 1950. It does that by presenting 101 "scenes," rooms that show how people lived and worked in those times. And it does that by creating a room showing some part of life and having many examples of <em>everything</em> that would have been in that scene in real life. It's mind-boggling!
 
 There are examples of rooms in a house: a living room, a dining room, bedrooms, the barn. There are examples of rooms representing every possible line of work you can imagine: a woodworker's studio, a pharmacy, a hairdresser, a blacksmith, a basket-maker, a cobbler, a clog-maker, a bar, a dressmaker, a cooper (barrelmaker) and about 80 other professions. Every one of these scenes was jam-full of implements and tools of the trade - hundreds of them. It's fascinating!
 
