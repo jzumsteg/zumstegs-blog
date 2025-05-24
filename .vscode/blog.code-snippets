@@ -1,5 +1,5 @@
 {
-	"frontmatter":{ 
+	"frontmatterxx":{ 
 		"prefix": "frontmatter",
 		"scope": "markdown",
 		"body": [
@@ -17,7 +17,7 @@
 		]
 	  },
 
-	"Landscape figure": {
+	"landscape_figure": {
 		"scope": "markdown",
 		"prefix": "lfigure",
 		"body": [
@@ -28,7 +28,7 @@
 		]
 	},
 
-	"Portrait-wide caption figure": {
+	"portrait-wide-caption-figure": {
 		"scope": "markdown",
 		"prefix": "pwfigure",
 		"body": [
@@ -39,7 +39,7 @@
 		]
 	},
 
-	"Portrait-narrow caption figure": {
+	"portrait-narrow-caption-figure": {
 		"scope": "markdown",
 		"prefix": "pnfigure",
 		"body": [

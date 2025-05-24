@@ -2,6 +2,13 @@
 layout: page
 title: Cheese Log
 ---
+<h2>2025 Cheese Log</h2>
+Bleu de Laqueuille  
+Compté  
+Neufchatel  
+Ossau-Iraty  
+Delice de Bourgogne  
+Jeune Autize (Morbier made with goats milk)
   <h2>2023 Cheese Log</h2>
   Brie de Meaux  
   Roquefort  
@@ -16,7 +23,7 @@ title: Cheese Log
   Colummiers  
   Crottin de Chavignol  
   
-  Tommes are cheeses from the French Alps
+  Tommes are cheeses from the French Alps  
   Tomme de Savoie  
   Tomme de Brebis - a tomme with milk from sheep; this has become one of my favorite cheeses (I have about forty-two favorite cheeses, I think).  
   Tomme des Fleurs - a tomme with tiny wildflowers (fleurs) in the rind.
