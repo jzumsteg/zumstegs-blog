@@ -1,7 +1,7 @@
 ---
 title: Test template
 author: JZ
-date: Thu, 22-Jun-2023,
+date: Sun, Jun 4, 2025
 category: 
 math: true
 mermaid: true
