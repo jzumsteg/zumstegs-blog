@@ -1,5 +1,13 @@
 {
-	"frontmatterxx":{ 
+	"em_dash": {
+		"prefix":"mdash",
+		"scope":"markdown",
+		"body": [
+			"&nbsp;&mdash;&nbsp;"
+		]
+	},
+	
+	"frontmatter":{ 
 		"prefix": "frontmatter",
 		"scope": "markdown",
 		"body": [
