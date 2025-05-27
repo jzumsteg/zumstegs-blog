@@ -14,4 +14,4 @@ Laurie and I have visited Spain on vacations maybe ten times, and on those trips
 <H2>A Little Background on the Basque Country - Euskadi</h2>
 
 <h2>Pintxos</h2>
-Anyone who has spent any time at all in the Basque Country knows about <em>pintxos</em>. (Pronounced "pin-chose>" - "tx in the language of the Basques is pronounced)
+Anyone who has spent any time at all in the Basque Country knows about <em>pintxos</em>. (Pronounced "pin'-chose"&nbsp;&mdash;&nbsp;"tx" in the language of the Basques is pronounced "ch" and is used a lot.) Pintxos are, essentially, tapas on steroids. They are bigger adn more plentiful &nbsp;&mdash;&nbsp;you'll
