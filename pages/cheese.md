@@ -3,12 +3,18 @@ layout: page
 title: Cheese Log
 ---
 <h2>2025 Cheese Log</h2>
+Morbier
+Jeune Autize (Morbier made with goat milk)
+Tommes de Ayeron
+Tommes des Fleurs
+Roquefort
 Bleu de Laqueuille  
 Compté  
 Neufchatel  
 Ossau-Iraty  
 Delice de Bourgogne  
-Jeune Autize (Morbier made with goats milk)
+Saint-Marcellin
+
   <h2>2023 Cheese Log</h2>
   Brie de Meaux  
   Roquefort  

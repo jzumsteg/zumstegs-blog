@@ -87,12 +87,34 @@ figure.portrait-wide-caption {
   margin-right: auto;
   width: 85%;
 }
+figure.portrait-square {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%
+}
+
+image.square {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  height:75%;
+}
 
 img.narrow {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 75%;
+}
+
+img.med-width {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  // width: 65%;
+  // height: 45%;
 }
 
 figure.small-thumb {
