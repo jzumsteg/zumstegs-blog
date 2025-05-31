@@ -43,12 +43,12 @@ And some of the houses along that beach:
 <h2>Beautiful Buildings</h2>
 San Sebastian does have a lot of beautiful buildings. The ones below were built after the 1813 burning of the city by British and Portugese armies.
 <figure class = 'portrait' >
-    <img src="{{ "2025/san-sebastian/DSC05965.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="If you cannot see this image, I can only say that I have no idea why this occurs on iOS devices!" />
+    <img src="{{ "2025/san-sebastian/DSC05965.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="iOS image problem" />
     <figcaption><em></em></figcaption>
 </figure>
 
 <figure class = 'portrait' >
-    <img src="{{ "2025/san-sebastian/DSC05966.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="If you cannot see this image, I can only say that I have no idea why this occurs on iOS devices!" />
+    <img src="{{ "2025/san-sebastian/DSC05966.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="iOS image problem" />
     <figcaption><em></em></figcaption>
 </figure>
 
