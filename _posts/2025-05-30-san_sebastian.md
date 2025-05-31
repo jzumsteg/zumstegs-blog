@@ -48,7 +48,7 @@ San Sebastian does have a lot of beautiful buildings. The ones below were built 
 </figure>
 
 <figure class = 'portrait' >
-    <img src="{{ "2025/san-sebastian/DSC05966.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="If you cannot see this image, I can only say that I have no idea why this occurs on iOS devices!" />
+    <img src="{{ "2025/san-sebastian/DSC05966.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="If you cannot see this image, I can only say that I have no idea why this occurs on iOS devices!" />
     <figcaption><em></em></figcaption>
 </figure>
 
