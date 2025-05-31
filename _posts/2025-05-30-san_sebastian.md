@@ -6,7 +6,7 @@ category: [Travel,Rambles]
 math: true
 mermaid: true
 layout: post
-thumbnail: 2025/san-sebastian/dsc05958.jpg
+thumbnail: 2025/san-sebastian/DSC05958.JPG
 summary: Off to Spain! First stop, San Sebastian in the Basque Country.
 ---  
 Like everyplace, San Sebastian has a long and interesting history, which I'll spare you. For our purposes, the important event occurred in 1813, when British and Portuguese troops besieged the town, which then was held by a French army &nbsp;&mdash;&nbsp; along with the rest of Spain &nbsp;&mdash;&nbsp; and generaled by Joseph Napoleon, older brother of the famous Napoleon and about one-hundredth as good a general. Once the British and Portuguese had defeated the French, they burned the town to the ground. This meant that much of San Sebastian had to be built again, and this time denizens could afford bigger and more beautiful houses.
