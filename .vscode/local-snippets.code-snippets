@@ -17,14 +17,14 @@
 	// }
 
 
-	"landscape_figure": {
-		"scope": "markdown",
-		"prefix": "lfigure",
-		"body": [
-			"<figure class = 'landscape' >",
-			"\t<img src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
-			"\t<figcaption><em>$2</em></figcaption>",
-			 "</figure>"
-		]
-	},
+	// "landscape_figure": {
+	// 	"scope": "markdown",
+	// 	"prefix": "lfigure",
+	// 	"body": [
+	// 		"<figure class = 'landscape' >",
+	// 		"\t<img src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+	// 		"\t<figcaption><em>$2</em></figcaption>",
+	// 		 "</figure>"
+	// 	]
+	// },
 }

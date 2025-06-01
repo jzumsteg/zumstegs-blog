@@ -20,7 +20,7 @@
 		  	"---",
 		  	"title: $1",
 			"author: JZ",
-			"date: $CURRENT_DAY_NAME_SHORT, $CURRENT_DATE, $CURRENT_MONTH_NAME_SHORT, $CURRENT_YEAR",
+			"date: $CURRENT_DAY_NAME_SHORT, $CURRENT_DATE $CURRENT_MONTH_NAME_SHORT, $CURRENT_YEAR",
 			"category: $2",
 			"math: true",
 			"mermaid: true",
@@ -47,8 +47,8 @@
 		"prefix": "pwfigure",
 		"body": [
 			"<figure class = 'portrait-wide-caption' >",
-			"\t<img class='narrow' src=\"{{ \"$0.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
-			"\t<figcaption><em>$1</em></figcaption>",
+			"\t<img class='narrow' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<figcaption><em>$2</em></figcaption>",
 			"</figure>"
 		]
 	},
@@ -58,8 +58,8 @@
 		"prefix": "pnfigure",
 		"body": [
 			"<figure class = 'portrait' >",
-			"\t<img src=\"{{ \"$0.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
-			"\t<figcaption><em>$1</em></figcaption>",
+			"\t<img src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<figcaption><em>$2</em></figcaption>",
 			 "</figure>"
 		]
 	},
