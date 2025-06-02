@@ -9,19 +9,19 @@ layout: post
 thumbnail: 
 summary: Vitoria-Gasteiz, the capital of the Basque Country
 ---  
-When we started planning this year's trip, we originally wanted to return to our favorite Spanish city, Zamora and our favorite <em>parador</em> which is in the old part of Zamora. Alas, I discovered that the <em>parador</em> is closed for renovation for 18 months and since it is part of the draw for us to Zamora, we decided to look for another place to visit. We had already decided to see San Sebastian, so I looked at other Basque Country cities and came across Vitoria-Gasteiz. The more I read about it, the more I thought, "This is a place we could really like." We booked four nights there and I was right, we loved Vitoria. By the time we left we were planning a return trip.
+When we started planning this year's trip, we originally wanted to return to our favorite Spanish city, Zamora and our favorite <em>parador</em> which is in the old town of Zamora. Alas, I discovered that the <em>parador</em> is closed for renovation for 18 months and since it is part of the draw for us to Zamora, we decided to look for another place to visit. We had already decided to see San Sebastian, so I looked at other cities in the Basque Country and came across Vitoria-Gasteiz. The more I read about it, the more I thought, "This is a place we could really like." We booked four nights there and found that I was wrong about liking the city; we loved it! By the time we left we were planning a return trip.
 
 <h2>A (Very) Little History of Vitoria-Gasteiz</h2>
-It's known that in the 11th century there was a village named Gasteiz on the hill here, and that it had a church and was walled, indicating that it had some importance in the area by then. In 1181 the Spanish king Sancho the Wise built up the small town into a defensive outpost and named it Vitoria for reasons unknown, but it quickly became Vitoria-Gasteiz, combining the Spanish and Basque names for the village.
+It's known that in the 11th century there was a village named Gasteiz on the hill here, and that it had a church and was walled, indicating that it had some importance in the area by then. In 1181 the Spanish king Sancho the Wise built up the small town into a defensive outpost and named it Victoria for reasons unknown, but it quickly became Vitoria-Gasteiz, combining the Spanish and Basque names for the village.
 
-In 1813 the French army of Joseph Napoleon met the British, Portuguese and Spanish army, under the leadership of the Duke of Wellington (later the victor over the Emperor Napoleon at Napoleon's final battle, at Waterloo). Wellington's army prevailed here, too, and started the demise of French control of Spain. Unlike San Sebastian, Wellington left Vitoria-Gasteiz intact, and it has been the capitol of the Basque Country, first an unoffical role, but formalized in the late 1900s and early-21st century, with the Basque Parliamenmt meeting here, and the Basque Prime Minister living here.
+In 1813 the French army of Joseph Napoleon battled the British, Portuguese and Spanish army, under the leadership of the Duke of Wellington near here. Wellington's army prevailed and started the demise of French control of Spain. Unlike San Sebastian (which Wellington's army burned to the ground), Wellington left Vitoria-Gasteiz intact, and it has been the capitol of the Basque Country, first an unoffical role, but formalized in the late-20th and early-21st centuries, with the Basque Parliament meeting here, and the Basque Prime Minister living here.
 
-Residents of Vitoria-Gasteiz are called <em>vitorianos</em> by English speakers, and <em>gasteiztarrak</em> by Basque speakers. But traditionally they are called <em>babazorros</em>, Basque for "bean sacks." I think that's a little fact everyone should know.
+Residents of Vitoria-Gasteiz are called <em>vitorianos</em> by English speakers, and <em>gasteiztarrak</em> by Basque speakers. But traditionally they are called <em>babazorros</em>, Basque for "bean sacks." I think that's a fact everyone should know.
 
 <H2>Vitoria-Gasteiz, the Town</h2>
-Several decades ago, VG decided to become a "green city." The city government put in place plans to build parks, reduce automobile traffic and improve the environment of the city. They succeeded: in 2012 the city was named a "Green Capital City" (the first in Spain) and in 2019 the UN designated it a "Golden Green City." There are four huge parks surrounding VG, each focusing on a different type of natural features: wetlands, forests, etc.
+Several decades ago, Vitoria-Gasteiz decided to become a "green city." The city government put in place plans to build parks, reduce automobile traffic and improve the environment of the city. They succeeded: in 2012 the city was named a "Green Capital City" (the first in Spain) and in 2019 the UN designated it a "Golden Green City." There are four huge parks outside Vitoria-Gasteiz, each focusing on a different type of natural feature: wetlands, forests, etc.
 
-For us, we saw this in many of the streets of VG. Many have been pedestrianized. 
+For us, we saw this greening in many of the streets of Vitoria-Gasteiz and many parks inside the city. Cars have been prohibited and pedestrians have them to themselves. 
 <figure class = 'portrait' >
     <img src="{{ "2025/vitoria/IMG_7595.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption><em>While the streets of the old city are mostly un-touched, many streets outside that core look like this: pedestrianized and tree-lined. Very enjoyable for strolling. This one was just outside our hotel.</em></figcaption>
@@ -34,9 +34,13 @@ For us, we saw this in many of the streets of VG. Many have been pedestrianized.
 
 
 
-The Old Town of VG has the same street plan as seen on maps of the city from the 14th century. Most of the buildings are, of course, not that old, though some of them are even older.
+The Old Town of Vitoria-Gasteiz has the same streets and plazas as seen on maps of the city from the 14th century. Most of the buildings are, of course, not that old, though some of them are even older.
+<figure class = 'portrait' >
+    <img src="{{ "2025/vitoria/IMG_7612.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption><em></em></figcaption>
+</figure>
 
-VG has a beautiful main plaza, the Plaza of the White Virgin (after a statue in the middle of the plaza.)
+Vitoria-Gasteiz has a beautiful main plaza, the Plaza of the White Virgin (after a statue in the middle of the plaza.) In these pictures there aren't many people, but in the evening it's jammed with couples, families, kids, old folks (that'd be us) and, one night, a movie crew. Great fun to just sit there and watch the world go by. In almost every Spanish village, town and city, the Plaza Mayor is the center of activity, especially in the evenings.
 <figure class = 'landscape' >
     <img src="{{ "2025/vitoria/DSC06004.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption><em></em></figcaption>
@@ -52,18 +56,18 @@ VG has a beautiful main plaza, the Plaza of the White Virgin (after a statue in 
 </figure>
 <figure class = 'landscape' >
     <img class = "narrow" src="{{ "2025/vitoria/DSC06019.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption><em>This 15th century room was discovered during a restoration twenty years ago. It is an old tower and was completely unknown until workman opened a bricked-up door. It was restored and ooened to the public.</em></figcaption>
+    <figcaption><em>This 15th century room was discovered during a restoration many years ago. It is in an old tower and was unknown until workers broke through a bricked-up door. It has been restored (several times) and is open to the public.</em></figcaption>
 </figure>
 
 <figure class = 'portrait-wide-caption' >
     <img class= "narrow" src="{{ "2025/vitoria/DSC06076.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption><em>The "Old Cathedral." In the 14th cengtury this was built on an older church and had structural problems from the start. In 1994 it was closed for fear that it would collapse. A huge restoration project corrected the problems that had accumulated over the centuries. A tour of the cathedral focused on how the restoration was done; it was fascinating. (Ask me for details, if you're interested.)  </em></figcaption>
+    <figcaption><em>The "Old Cathedral" in the old part of Vitoria-Gasteiz. In the 14th century this was built on an older church and had structural problems from the start. In 1994 it was closed for fear that it would collapse. A huge restoration project corrected the problems that had accumulated over the centuries. A tour of the cathedral focused on how the restoration was done; it was fascinating. (Ask me for details if you're interested.)  </em></figcaption>
 </figure>
 
 <h2>Vitoria-Gasteiz Street Art</h2>
-Hoo, boy: going to see some pictures in this section. Laurie and I like "street art:" art done in outdoor places, usually on buildings. Some years ago VG started a competition for wall murals, to be painted on buildings, mostly in the old part of town. The process is that artists submit designs and residents of neighborhoods choose which one they want in their district. Each year residents can choose a new design or keep an existing one for another year. The result is a bunch &nbsp;&mdash;&nbsp; about twenty &nbsp;&mdash;&nbsp; of huge, colorful, creative murals, all of which has some connection with VG. 
+Hoo, boy: going to see some pictures in this section. Laurie and I like "street art:" art done in outdoor places, usually on buildings. Some years ago Vitoria-Gasteiz started a competition for wall murals, to be painted on buildings, mostly in the old part of town. The process is that artists submit designs and residents of neighborhoods choose which one they want in their district. Each year residents can choose a new design or keep an existing one for another year. The result is a bunch &nbsp;&mdash;&nbsp; about twenty &nbsp;&mdash;&nbsp; of huge, colorful, creative murals, all of which have some connection with Vitoria-Gasteiz. 
 
-The Office of Tourism gave us &nbsp;&mdash;&nbsp; among a ton of stuff, a map of the murals. Even with it, we had to do some sleuthing; the last one took us a couple days (it was behind a locked gate in a park). We think the only one we didn't see had been removed when the building exterior got renovated.
+The Office of Tourism gave us &nbsp;&mdash;&nbsp; among a ton of stuff &nbsp;&mdash;&nbsp; a map of the murals. Even with it, we had to do some sleuthing; the last one took us a couple days (it was behind a locked gate in a park). We think the only one we didn't see had been removed when the building exterior got renovated.
 
 But here ya go: all the ones we found (or at least all the ones I remembered to take a decent picture of).
 
@@ -123,7 +127,7 @@ But here ya go: all the ones we found (or at least all the ones I remembered to 
 </figure>
 
 <H2>Other Street Art</h2>
-The tradition established by the quality of these murals seems to have inspired street-arts workog on a smaller scale. While Vitgoria-Gasteiz is plagued by the ubiquitous presents of tags and other graffitti, many of the buildings had smaller, really creative art. I suspect these are autorized by owners, or at least tolerated. 
+The tradition established by the quality of these murals seems to have inspired street-artists working on a smaller scale. While Vitoria-Gasteiz is plagued by the ubiquitous presence of tags and other graffitti, many buildings had smaller, really creative art. I suspect these are autorized by owners, or at least tolerated. 
 
 Here are a few of our favorites:
 <figure class = 'landscape' >
@@ -150,11 +154,32 @@ Here are a few of our favorites:
 
 <figure class = 'landscape' >
     <img src="{{ "2025/vitoria/street-art/DSC06062.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption><em>Son Derek was a great Tintin fan in his younger days, so we apreciated this art.</em></figcaption>
+    <figcaption><em>Son Derek was a great Tintin fan in his younger days, so we appreciated this art.</em></figcaption>
 </figure>
+Believe it or not, there is much more street art that we didn't see. Much more. Next trip.
 
 And one last picture...
 <figure class = 'portrait' >
     <img src="{{ "2025/vitoria/street-art/IMG_7617.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption><em>Laurie protecting her new BFF from the rain.</em></figcaption>
+    <figcaption><em>Laurie protecting her new artist BFF from the rain.</em></figcaption>
 </figure>
+And once again, to calm the crowds clamoring for pictures of Laurie, here she is in Vitoria-Gasteiz.
+<figure class = 'landscape' >
+    <img src="{{ "2025/vitoria/IMG_7577.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption><em>Laurie getting ready to take a stroll on one of Vioria-Gasteiz's beautiful streets.</em></figcaption>
+</figure>
+
+<h2>A Little Adventure</h2>
+We often trot out the old saying, "It's always something" when things get difficult. Here's an example:
+
+Our last morning in the hotel we were eating breakfast when I noticed that outside, on the main street in front of the hotel, there was a steady stream of runners, clearly in a race of some sort. I thought, that could make departure interesting, as we had to drive down that street to get away from the hotel and start our day's drive to Soria. Sure enough, after we'd packed up and were checking out, the woman at the desk said we wouldn't be able to leave the hotel parking lot for two and a half hours, "maybe more," until the race was finished. That would kind of mess up our schedule.
+
+So I went outside and to the corner where a race official was directing the runners. I explained to her that we needed to leave the hotel parking lot and drive down her street for a hundred meters and then turn. She responded (in Spanish - translate if you can): "Yadda yadda yadda yadda "beep-beep yadda yadda." I understood that we could leave and drive down the street, but I couldn't figure out what the "beep-beep" meant &nbsp;&mdash;&nbsp; I'd never seen that in my Spanish lessons.
+
+I asked and she repeated with the same "beep-beep. I asked her what that meant and she looked at me and said, "Usted sabe: beep-beep" while using her hands to show beeping a car horn. "Oh," she wants me to give her a beep when we come out so she knows I'm there and can clear the road for me. Of course.
+
+We left the parking lot, but behind another car which drove down the street so I didn't have to "beep-beep" that kind race official. I did roll down the window, slow down and thank her.
+
+And now I know what "beep-beep" in Spanish means: honk the horn. Always something.
+
+As I mentioned at the start, we loved Vitoria-Gasteiz. We're looking forward to more exploration here.
