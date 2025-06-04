@@ -7,12 +7,21 @@
 		]
 	},
 		"en_dash": {
-		"prefix":"ndash",
-		"scope":"markdown",
+			"prefix":"ndash",
+			"scope":"markdown",
+			"body": [
+				"&nbsp;&ndash;&nbsp;"
+			]
+	},
+
+	"italics": {
+		"prefix": "emph",
+		"scope": "markdown",
 		"body": [
-			"&nbsp;&ndash;&nbsp;"
+			"<em>$1</em>"
 		]
 	},
+
 	"frontmatter":{ 
 		"prefix": "frontmatter",
 		"scope": "markdown",
