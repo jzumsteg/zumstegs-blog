@@ -152,6 +152,7 @@ figure.landscape-medium-width {
 figcaption {
   font-size: 16px;
   border: 2px;
+  font-style: italic;
 }
 
 figcaption.narrow {
@@ -193,9 +194,9 @@ figure {
   border-radius: 8px
 }
 
-figcaption {
-  font-style: italic;
-}
+// figcaption {
+//   font-style: italic;
+// }
 
 .post-title {
   color: rgb(120, 120, 120);

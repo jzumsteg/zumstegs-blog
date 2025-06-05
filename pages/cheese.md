@@ -3,15 +3,17 @@ layout: page
 title: Cheese Log
 ---
 <h2>2025 Cheese Log</h2>
-Morbier
+Bleu d'Auvergne   
+Ossau-Iraty (from the Pyrenees - a semi-cured cheese. One of our favorites)  
+Crottin de Chavignol (a chèvre - chèvres are from goats milk that gets more flavorful as it ages)  
+Morbier  
 Jeune Autize (Morbier made with goat milk)
 Tommes de Ayeron
 Tommes des Fleurs
 Roquefort
 Bleu de Laqueuille  
-Compté  
+Comté  
 Neufchatel  
-Ossau-Iraty  
 Delice de Bourgogne  
 Saint-Marcellin
 

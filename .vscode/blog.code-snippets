@@ -46,7 +46,7 @@
 		"body": [
 			"<figure class = 'landscape' >",
 			"\t<img src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
-			"\t<figcaption><em>$2</em></figcaption>",
+			"\t<figcaption>$2</figcaption>",
 			 "</figure>"
 		]
 	},

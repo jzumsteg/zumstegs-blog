@@ -7,39 +7,160 @@ math: true
 mermaid: true
 layout: post
 thumbnail: 
-summary: Soria - a very nice city, but the day-trip to Berlanga trned ups something spectacular.
+summary: Soria - a very nice city, and on a day-trip to Berlanga de Duero we found something spectacular.
 ---  
-We left the Basque Country &nbsp;&mdash;&nbsp; reluctantly &nbsp;&mdash;&nbsp; and headed a bit south. Next stop, after a drive through the wine regions La Rioja and Ribero del Duero, we arrrived in Soria. And immediatelyu ran into a minor problem.
+We left the Basque Country&nbsp;&mdash;&nbsp;reluctantly, I might add&nbsp;&mdash;&nbsp;and headed a bit south. Next stop, after a drive through the wine regions La Rioja and Ribero del Duero: Soria, where we quickly ran into a minor problem.
 
-the Spanish givernment runs a chain of excellent hotels called Paradores. Many are in historic buildings converted for use as hotels. Others &nbsp;&mdash;&nbsp; like Soria &nbsp;&mdash;&nbsp; are in purpose built buildings. All are very nice, though the interiors and rooms in most are certainly Spanish &nbsp;&mdash;&nbsp; dark woods and carpets. We like the paradores a lot and stay in them whenever we can.
+The Spanish government runs a chain of excellent hotels called Paradores. Many are in historic buildings converted for use as hotels. Others&nbsp;&mdash;&nbsp;like Soria&nbsp;&mdash;&nbsp;are in purpose-built buildings. All are very nice, though the interiors and rooms in most are certainly Spanish&nbsp;&mdash;&nbsp;dark woods and carpets. We like the Paradores a lot and stay in them whenever we can.
 
-The Soria parador sits high on a hil overlooking the hilly country-side. Since we'd booked an upgraded "superior" room, we figured we get one with a nice view. Not so much. Our room, which was huge and very nice, looked out on the entrance to the hotel, park of the parking area, and a stand of trees that, while lovely, blocked any sort of view. Not what we expected.
+The Soria Parador sits high on a hill overlooking the country-side. Since we'd booked an upgraded "superior" room, we figured we would get one with a nice view. Not so much. Our room, which was huge and very nice, looked out on the entrance to the hotel, part of a parking area, and a stand of trees. Not what we expected.
 
-So, down to the reception area where we asked if there were any rooms with views that we could move to. At this point, the fellow who had checked us in started quite a line of hog-wash. We'd have to downgrade to a regular room - fine with us, could we see one? Well, no, and besides, the trees on the view side grow so fast that all the rooms in the parador have their view blocked by trees. After a little of hooie, we gave up. But a look from outside showed that all the rooms on one side of the parador had a beautiful view. We gave up and went back to enjoy our very nice room.
+So, we tromped down to the reception area where we asked if there were any rooms with views that we could have. At this point, the fellow who had checked us in started quite a line of hog-wash. We'd have to downgrade to a regular room&nbsp;&mdash;&nbsp;fine with us. Could we see one? Well, no, and besides, the trees on the view side grow so fast that <em>all</em> the rooms in the Parador have their views blocked by trees. After a little of that hooey, we gave up. A look from outside showed that all the rooms on one side of the Parador had beautiful views. We went back in to enjoy our very nice room, with zero view.
 
-But honestly, this was the only parador experience we've had (and we've stayed in 17 of them, multiple times in several) that made us say, not here again. The fellow who ran the bar/cafe was a grump every time we were there, the restaurant had two people trying to serve at least 15 tables of folks (the food was excellent, though) and generally, it was not an enjoyable stay. Besides, the walk into Soria was about 20 minutes &nbsp;&mdash;&nbsp; okay going to the city because it was all downhill, but returning, all up-hill, of course. Oh my aching calves!
+Honestly, this was the only Parador stay we've had (and we've stayed in 17 of them, multiple times in several) that made us say, not here again. The fellow who ran the bar/cafe was a grump every time we were there, the restaurant had two people trying to serve at least 15 tables of folks (the food was excellent, though) and generally, it was not an enjoyable stay. Besides, the walk into Soria was about 20 minutes&nbsp;&mdash;&nbsp;okay going to the city because it was all downhill, but returning was all up-hill, of course. Oh my aching calves! 
 
-Soria, though, has great potential for a return visit &nbsp;&mdash;&nbsp; staying in the city itself next time.
+<h2>Soria</h2>
+Soria has a beautiful park in the center of the city. This is a music platform. It is high off the ground (musicians have to climb a ladder to get to it) and has a tree growing up through the middle of it. Don't ask me why; I surely don't know.
+<figure class = 'portrait' >
+    <img src="{{ "2025/soria/DSC06105.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption></figcaption>
+</figure>
 
-<h2>Berlanga</h2>
-This was the star of our stay in Soria. We visited the Officina del Tourismo and, as usual, came away with an armful of brochures and maps, from a super-friendly woman. (When we started traveling with Mary and Gilles, they always started at the tourism office of whatever town we were in. We have followed that advice and are amazed at the amount of information we have always received, from the nicest people you could want to meet.)
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/DSC06137.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption>How's this for a private home? The Palacio de los Condes (Counts) de Gomara. Built in the late 1500s, when the Counts of Spain were at the peak of their power and wealth, this is now the Palace of Justice.</figcaption>
+</figure>
+<figure class = 'portrait' >
+    <img src="{{ "2025/soria/DSC06111.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption>Now, here's door! The sign says the building is for sale. I wonder what's behind the door...</figcaption>
+</figure>
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/DSC06115.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption>One of the oldest Romanesque churches in Spain, and, with its double row of arches, one of the most beautiful and unusual.</figcaption>
+</figure>
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/DSC06123.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption>With one of the best Romanesque tympanums.</figcaption>
+</figure>
 
-One of the brochures had day-trips in the province, and one of them was to a castillo at Berlenga. Now, we are fortress fans, so the next day, we headed to Berlenga, not knowing what we'd see. We drove through the town, realized we'd gone too far, started to turn around when we saw a sign pointing to the Castillo. So we turned off the main road and this is what we saw:
+Soria certainly has the potential for another visit. Lots of interesting things to see and I'd bet that the downtown area, especially that park, is full of folks out in the evening for the <em>paseo</em> and we love being part of that.
+
+<h2><em>Castillo Berlanga de Duero</em></h2>
+This was the highlight of our stay in Soria. We visited the <em>Officina del Tourismo</em> in Soria and, as usual, came away with an armful of brochures and maps, from a super-friendly woman. (When we started traveling with Mary and Gilles, they always started at the tourism office of whatever town we were in. We have followed that advice and are amazed at the amount of information we always receive, from the nicest people you could want to meet.)
+
+One of the brochures had day-trips in the province, and one of them was to a <em>castillo</em> at <em>Berlenga de Duero</em>. We are <em>castillo</em> fans, so the next day, we headed to <em>Berlenga de Duero</em>, not knowing what we'd see. We drove through the town, realized we'd gone clear out the other side of it and started to turn around when we saw a sign pointing to the <em>Castillo</em>. So we turned off the main road and this is what we saw:
 
 <figure class = 'landscape' >
     <img src="{{ "2025/soria/berlanga/DSC06245.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption><em>Holy cow! That is a fortress - we were immediately gob-smacked. In a country with many fortresses from centuries of one army protecting against another army, this is the most spectacular</em> castillo we've seen.</em></figcaption>
+    <figcaption><em>Holy cow! That is a castillo - we were gob-smacked. In a country with many fortresses after centuries of armies fearing other armies, this is the most spectacular castillo we've seen.</em></figcaption>
 </figure>
 
-This <em>castillo</em>  went through many iterations, like most <em>castillos</em>  did. It was built originally in the 10th or 11th century by the Islamic Moors, who had brought much of Spain under their control. The Berlanga <em>castillo</em> was an important one in the northern-most reach of Islamic Spain. 
+This <em>castillo</em>  went through many iterations, as did most <em>castillos</em> over their lifetime. It was built originally in the 10th or 11th century by the Islamic Moors, who had brought much of Spain under their control. The Berlanga <em>castillo</em> was an important one in the northern-most reach of Islamic Spain. 
 
-In the mid-11th century Fernando I of Castile - what passed for a king of Spain - started pushing the Moors southward and was able to defeat them in the Berlanga <em>castillo</em>. The Moors damaged a couple walls as they left. Fernando I rebuilt the Islamic fortress and maintained it as insurance that the Moors would not be able to re-conquer this area.
+In the mid-11th century Fernando I of Castile&nbsp;&mdash;&nbsp;the king of central Spain&nbsp;&mdash;&nbsp;started pushing the Moors southward and was able to defeat the Moorish force in the Berlanga <em>castillo</em>. The Moors damaged a couple walls as they left which Fernando I rebuilt and expanded and maintained as insurance that the Moors would not be able to re-conquer this area.
 
-In the late 1300s, this whole area around Berlanga came under the private ownership of the Tovar family, which then started several centuries of rebuilding and reinforcing the fortress, which brought it to the shape and size it is today. Between then and now, some of the <em>castillo</em> fell into ruins, bt no one was interested &nbsp;&mdash;&nbsp; or had the funds &nbsp;&mdash;&nbsp; or the reason &nbsp;&mdash;&nbsp; to restore it.
+In the late 1300s, this whole area around Berlanga came under the private ownership of the Tovar family, which then started several centuries of rebuilding and reinforcing the fortress; these changes brought it to the shape and size it is today. Between then and now, some of the <em>castillo</em> fell into ruins, but no one had the funds or a reason to restore it.
 
-Because the turning back of the Moorish tide in the 11th and 12th centuries was instrumental in Europe keeping its cultural heritage, the European Union became interested in restoring the Berlanga <em>castillo</em> and provided funding for the research and work necessary which was completed over the last ten years. So now the <em>castillo</em> has been largely restored, with walkways for visitors and many explanatory panels. The Berlanga <em>castillo</em>, represents a turning point in European and Spanish history and shows us today what fortresses were like and what life in them was.
+Because the turning back of the Moorish tide in the 11th and 12th centuries was instrumental in Europe keeping its cultural heritage, the European Union became interested in restoring the Berlanga <em>castillo</em> and provided funding for the research and restoration work necessary which was completed over the last ten years. So now the <em>castillo</em> has been largely restored, with walkways for visitors and many explanatory panels. The Berlanga <em>castillo</em> represents a turning point in European and Spanish history and shows us today what fortresses were like and what life in them was.
 
-So Laurie and I parked at the bottom of the hill and walked to the entrance, which ws a small building with a sign "Officina de Tourism" on it and the entrance door to the <em>castillo</em> . Also a printed sign saying that the office was closed and the employee of the Officina de Tourism was at the "Colegiata." There were three men also standing around also trying to figure out what to do. At Laurie's urging I walked over to them to ask, in Spanish, what the situation was. "<em>Disculpame, por favor"</em>: I started; one of them replied, "Yes?" Then he laughed and said that he spoke English. And he did, as well as me, I think. It turned out the three were brothers who had been raised in Berlenga and who had come there as a family reunion and to see the restored castillo.
+So Laurie and I parked at the bottom of the hill and walked to the entrance, which was a small building with a sign <em>"Officina de Tourism"</em> on it and a locked entrance door to the <em>castillo</em>. There was pinned to the door a printed sign saying that the office was closed and the employee of the <em>Officina de Tourism</em> was at the "Colegiata"&nbsp;&mdash;&nbsp; whatever that was. There were three men also standing around also trying to figure out what to do. At Laurie's urging I walked over to them to ask, in Spanish, what the situation was. "<em>Disculpame, por favor"</em> I started; one of them replied, "Yes?" Then he smiled and said that he spoke English. And he did, as well as me, I think. It turned out the three were brothers who had been raised in Berlanga and who had come there for a family reunion and to see the restored <em>castillo</em>&nbsp;&mdash;&nbsp;it had been a ruin when they'd moved from the town.
 
-Laurie and I walked to the Colegiata (the main church of the town) where there was, indeed, an employee in a booth. She locked up her booth and took us back to <em>castillo</em> which she opened for us. She told the five visitors that she had to return to her other office and that we could go anywhere in the <em>castillo</em> and stay as long as we wanted, but we had to make sure that when we left we closed the door and made sure it was locked.
+Laurie and I walked to the Colegiata (the main church of the town) where there was, indeed, an employee in a booth. We told her we wanted to see the <em>castillo</em> so she locked up her booth and took us back to <em>castillo</em> which she opened for us and our three new friends. She told us five visitors that she had to return to her other office and that we could go anywhere in the <em>castillo</em> and stay as long as we wanted, but we had to make sure that when we left we closed the door and made sure it was locked.
 
+Okay, after that rather long-winded introduction the the Berlanga <em>castillo</em> here are some pictures.
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/berlanga/DSC06165.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption><em>Castillo de Berlanga as we climbed the hill toward it.</em></figcaption>
+</figure>
+
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/berlanga/DSC06170.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption>The wall on the left is part of the original Moorish castillo, built in the 10th or 11th century. On the right is the outer wall, built in the 1520s.</figcaption>
+</figure>
+
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/berlanga/DSC06172.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption>The interior of the original Moorish castillo. This part is at least 1,000 years old.</figcaption>
+</figure>
+
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/berlanga/DSC06201.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption>The outer wall, built in the 1500s.</figcaption>
+</figure>
+
+<figure class = 'portrait-wide-caption' >
+    <img class="narrow" src="{{ "2025/soria/berlanga/DSC06213.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption>The defensive tower of the Moorish castillo. The wall on the left is from the enlarged 1500s fortress.</figcaption>
+</figure>
+
+<figure class = 'portrait-wide-caption' >
+    <img class="narrow" src="{{ "2025/soria/berlanGa/DSC06211.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+<figcaption>The living quarters of the castillo were inside this structure. Soldiers would have been quartered here, then in later years the family owning the castillo and the surrounding lands (which contained 33 towns!) lived here. </figcaption>
+</figure>
+
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/berlanga/DSC06183.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption>Laurie checking out the countryside.</figcaption>
+</figure>
+
+The <em>castillo</em> of Berlanga de Duero is truly remarkable&nbsp;&mdash;&nbsp;an historic fortress with a really top-notch restoration. As I mentioned, we have seen <em>lots</em> of <em>castillos</em> in Spain; this was the most impressive by far.
+
+<h2>Tiermes</h2>
+Since we'd gone back 1,000 years in Berlanga de Duero, we thought "What the heck, let's go back another thousand years" to the Roman town of Tiermes. Well, what's left of the Roman town of Tiermes. This town, out in the middle of nowhere, existed before the Romans conquered this area and built Tiermes into a good-sized town. Now, it's an archeological site, still being studied by archaologists. But when we were there, we were completely by ourselves. No tourists (understandable: it's a long ways from anywhere), no archaologists, no nothing.
+
+It was interesting to see, but unlike the <em>castillo</em>, we had no sense of it ever being a place where people lived and worked.
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/tiermes/tiermes.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption></figcaption>
+</figure>
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/tiermes/DSC06253.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption></figcaption>
+</figure>
+We had a question when we left Tiermes: why here? Why would anyone build a house here, much less a good-sized town? There were no fortifications, so the location wasn't militarily strategic. No farmable land is around it, no mines to extract ore, no river, no nothing&nbsp;&mdash;&nbsp;it took us 45 minutes to drive from the nearest large town. The best the archaologists have come up with is "Maybe they herded sheep."
+
+Why here? Dunno.
+
+<h2>The Cloisters at <em>Monasterio de San Juan de Duero</em></h2>
+Laurie and I love to visit cloisters. Cloisters were part of almost every monastery and convent, where they served as a place the monks and nuns could do their walking meditations. Today they remain beautiful and peaceful reminders of spiritual monastic life. 
+
+The cloister at Monasterio de San Juan de Duero is said to be the most beautiful in Spain, and maybe the most beautiful in the Western world. The arches of the cloister are all that exist - its roof is long-gone. What makes it so beautiful and distinctive is that the cloister, though built as a unit at one time (in the 12th century), contains four completely distinct styles of arches&nbsp;&mdash;&nbsp;Romanesque, Byzantine, Arabic and one not associated with any known style. All are preserved perfectly.
+
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/claustro.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption>An overview of the cloisters. (Wikipedia: Diego Delso)</figcaption>
+</figure>
+
+<figure class = 'portrait' >
+    <img src="{{ "2025/soria/DSC06278.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption></figcaption>
+</figure>
+
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/DSC06280.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption></figcaption>
+</figure>
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/DSC06341.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption></figcaption>
+</figure>
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/DSC06296.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption>Each of the 40 or so columns has a unique capitol, all hand-carved, of course.</figcaption>
+</figure>
+
+There is also a church that was part of the monastery. It contained some beautiful capitals on interior columns. Here're a couple:
+<figure class = 'portrait' >
+    <img src="{{ "2025/soria/DSC06304.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption><em></em></figcaption>
+</figure>
+<figure class = 'landscape' >
+    <img src="{{ "2025/soria/DSC06315.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption></figcaption>
+</figure>
+This is a small site, but Laurie and I spent well over an an hour just walking around it and marveling and we'd return to see it again if we ever get back to Soria. 
+
+<h2>Soria Wrap-Up</h2>
+That's it for our three-day stay in Soria. We liked the town, didn't much like the Parador, loved our day-trip the <em>Castillo de Berlanger de Duero</em> and Tiermas and that <em>fabuloso</em> cloister. 
+
+Next up: the shortest post ever on our next destination, Calahorra, and then our return to France. Coming Real Soon Now! 
