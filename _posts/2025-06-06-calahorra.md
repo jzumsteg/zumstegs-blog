@@ -1,7 +1,7 @@
 ---
 title: Calahorra
 author: JZ
-date: Thu, 05 Jun, 2025
+date: Fri, 06 Jun, 2025
 category: Travel
 math: true
 mermaid: true
