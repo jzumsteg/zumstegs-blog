@@ -4,6 +4,8 @@ title: Cheese Log
 ---
 <h2>2025 Cheese Log</h2>
 Bleu d'Auvergne   
+Forme D'Ambert
+Forme de Montbrison (This bleu and Forme D'Ambert are from the same area, but made on the two sides of one valley - hence the different names.)
 Ossau-Iraty (from the Pyrenees - a semi-cured cheese. One of our favorites)  
 Crottin de Chavignol (a chèvre - chèvres are from goats milk that gets more flavorful as it ages)  
 Morbier  
@@ -16,6 +18,7 @@ Comté
 Neufchatel  
 Delice de Bourgogne  
 Saint-Marcellin
+Saint-Felicien
 
   <h2>2023 Cheese Log</h2>
   Brie de Meaux  
