@@ -22,7 +22,7 @@ I was really hoping to see a gas station. The car shows distance to empty and we
 
 We started to climb on a really twisting, turning, poorly-maintained road into a mountainous area. There was not another car on the road and the GPS said the next turn we had to make was 50 miles away. After about fifteen minutes I said, "Nope, I am not comfortable with this." We turned around and went back to the town. There I checked the GPS and realized it showed the main road along the river was closed a mile past this town. I checked the GPS on my phone: same thing: the road is closed. That's why the GPS was routing us on that mountain road. 
 
-Now I am a little worried. We haven't seen a gas station and we may have to go back quite a way to get to another route to our destination. My fevered imagination envisions a situation where no matter what decision I make, we could run out of gas, out in the middle of no where.
+Now I am a little worried. We haven't seen a gas station and we may have to go back quite a way to get to another route to our destination. My fevered imagination envisions a situation where no matter what decision I make, we could run out of gas, out in the middle of nowhere.
 
 I went into a hotel in the town to ask there where in hell is the closest gas station. The woman I asked said, "In Arnedo" which is about 20 minutes <em>past</em> the closed part of the road. "But," I said, "the road to Arnedo is closed" and showed her on my phone's GPS. She replied, "No, it isn't closed. It's got a traffic signal where they're working on the road but it's not closed." Though she was speaking English as well as me, I asked about four times to make sure I got it right
 
