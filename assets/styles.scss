@@ -36,6 +36,9 @@
   @import "syntax-dark";
 }
 
+// * {
+//   transition: all 1.0s ease-in-out;
+// }
 // Sass for creating the swatches
 .colors {
   display: grid;
@@ -53,6 +56,26 @@
   }
 }
 
+.excerpt-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height:auto;
+  vertical-align: top;
+  padding-right: 10px;
+}
+
+excerpt-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height:250px;
+  vertical-align: top;
+  padding-right: 10px;
+}
+
 /* append your custom style below */
 img {
   display: block;
@@ -62,40 +85,142 @@ img {
   height:60%;
 }
 
+img.narrow {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height:600px;
+}
+
+// img.portrait {
+//   display: block;
+//   // margin-left: auto;
+//   // margin-right: auto;
+//   margin-left: 17%;
+//   margin-right:17%;
+//   height: auto;
+// }
+
+// img.landscape {
+//   display:block;
+//   width: auto;
+//   height:auto;
+// }
 .table-two-column {
   width: 50%
 }
 
-.excerpt-image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-  vertical-align: top;
-  padding-right: 10px;
-}
+// figure.landscape {
+//   display: block;
+//   margin-left: auto;
+//   margin-right: auto;
+//   // height: auto;
+//   width: 100%; 
+// }
 
-figure.portrait {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width:75%;
-  // height: 100px;
-}
+// img.landscape {
+//   display: block;
+//   margin-left: auto;
+//   margin-right: auto;
+//   width: 100%;
+//   // height:75%;
+// }
+// figcaption.landscape {
+//   font-size: 16px;
+//   border: 2px;
+//   font-style: italic;
+//   text-align: left;
+//   // margin-left: 17%;
+//   // margin-right:17%;
+//   width: 100%;
+// }
 
-figure.portrait-wide-caption {
+// figcaption.fullwidth {
+//     font-size: 16px;
+//   border: 2px;
+//   font-style: italic;
+//   text-align: left;
+//   margin-left: auto;
+//   margin-right:auto;
+//   width: 100%;
+// }
+// figcaption.narrow {
+//   font-size: 16px;
+//   border: 2px;
+//   font-style: italic;
+//   text-align: left;
+//   margin-left: auto;
+//   margin-right:auto;
+//   // width: 75%;
+// }
+
+// figure.default {
+//   display: block;
+//   margin-left: auto;
+//   margin-right: auto;
+//   height: auto;
+//   width: 90%; 
+// }
+
+// // for portrait images
+// figure.portrait {
+//   display: block;
+//   margin-left: auto;
+//   margin-right: auto;
+//   height: 600px;
+//   width: auto; 
+// }
+// img.portrait {
+//   display: block;
+//   margin-left: auto;
+//   margin-right: auto;\
+//   object-fit: contain;
+//   // margin-left: 17%;
+//   // margin-right:17%;
+//   // height: 100%;
+// }
+
+// figure.portrait-wide-caption {
+//   display: block;
+//   margin-left: auto;
+//   margin-right: auto;
+//   width: 100%;
+//   // width:25%;
+//   // height: 700px; 
+// }
+
+figure.portrait-narrow-caption {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 85%;
+  width: 75%;
   // width:25%;
   // height: 700px; 
 }
+
 figure.portrait-square {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 75%
+}
+
+figure.landscape-test {  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: auto; 
+}
+
+image.lscape {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
 }
 
 image.square {
@@ -106,13 +231,7 @@ image.square {
   // height:75%;
 }
 
-img.narrow {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: auto;
-  height:600px;
-}
+
 
 img.portrait-short {
   display: block;
@@ -162,24 +281,50 @@ figure.landscape-medium-width {
   width: 70%;
 }
 
-figcaption {
+
+figcaption.fullwidth {
+    font-size: 16px;
+  border: 2px;
+  font-style: italic;
+  text-align: left;
+  margin-left: auto;
+  margin-right:auto;
+  width: 100%;
+}
+figcaption.narrow {
   font-size: 16px;
   border: 2px;
   font-style: italic;
+  text-align: left;
+  margin-left: 100px;
+  margin-right:auto;
+  width: 70%;
 }
 
-figcaption.narrow {
-  font-size: 16px;
-  width:85%;
-  margin-left: 50px;
-}
+// figcaption {
+//   font-size: 16px;
+//   border: 2px;
+//   font-style: italic;
+// }
 
-figure.landscape {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 85%;
-}
+// figcaption.wide {
+//   font-size: 16px;
+//   border: 2px;
+//   font-style: italic;
+//   width: 90%;
+//   text-align: left;
+// }
+
+// figcaption.narrow {
+//   font-size: 16px;
+//   border: 2px;
+//   font-style: italic;
+//   text-align: left;
+//   margin-left: 17%;
+//   margin-right:17%;
+//   width: 66%;
+// }
+
 
 #center {
   display: block;

@@ -43,7 +43,7 @@ We got to do some sightseeing. Here's the St. Louis Arch. From a distance, it's 
 We got in lots of walks, as the weather was excellent. Christmas Eve day was sunny and 74°! We walked through an outdoor sculpture park with some interesting installations:
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/image-14.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class="lscape" src="{{"/assets/images/2022/01/image-14.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -52,16 +52,12 @@ We got in lots of walks, as the weather was excellent. Christmas Eve day was sun
 	<figcaption></figcaption>
 </figure>
 
-
-
 Have you ever had that feeling that someone was looking at you? At this sculpture park, we encountered that feeling strongly, but never figured out what it was.
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/eyeball.jpg" | prepend: site.baseurl  }}" alt="Image" />
-	<figcaption></figcaption>
+<figure class = "landscape" >
+	<img  src="{{"/assets/images/2022/01/eyeball.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<figcaption class="landscape">Eyeball</figcaption>
 </figure>
-
-
 
 A most interesting thing in the park was an owl, sitting in a tree by the side of a path.  We've never been this close to an owl in the wild.
 
@@ -69,7 +65,6 @@ A most interesting thing in the park was an owl, sitting in a tree by the side o
 	<img src="{{"/assets/images/2022/01/image-15.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
-
 
 
 We walked through a Farmers' Market in Kirkwood which was selling Christmas trees and saw this one. Yikes!
@@ -81,50 +76,50 @@ We walked through a Farmers' Market in Kirkwood which was selling Christmas tree
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2022/01/image-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure class = "portrait-wide-caption" >
+	<img class="narrow"   src="{{"/assets/images/2022/01/image-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Clara (age 11) with her new look.</em></figcaption>
 </figure>
 
 
 <h2>Christmas Morning!</h2>
-<figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/IMG_0858-rotated.jpg" | prepend: site.baseurl  }}" alt="Image" />
-	<figcaption><em>Henry was not up to snuff, fighting the flu. He rallied when the presents came out...</em></figcaption>
+<figure class = "landscape" >
+	<img class="landscape" src="{{"/assets/images/2022/01/IMG_0858-rotated.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<figcaption class="fullwidth"><em>Henry was not up to snuff, fighting the flu. He rallied when the presents came out...</em></figcaption>
 </figure>
 
 
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/IMG_0864-rotated.jpg" | prepend: site.baseurl  }}" alt="Image" />
-	<figcaption></figcaption>
+<figure class = "portrait-wide-caption" >
+	<img class="landscape"  src="{{"/assets/images/2022/01/IMG_0864-rotated.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<figcaption class="fullwidth"></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2022/01/image-7.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure class = "portrait-wide-caption" >
+	<img class="narrow"  src="{{"/assets/images/2022/01/image-7.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Henry (age 6) wearing one Christmas present (apron and hat - he loves to do stuff in the kitchen) and showing off another.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2022/01/image-3-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure class = "portrait-wide-caption" >
+	<img class="narrow"   src="{{"/assets/images/2022/01/image-3-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2022/01/image-8.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure class = "portrait-wide-caption" >
+	<img class="narrow"   src="{{"/assets/images/2022/01/image-8.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Annie showing off one of her presents - one of a set of three. That is a picture of blood cells; remember, she's a scientist specializing in infectious diseases. These pictures are really beautiful.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2022/01/image-16.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure class = "portrait-wide-caption" >
+	<img class="narrow"   src="{{"/assets/images/2022/01/image-16.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Derek showing off his new look. Wouldn't call it a "man-bun," exactly. Actually, this get-up was for humorous affect. Derek has avoided hair salons since the pandemic started a couple years ago.</em></figcaption>
 </figure>
 
@@ -137,8 +132,8 @@ I wrote some about the dilemma for towns like this when we visited one in France
 Henry came down with some type of flu (wasn't COVID-Omicron, evidently, as he tested negative) and for a couple days he definitely was not his high-energy self:
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/image-9.jpg" | prepend: site.baseurl  }}" alt="Image" />
-	<figcaption><em>Don't see Henry just sitting like this often; usually he's exploring everything is sight. Flu slows everyone down, including Henry.</em></figcaption>
+	<img class="landscape" src="{{"/assets/images/2022/01/image-9.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<figcaption class="landscape" ><em>Don't see Henry just sitting like this often; usually he's exploring everything is sight. Flu slows everyone down, including Henry.</em></figcaption>
 </figure>
 
 
@@ -152,8 +147,8 @@ Henry came down with some type of flu (wasn't COVID-Omicron, evidently, as he te
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "portrait">
-	<img src="{{"/assets/images/2022/01/image-10.jpg" | prepend: site.baseurl  }}" alt="Image" />
+ <figure class = "portrait-wide-caption" >
+	<img class="narrow"   src="{{"/assets/images/2022/01/image-10.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

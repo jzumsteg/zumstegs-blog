@@ -67,7 +67,7 @@
 		"prefix": "pnfigure",
 		"body": [
 			"<figure class = 'portrait' >",
-			"\t<img src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<img class="narrow" src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption><em>$2</em></figcaption>",
 			 "</figure>"
 		]
