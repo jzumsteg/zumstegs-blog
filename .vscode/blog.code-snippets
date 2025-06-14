@@ -45,7 +45,7 @@
 		"prefix": "lfigure",
 		"body": [
 			"<figure class = 'landscape' >",
-			"\t<img src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<img class='landscape' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption>$2</figcaption>",
 			 "</figure>"
 		]
@@ -58,6 +58,38 @@
 			"<figure class = 'portrait-wide-caption' >",
 			"\t<img class='narrow' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption><em>$2</em></figcaption>",
+			"</figure>"
+		]
+	},
+
+		"portrait-narrow-caption": {
+		"scope": "markdown",
+		"prefix": "portnarrow",
+		"body": [
+			"<figure class = 'portrait-wide-caption' >",
+			"\t<img class='narrow' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<figcaption class='narrow'><em>$2</em></figcaption>",
+			"</figure>"
+		]
+	},
+
+		"portrait-input-left-margin": {
+		"scope": "markdown",
+		"prefix": "portnarrowinput",
+		"body": [
+			"<figure class = 'portrait-wide-caption' >",
+			"\t<img class='narrow' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<figcaption class='narrow' style='margin-left: 180px;'><em>$2</em></figcaption>",
+			"</figure>"
+		]
+	},
+		"portrait-wide-caption": {
+		"scope": "markdown",
+		"prefix": "portwide",
+		"body": [
+			"<figure class = 'portrait' >",
+			"\t<img class='wide' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<figcaption class='wide'><em>$2</em></figcaption>",
 			"</figure>"
 		]
 	},

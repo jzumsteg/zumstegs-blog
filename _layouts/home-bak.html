@@ -21,31 +21,30 @@ layout: default
         {%- endif -%}
       </div>
 
-        {%- if post.thumbnail -%}
+      {%- if post.thumbnail -%}
       <table>
         <tbody>
-          <td style="width: 30%; vertical-align: top; padding-right: 10px; padding-top:8px">
-            <!-- <excerpt-image > -->
-              <a href="{{ post.url | relative_url }}"><img style="height:auto; width:90%;" src="{{  post.thumbnail | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" /></a>
-            <!-- </excerpt-image> -->
-          </td>
-      {%- endif -%}
-      <td style = "vertical-align: top;"">
-            {%- if post.summary -%}
-              <p>{{ post.summary | strip_html }}</p>
-            {%- else -%}
-              <p>{{ post.excerpt | strip_html | truncatewords: 60  }}
-            {%- endif -%}
-              <p></p><a href="{{ post.url | relative_url }}">
-                <em>(Full post)</em> 
-              </a>
-            </p>
-          </td>
+            <td style="width: 30%; vertical-align: top; padding-right: 10px; padding-top:8px">
+              <excerpt-image >
+                <a href="{{ post.url | relative_url }}"><img style="height:200-px; width: 200px;" src="{{  post.thumbnail | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" /></a>
+              </excerpt-image>
+            </td>
+        {%- endif -%}
+        <td style = "vertical-align: top;"">
+              {%- if post.summary -%}
+                <p>{{ post.summary | strip_html }}</p>
+              {%- else -%}
+                <p>{{ post.excerpt | strip_html | truncatewords: 60  }}
+              {%- endif -%}
+                <p></p><a href="{{ post.url | relative_url }}">
+                  <em>(Full post)</em> 
+                </a>
+              </p>
+            </td>
         </tbody>
         {%- if post.thumbnail -%}
       </table>
       {%- endif -%}
-
 
       </p>
     </section>
