@@ -19,9 +19,9 @@ But the result was ugly:
     <figcaption class='wide'></figcaption>
 </figure>
 
-As bad as the visible damage was, the structural damage was worse - the Cathedral had come within a hair of having the structure so damaged that it couldn't be saved. But the following day, the French President Emmanual Macron vowed that Notre-Dame would be rebuilt and would be open for the 2024 Olympics to be held in Paris. When we visited Paris in 2021&nbsp;&mdash;&nbsp;two years after the fire&nbsp;&mdash;&nbsp;the team leading the restoration announced that the structure was safe enough to start working on the actual restoration. 
+As bad as the visible damage was, the structural damage was worse - the Cathedral had come within a hair of having the structure so damaged that it couldn't have been saved. But the following day, the French President Emmanual Macron vowed that Notre-Dame would be rebuilt and would be open for the 2024 Olympics to be held in Paris. When we visited Paris in 2021&nbsp;&mdash;&nbsp;two years after the fire&nbsp;&mdash;&nbsp;the team leading the restoration announced that the structure was safe enough to start working on the actual restoration. 
 
-I think few people believed that Macron's goal would be met, and it wasn't, but not by much. The Olympics were held in Summer 2024, and the Cathedral re-opened in December of the same year. To finish within six months of planned on a project of this size is miraculous. Several thousand workers - artisans, architects, engineers, masons, and a hundred other skills participated in what must have been a project manager's worst nightmare. I did a lot of project management in my career and I am in awe of how successful this project was.
+I think few people believed that Macron's goal would be met, and it wasn't, but not by much. The Olympics were held in Summer 2024, and the Cathedral re-opened in December of the same year. To finish within six months of the planned finish date on a project of this size is miraculous. Several thousand workers - artisans, architects, engineers, masons, and a hundred other skills participated in what must have been a project manager's worst nightmare. I did a lot of project management in my career and I am in awe of how successful this project was.
 
 So of course Laurie and I had to see the restored Notre-Dame-de-Paris. We'd seen it several times before and, honestly, weren't exactly overwhelmed. She was then certainly showing the wear and tear of nine hundred years. But we had followed the restoration pretty closely and we knew it was going to be beautiful again. And it was.
 
@@ -32,7 +32,7 @@ The one problem&nbsp;&mdash;&nbsp;we weren't exactly alone in the Cathedral. No 
     <figcaption class='wide'>Yikes! This is one of the two aisles; the other aisle, the narthex and the apse were equally crowded. In many places it was impossible to set our own pace, to speed up or slow down; we moved as the crowd moved. Even the gift shop had long lines to the cashiers.</figcaption>
 </figure>
 
-But beautiful it was. These pictures can only give you and idea&nbsp;&mdash;&nbsp;I and my little point-and-shoot camera just can't convey the beauty of the Cathedral post-restoration.
+But beautiful it was. These pictures can only give you and idea&nbsp;&mdash;&nbsp;I and my little point-and-shoot camera just can't convey the beauty of the Cathedral, post-restoration.
 <figure class = 'portrait' >
     <img class='wide' src="{{ "2025/paris/notre-dame/DSC06593.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption class='wide'><em></em></figcaption>

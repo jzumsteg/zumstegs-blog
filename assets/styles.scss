@@ -84,6 +84,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   // width: 100%;
+    border: 3px solid #555;
   height:600px;
 }
 
@@ -93,6 +94,7 @@ img.narrow {
   margin-right: auto;
   width: auto !important;
   height:600px;
+
 }
 
 img.portrait {
@@ -225,6 +227,7 @@ image.lscape {
   width: 100%;
   height: auto;
   object-fit: cover;
+  border: 5px solid #555;
 }
 
 image.square {
