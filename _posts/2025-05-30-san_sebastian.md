@@ -21,14 +21,14 @@ We were glad to be in such a nice hotel, because we had to wait out some downpou
 Really, the beach is what made San Sebastian famous. Starting in the late 1800s, royalty and aristocrats from France and Spain came to San Sebastian for the beach. Soon they were building huge houses along the main beach, and San Sebastian became "the" place to go for these folks.
 
 Here's a view from afar of San Sebastian's main beach:
-<figure class = 'landscape' >
-    <img src="{{ "2025/san-sebastian/DSC05957.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+<figure >
+    <img class = 'landscape'  src="{{ "2025/san-sebastian/DSC05957.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption><em></em></figcaption>
 </figure>
 
 And some of the houses along that beach:
 <figure class = 'landscape' >
-    <img src="{{ "2025/san-sebastian/DSC05979.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <img class = 'landscape' src="{{ "2025/san-sebastian/DSC05979.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption><em>A nice little summer beach cottage.</em></figcaption>
 </figure>
 <figure class = 'landscape' >
@@ -53,11 +53,11 @@ San Sebastian does have a lot of beautiful buildings. The ones below were built 
 </figure>
 
 
-<figure class = 'portrait-wide-caption' >
+<figure >
     <img class='narrow' src="{{ "2025/san-sebastian/DSC05967.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption><em>Love this building, HATE what the architects put up next to it. What architect would think it was a good idea to put a nondescript structure next to this beautiful classic one? Architectural malpractice, in my opinion.</em></figcaption>
 </figure>
-<figure class = 'landscape' >
+<figure>
     <img class = 'landscape' src="{{ "2025/san-sebastian/DSC05969.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption><em>One side of Constitutional square. I read that originally, each apartment had one window overlooking the square, which means the apartment was as wide as a window and the shutters on each side of it. Narrow!</em></figcaption>
 </figure>

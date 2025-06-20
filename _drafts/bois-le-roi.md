@@ -7,5 +7,5 @@ math: true
 mermaid: true
 layout: post
 thumbnail: 
-summary: This is our seventh "Summer In France" sojourn here ,six of them in the town of Bois-le-Roi. Here's a look at our digs here (and our car).
+summary: This is our seventh "Summer in France" sojourn here, six of them in the town of Bois-le-Roi. Here's a look at our digs here (and our car).
 ---  

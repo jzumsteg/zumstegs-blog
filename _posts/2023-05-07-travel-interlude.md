@@ -17,7 +17,7 @@ The day's planned activites were:
 
 - Check out and drive to Catania. Our flight was scheduled to leave at 7:30 pm, so we figured we'd just hang out in the most interesting (maybe the only interesting) place in Catania - its main piazza, surrounded by beautiful buildings of the Italian Baroque style.
 
-- Get to the aiport around 5, check in the rental car, sit and wait, return to Paris-Orly airport.
+- Get to the airport around 5, check in the rental car, sit and wait, return to Paris-Orly airport.
 
 - On arrival at Orly, pick up the car and head for Mary & Gilles house in Bois-le-Roi, arriving somewhere around midnight.
      
@@ -46,7 +46,7 @@ What a day, eh? Now you may wonder why all the hassle about leaving late and get
 
 I understand French Air Traffic Control is adopting a new slogan: "Fly with us and your destination may be a surprise." (This wasn't a Transavia problem; they did a great job adapting to the circumstances brought about by those %#*$@ air traffic controllers.)
 
-But we got home, safe and sound. And tired. And cranky. But home.
+But we got home, safe and sound. And tired. And cranky. We had a lovely breakfast of scrambled eggs, cheese and wine at 3.a.m. Then, finally, bed.
 
 
 

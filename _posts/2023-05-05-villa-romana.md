@@ -17,21 +17,21 @@ The site was first excavated by non-archaologists in the late 1800s; then by pro
 
 Our favorite mosaics:
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2023/04/villa-romana/DSC03899.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2023/04/villa-romana/DSC03899.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>A geometric design on the floor of a room.</figcaption>
 </figure>
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2023/04/villa-romana/DSC03904.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "portrait" src="{{"/assets/images/2023/04/villa-romana/DSC03904.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Another geometric design on a guest room. Many of the private rooms of the owner and his guests were decorated with geometric designs.</figcaption>
 </figure>
 <figure class = "landscape">
-	<img src="{{"/assets/images/2023/04/villa-romana/DSC03907.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2023/04/villa-romana/DSC03907.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>A private room of the owner, with non-geometric mosaics. </figcaption>
 </figure>
-<figure class = "portrait">
-	<img src="{{"/assets/images/2023/04/villa-romana/DSC03908.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure "portrait">
+	<img class = "portrait" src="{{"/assets/images/2023/04/villa-romana/DSC03908.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>A detail of the owner's room floor.</figcaption>
 </figure>
 
@@ -39,31 +39,31 @@ Our favorite mosaics:
 This amazing mosaic is almost 60 meters long, over 180 feet. It presents scenes from a hunt and includes many people, animals ranging from birds to elephants, boats and plants and trees. Among the many mosaics of <em>Villa Romana</em> this is the star.
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2023/04/villa-romana/DSC03916.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2023/04/villa-romana/DSC03916.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>The Great Hunt</figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2023/04/villa-romana/DSC03918.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2023/04/villa-romana/DSC03918.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>The Great Hunt</figcaption>
 </figure>
 <figure class = "landscape">
-	<img src="{{"/assets/images/2023/04/villa-romana/DSC03925.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2023/04/villa-romana/DSC03925.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>The Great Hunt. Laurie - an avid gardener - asked for this picture of potted plants.</figcaption>
 </figure>
 <figure class = "landscape">
-	<img src="{{"/assets/images/2023/04/villa-romana/DSC03920.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2023/04/villa-romana/DSC03920.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>And you thought the bikini was invented in the 1960s! This scene of women athletes in competition pre-dates that by 1,600 years.</figcaption>
 </figure>
 
 <em>Villa Romana</em> shows us that after the beautiful temples and art of the Greeks, the Romans continued adding to Sicily's trove of art. For centuries and through multiple foreign dominations, Sicily continued to absorb from those ruling cultures and add to the world's supply of art. That we can see these today is, in my humble opinion, a miracle.
 
 And...a couple of photos of the intrepid Sicilian travelers:
-<figure class = "portrait">
-	<img src="{{"/assets/images/2023/04/germain.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "portrait" src="{{"/assets/images/2023/04/germain.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Mary and Gilles - our traveling companions and great friends.</figcaption>
 </figure>
-<figure class = "portrait">
-	<img src="{{"/assets/images/2023/04/Us-agrigento.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "portrait" src="{{"/assets/images/2023/04/Us-agrigento.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Les Zumsteg.</figcaption>
 </figure>
