@@ -27,34 +27,34 @@ Here's a view from afar of San Sebastian's main beach:
 </figure>
 
 And some of the houses along that beach:
-<figure class = 'landscape' >
+<figure>
     <img class = 'landscape' src="{{ "2025/san-sebastian/DSC05979.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption><em>A nice little summer beach cottage.</em></figcaption>
 </figure>
-<figure class = 'landscape' >
+<figure >
     <img class = 'landscape' src="{{ "2025/san-sebastian/DSC05980.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" /> 
     <figcaption><em>I suppose I could learn to live in this hut.</em></figcaption>
 </figure>
-<figure class = 'landscape' >
+<figure>
     <img class = 'landscape' src="{{ "2025/san-sebastian/DSC05981.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption><em>This one is okay, too.</em></figcaption>
 </figure>
 
 <h2>Beautiful Buildings</h2>
-San Sebastian does have a lot of beautiful buildings. The ones below were built after the 1813 burning of the city by British and Portugese armies.
-<figure class = 'portrait' >
+San Sebastian does have a lot of beautiful buildings. The ones below were built after the 1813 burning of the city by British and Portuguese armies.
+<figure>
     <img class= "portrait" src="{{ "2025/san-sebastian/DSC05965.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="iOS image problem" />
     <figcaption><em></em></figcaption>
 </figure>
 
-<figure class = 'portrait' >
-    <img src="{{ "2025/san-sebastian/DSC05966.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="iOS image problem" />
+<figure >
+    <img class = 'portrait' src="{{ "2025/san-sebastian/DSC05966.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="iOS image problem" />
     <figcaption><em></em></figcaption>
 </figure>
 
 
 <figure >
-    <img class='narrow' src="{{ "2025/san-sebastian/DSC05967.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <img class='portrait' src="{{ "2025/san-sebastian/DSC05967.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption><em>Love this building, HATE what the architects put up next to it. What architect would think it was a good idea to put a nondescript structure next to this beautiful classic one? Architectural malpractice, in my opinion.</em></figcaption>
 </figure>
 <figure>
@@ -64,7 +64,7 @@ San Sebastian does have a lot of beautiful buildings. The ones below were built 
 
 <h2>Eduardo Chillia</h2>
 Eduardo Chillida was an abstract sculptor who was born, raised and worked in San Sebastian for much of his life. This is one third of his sculpture "Comb of the Sea" which is installed on rocks at the western end of San Sebastian's beach&nbsp;&mdash;&nbsp;the other two parts were similar, also attached to rocks rising out of the ocean. The sculpture was pretty dang cool, and it would be spectacular among the crashing waves of the storms that come off the ocean.
-<figure class = 'landscape' >
+<figure>
     <img class = 'landscape' src="{{ "2025/san-sebastian/DSC06000.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption><em>Part of Chillia's sculpture "Comb of the Sea." And for those clamoring for more pictures of us, I included Laurie.</em></figcaption>
 </figure>
