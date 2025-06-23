@@ -8,12 +8,16 @@ mermaid: true
 layout: post
 ---
 We didn't do anything special today; just took a drive in the country. Here are some pictures from our drive.
-
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Canal du Loing-1.jpg" alt="Canal du Loing 1" src="http:/assets/images/2013/05/Canal-du-Loing-1.jpg" width="384" height="576" border="0" />
+<figure>
+    <img class='landscape' src="{{ "2013/05/Canal-du-Loing-1.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'></figcaption>
+</figure>
 
 This is the Canal du Loing, near us. Any questions about why we like to walk along the canals?
-
-<img style="display: block; margin-left: auto; margin-right: auto;" title="Chateau in the fields.jpg" alt="Chateau in the fields" src="http:/assets/images/2013/05/Chateau-in-the-fields.jpg" width="600" height="400" border="0" />
+<figure>
+    <img class='landscape' src="{{ "2013/05/Chateau-in-the-fields.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'></figcaption>
+</figure>
 
 We came across this Renaissance chateau out in the middle of nowhere.
 
