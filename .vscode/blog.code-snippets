@@ -53,7 +53,7 @@
 
 	"portrait-wide-caption-figure": {
 		"scope": "markdown",
-		"prefix": "portfigure-wide",
+		"prefix": "wode-portrait",
 		"body": [
 			"<figure >",
 			"\t<img class='portrait' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
@@ -64,7 +64,7 @@
 
 		"portrait-narrow-caption": {
 		"scope": "markdown",
-		"prefix": "portfigure-narrow",
+		"prefix": "narrow-portrait-caption",
 		"body": [
 			"<figure>",
 			"\t<img class='portrait' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
@@ -85,10 +85,10 @@
 	},
 		"portrait-wide-caption": {
 		"scope": "markdown",
-		"prefix": "portwide",
+		"prefix": "wide-portrait-caption",
 		"body": [
 			"<figure>",
-			"\t<img class='wide' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<img class='portrait' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption class='wide'><em>$2</em></figcaption>",
 			"</figure>"
 		]
@@ -99,7 +99,7 @@
 		"prefix": "pnfigure",
 		"body": [
 			"<figure>",
-			"\t<img class='narrow' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<img class='portrait' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption><em>$2</em></figcaption>",
 			 "</figure>"
 		]
@@ -107,11 +107,11 @@
 
 	"portrait-centered": {
 		"scope": "markdown",
-		"prefix": "portfigure-center",
+		"prefix": "center-portrait-caption",
 		"body": [
 			"<figure>",
-			"\t<img class='narrow' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
-			"\t<figcaption style='text-align: center;' ><em>$2</em></figcaption>",
+			"\t<img class='portrait' src=\"{{ \"2025/chartres/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<figcaption class='center' ><em>$2</em></figcaption>",
 			 "</figure>"
 		]
 	},
