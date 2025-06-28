@@ -11,14 +11,14 @@ We traveled the last few days with our friends Mary and Gilles Germain. I had as
 
 We arrived after a pleasant couple-hour drive from Chartrettes, where Mary and Gilles live and from which we started our ramble. We parked, walked to the chateau, looked at the building below and said, "Hmmmmm, beautiful, but not all that great a chateau."
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/07/DSC03239.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03239.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Our first look at Chateau Tanlay</em></figcaption>
 </figure>
 
 We walked a little farther and, well, sheepishly realized that what we'd seen is the gatehouse to the chateau. This was not to hard to figure out when we saw the actual chateau:
 <figure class = "landscape">
-	<img src="{{"/assets/images/2013/07/DSC03271.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03271.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -27,25 +27,25 @@ Renaissance chateaux are not terribly common in France, as most chateaux were bu
 We could see the interior only if we purchased the \\$12 guided tour. After some hemming and hawing, we thought, "Wait, what are we doing? We drove all this way and we're not going to spend twelve bucks to see the place?" So we got our tour tickets and off we went.
 
 The tour and the chateau were worth every freaking *centime*. The chateau was built between 1550 and 1568; it was acquired by the current owners in 1705. They still live in a wing of the chateau. I was asked to take no pictures during the tour, so I have nothing to show, except this picture I snuck in that shows some detail a wing of the chateau:
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/07/DSC03253.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "portrait" src="{{"/assets/images/2013/07/DSC03253.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 Some interesting history occurred in this chateau, but as it occurred in the 1570s, you might not be interested...
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03267.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03267.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>The "moat." Renaissance chateaux were built when there was no reason for them to be fortresses, so the moat is pure decoration.</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03241.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03241.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>Flowers growing on an old wall.</em></figcaption>
 </figure>
 
 And finally, three happy travelers. Chateau Tanlay, not on any tourist guide itinerary, fascinated us. We agreed that we were all very glad I'd asked to visit it.
 <figure class = "portrait">
-	<img src="{{"/assets/images/2013/07/DSC03274.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "portrait" src="{{"/assets/images/2013/07/DSC03274.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Laurie, Mary and Gilles</em></figcaption>
 </figure>
 

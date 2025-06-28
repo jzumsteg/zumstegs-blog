@@ -3,6 +3,9 @@ layout: page
 title: Cheese Log
 ---
 <h2>2025 Cheese Log</h2>
+Brie de Meaux   
+Brie de Nangis   
+Brie de Melun    
 Bleu d'Auvergne   
 Forme D'Ambert  
 Forme de Montbrison (This bleu and Forme D'Ambert are from the same area, but made on the two sides of one valley - hence the different names.)  
@@ -19,6 +22,7 @@ Neufchatel
 Delice de Bourgogne  
 Saint-Marcellin  
 Saint-Felicien
+Abondance
 
   <h2>2023 Cheese Log</h2>
   Brie de Meaux  
@@ -44,8 +48,6 @@ Saint-Felicien
   Salers  
   Bleu de Auvergne  
   
-
-
   <h2>2021 Cheese Log</h2>  
 Beaufort  
 Brie de Meaux  

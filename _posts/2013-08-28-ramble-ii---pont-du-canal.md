@@ -12,23 +12,23 @@ Both readers of this blog know that Laurie and I are fascinated by the canals of
 Anyway, today we saw an interesting canal sight: a canal bridge that crosses the Loire River: water crossing water. Pont du Canal ("Canal Bridge") was built in the 1880's; it was designed by Gustave Eiffel - he of the...well, you know.
 
 
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/08/MG_0090.jpg" | prepend: site.baseurl  }}"   alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/08/MG_0090.jpg" | prepend: site.baseurl  }}"   alt="Image" />
 		<figcaption><em>It's about four-tenths of a mile long.</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/08/MG_0092.jpg" | prepend: site.baseurl  }}"   alt="Image" />
+	<img class = "landscape" src="{{ "/assets/images/2013/08/MG_0092.jpg" | prepend: site.baseurl  }}"   alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/08/MG_0094.jpg" | prepend: site.baseurl  }}"   alt="Image" />
+	<img class = "landscape" src="{{ "/assets/images/2013/08/MG_0094.jpg" | prepend: site.baseurl  }}"   alt="Image" />
 		<figcaption><em>Still used, but only by pleasure boats.</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{ "/assets/images/2013/08/MG_0099.jpg" | prepend: site.baseurl  }}"   alt="Image" />
+	<img class = "landscape" src="{{ "/assets/images/2013/08/MG_0099.jpg" | prepend: site.baseurl  }}"   alt="Image" />
 		<figcaption><em>Laurie and Mary getting a walk in <em>and</em> solving some world problems.</em></figcaption>
 </figure>
 

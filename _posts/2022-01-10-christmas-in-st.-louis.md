@@ -19,8 +19,8 @@ As for my great-grandfather Wendall Zumsteg, I have no information about his his
 <h2>The Trip</h2>
 I think both regular readers of this blog know that our daughter-in-law, Annie, is hands-down the best daughter-in-law ever. No, really. When we were in St. Louis in October, we planned to bring up whether we should come back for Christmas, knowing that it was only two months away, and knowing that sometimes guests can come a little too often and stay a little too long. We didn't get a chance to bring up the subject; Annie asked us to please, please come at Christmas. We pointed out that we didn't want to leave Derek alone in Portland, so she texted him an invite and by the next day it was all confirmed: all the Z's would be in St. Louis for the holidays. We think it's been at least 25 years since we've all been together, and then, Craig and Annie didn't even know each other and grandkid Z's were a long way off.
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/image-3.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2022/01/image-3.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>The whole fambly together again! At a coffee shop in Kirkwood. It was clear and cold that day.</em></figcaption>
 </figure>
 
@@ -28,98 +28,98 @@ I think both regular readers of this blog know that our daughter-in-law, Annie, 
 
 We got to do some sightseeing. Here's the St. Louis Arch. From a distance, it's interesting, but up-close? It's really impressive.
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/image-4.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2022/01/image-4.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/image-5.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2022/01/image-5.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 We got in lots of walks, as the weather was excellent. Christmas Eve day was sunny and 74°! We walked through an outdoor sculpture park with some interesting installations:
 
-<figure class = "landscape">
-	<img class="lscape" src="{{"/assets/images/2022/01/image-14.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2022/01/image-14.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/image-13.jpg" | prepend: site.baseurl  }}" alt="Image" />
+ <figure>
+	<img class = "landscape" src="{{"/assets/images/2022/01/image-13.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 Have you ever had that feeling that someone was looking at you? At this sculpture park, we encountered that feeling strongly, but never figured out what it was.
 
-<figure class = "landscape" >
-	<img  src="{{"/assets/images/2022/01/eyeball.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure >
+	<img class = "landscape"  src="{{"/assets/images/2022/01/eyeball.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption class="landscape">Eyeball</figcaption>
 </figure>
 
 A most interesting thing in the park was an owl, sitting in a tree by the side of a path.  We've never been this close to an owl in the wild.
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/image-15.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2022/01/image-15.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 We walked through a Farmers' Market in Kirkwood which was selling Christmas trees and saw this one. Yikes!
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/image-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2022/01/image-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure class = "portrait-wide-caption" >
-	<img class="narrow"   src="{{"/assets/images/2022/01/image-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class="portrait"   src="{{"/assets/images/2022/01/image-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Clara (age 11) with her new look.</em></figcaption>
 </figure>
 
 
 <h2>Christmas Morning!</h2>
-<figure class = "landscape" >
+<figure >
 	<img class="landscape" src="{{"/assets/images/2022/01/IMG_0858-rotated.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption class="fullwidth"><em>Henry was not up to snuff, fighting the flu. He rallied when the presents came out...</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait-wide-caption" >
+<figure>
 	<img class="landscape"  src="{{"/assets/images/2022/01/IMG_0864-rotated.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption class="fullwidth"></figcaption>
 </figure>
 
 
 
-<figure class = "portrait-wide-caption" >
-	<img class="narrow"  src="{{"/assets/images/2022/01/image-7.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure >
+	<img class="portrait"  src="{{"/assets/images/2022/01/image-7.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Henry (age 6) wearing one Christmas present (apron and hat - he loves to do stuff in the kitchen) and showing off another.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait-wide-caption" >
-	<img class="narrow"   src="{{"/assets/images/2022/01/image-3-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure >
+	<img class="portrait"   src="{{"/assets/images/2022/01/image-3-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure class = "portrait-wide-caption" >
-	<img class="narrow"   src="{{"/assets/images/2022/01/image-8.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class="portrait"   src="{{"/assets/images/2022/01/image-8.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Annie showing off one of her presents - one of a set of three. That is a picture of blood cells; remember, she's a scientist specializing in infectious diseases. These pictures are really beautiful.</em></figcaption>
 </figure>
 
 
 
-<figure class = "portrait-wide-caption" >
-	<img class="narrow"   src="{{"/assets/images/2022/01/image-16.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class="portrait"   src="{{"/assets/images/2022/01/image-16.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Derek showing off his new look. Wouldn't call it a "man-bun," exactly. Actually, this get-up was for humorous affect. Derek has avoided hair salons since the pandemic started a couple years ago.</em></figcaption>
 </figure>
 
@@ -131,24 +131,24 @@ I wrote some about the dilemma for towns like this when we visited one in France
 
 Henry came down with some type of flu (wasn't COVID-Omicron, evidently, as he tested negative) and for a couple days he definitely was not his high-energy self:
 
-<figure class = "landscape">
+<figure>
 	<img class="landscape" src="{{"/assets/images/2022/01/image-9.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption class="landscape" ><em>Don't see Henry just sitting like this often; usually he's exploring everything is sight. Flu slows everyone down, including Henry.</em></figcaption>
 </figure>
 
 
-<h2><figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/image-12.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<h2><figure>
+	<img class = "landscape" src="{{"/assets/images/2022/01/image-12.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/image-11.jpg" | prepend: site.baseurl  }}" alt="Image" />
+ <figure>
+	<img class = "landscape" src="{{"/assets/images/2022/01/image-11.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
- <figure class = "portrait-wide-caption" >
-	<img class="narrow"   src="{{"/assets/images/2022/01/image-10.jpg" | prepend: site.baseurl  }}" alt="Image" />
+ <figure >
+	<img class="center"   src="{{"/assets/images/2022/01/image-10.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -159,7 +159,7 @@ Then, we had to fly back to Seattle.
 <h2>Return Flight</h2>
 Now things got, um, "interesting." First, Laurie caught Henry's flu. Tuesday night (we left Wednesday), she started to hack and cough, had some head congestion and a bit of a sore throat. Departure day she felt worse and continued to go downhill as the day progressed.
 
-On the other side of the country - Seattle, that is - a huge snow storm had snarled air travel big-time for the last four or five days. The day before, the St. Louis - Seattle flight was cancelled and another big snow storm was forecast to hit Seattle late Wednesday night, a couple hours after our arrival. So we were a little worried about getting home. Fortunately, the flights operated on our departure day and we arrived at SeaTac at exactly 10 p.m., one hour late. "No problem," thought I. "We'll get our bags, catch an Uber or Lyft and be home by 11:30." Wrong.
+On the other side of the country&nbsp;&mdash;&nbspSeattle, that is&nbsp;&mdash;&nbspa huge snow storm had snarled air travel big-time for the last four or five days. The day before, the St. Louis-Seattle flight was cancelled and another big snow storm was forecast to hit Seattle late Wednesday night, a couple hours after our arrival. So we were a little worried about getting home. Fortunately, the flights operated on our departure day and we arrived at SeaTac at exactly 10 p.m., one hour late. "No problem," thought I. "We'll get our bags, catch an Uber or Lyft and be home by 11:30." Wrong.
 
 Unfortunately, that "late Wednesday night" snowstorm had arrived three hours *before* our arrival, and SeaTac was a mess. We waited on the plane for an hour before it got to a gate, then waited 50 minutes to get our bags - in a baggage claim area with *thousands* of people. During this time I was checking, with growing dismay, the Uber and Lyft apps. A ride from the airport to home usually is about \\$32-\\$34, plus tip. Lyft was now showing that ride would cost \\$155, but not to worry about the cost, because they had zero drivers available. Uber was saying \\$85, and they had "few drivers" so couldn't guarantee that we could get a ride. Gulp.
 
@@ -173,8 +173,8 @@ The one wise decision we'd made before we left ten days earlier was to not turn 
 
 The next morning a neighbor texted us to tell us that she had seen one of our suitcases in the driveway and took it up to the porch. We didn't even know it was missing! That gives you an idea of how were were feeling when we got home!
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2022/01/image-1-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2022/01/image-1-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Our backyard the day after our airport adventure.</em></figcaption>
 </figure>
 
