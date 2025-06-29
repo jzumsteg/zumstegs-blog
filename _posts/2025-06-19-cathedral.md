@@ -33,12 +33,12 @@ The one problem&nbsp;&mdash;&nbsp;we weren't exactly alone in the Cathedral. No 
 </figure>
 
 But beautiful it was. These pictures can only give you and idea&nbsp;&mdash;&nbsp;I and my little point-and-shoot camera just can't convey the beauty of the Cathedral, post-restoration.
-<figure class = 'portrait' >
-    <img class='wide' src="{{ "2025/paris/notre-dame/DSC06593.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+<figure >
+    <img class = 'portrait' src="{{ "2025/paris/notre-dame/DSC06593.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption class='wide'><em></em></figcaption>
 </figure>
 <figure class = 'portrait' >
-    <img class='wide' src="{{ "2025/paris/notre-dame/DSC06571.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <img class = 'portrait' src="{{ "2025/paris/notre-dame/DSC06571.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption class='wide'><em></em></figcaption>
 </figure>
 
