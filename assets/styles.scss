@@ -449,3 +449,20 @@ th, td {
       transform: scale(1.05);
     }
   }
+
+ /* CSS */
+ /* from chatGPT shown below */
+
+/* Default (desktop/monitor) */
+// .responsive-img {
+//   width: 600px;
+//   height: auto;
+// }
+
+// /* Handheld devices (phones/tablets) */
+// @media screen and (max-width: 768px) {
+//   .responsive-img {
+//     width: 100%;
+//     height: auto;
+//   }
+// }
