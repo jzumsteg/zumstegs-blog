@@ -106,9 +106,10 @@ img.portrait {
   // height: auto;
 }
 /* For screens smaller than 768px (typical tablets/phones) */
+/* this applies img.portrait only to small screens - smartphones */
 @media screen and (max-width: 768px) {
   img.portrait {
-    width: 95%;  /* full width of the container */
+    width: 95%;  /* 95% width of the container */
     height: auto; /* maintain aspect ratio */
   }
 }

@@ -1,18 +1,3 @@
----
-title: Test template
-author: JZ
-date: Sun 31 Dec, 2025
-category: 
-math: true
-mermaid: true
-layout: post
-thumbnail: food/france/IMG_5575.jpg
-summary: This is a test template. If you see it in the blog, I screwed up!
----  
-
-
-
-
 <figure class = 'landscape' >
   <img src="{{ "sancerre/DSC04933-1.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
   <figcaption><em></em></figcaption>
