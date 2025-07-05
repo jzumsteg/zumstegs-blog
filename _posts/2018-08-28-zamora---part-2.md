@@ -14,18 +14,23 @@ layout: post
 
 <p>For centuries Spanish towns and cities have held onto the tradition of the paseo - the evening walk. Though it is disappearing in places, especially the cities, many places hold onto it, and Zamora falls into this category. Here's a picture, taken at about 8:30 in the evening, of the main street through the old part of the city.</p>
 
-<figure class = "landscape" class="wp-block-image"><img class="wp-image-5442" src="http:/assets/images/2018/08/DSC04527.jpg" alt="" />
-<figcaption>The paseo in Zamora.</figcaption>
+<figure>
+	<img class='landscape' src="{{ "2018/08/DSC04527.jpg.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+	<figcaption class='wide'>The paseo in Zamora</figcaption>
 </figure>
+
 
 <p>The Duero River runs through Zamora and, of course, has an old bridge across it. This one has an inexplicable name: "The Stone Bridge." Ok, maybe not inexplicable.</p>
 
+<figure>
+	<img class='landscape' src="{{ "2018/08/DSC04562.jpg.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+	<figcaption class='wide'>Looking across the Duero river.</figcaption>
+</figure>
 
-<figure class = "landscape" class="wp-block-image is-resized"><img class="wp-image-5459" src="http:/assets/images/2018/08/DSC04562.jpg" alt="" width="561" height="421" /></figure>
-
-<p>The <em>Casco Antiguo</em> from across the Duero River.</p>
-
-<figure class = "landscape" class="wp-block-image is-resized"><img class="wp-image-5460" src="http:/assets/images/2018/08/DSC04565.jpg" alt="" width="580" height="131" /></figure>
+<figure>
+	<img class='landscape' src="{{ "2018/08/DSC04565.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="2018/08/DSC04565.jpg" />
+	<figcaption class='wide'></figcaption>
+</figure>
 
 <h2>Romanesque Churches</h2>
 
@@ -35,18 +40,18 @@ layout: post
 
 <p>But if Gothic buildings, which started to appear in France in the 12th century, are soaring and graceful, Romanesque buildings have their own beauty. They are simple and solid and powerful. I think there's no place better than Zamora to get your fill of Romanesque.</p>
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2018/08/DSC04707.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2018/08/DSC04707.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Thick walls, small windows, kind of fortress-like.</em></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/08/DSC04738.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class="landscape" src="{{"/assets/images/2018/08/DSC04738.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Rounded arch gives this away: Romanesque</em></figcaption>
 </figure>
 
-<figure class = "portrait" class="wp-block-image is-resized"></figure>
+<!-- <figure class = "portrait" class="wp-block-image is-resized"></figure> -->
 <table>
 <tbody>
 <tr>

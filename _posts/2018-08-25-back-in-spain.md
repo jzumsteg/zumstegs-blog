@@ -20,15 +20,15 @@ It was fabulous. Laurie and I know enough about flamenco to know good from medio
 
 
 
-<figure class = "landscape" >
-	<img src="{{"/assets/images/2018/08/DSC04550.jpg"  | prepend: site.baseurl  }}" alt="Image" />
+<figure >
+	<img class = "landscape" src="{{"/assets/images/2018/08/DSC04550.jpg"  | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>The castillo of Zamora. We were watching this beautiful sunset when we heard flamenco dancers warming up inside the castillo.</figcaption>
 </figure>
 
 
 
 <figure class = "landscape" >
-<img src="{{"/assets/images/2018/08/DSC04552.jpg" | prepend: site.baseurl  }}" alt="Image" /><figcaption>Sure enough, there was flamenco! Really good flamenco at that.</figcaption></figure>
+<img class = "landscape" src="{{"/assets/images/2018/08/DSC04552.jpg" | prepend: site.baseurl  }}" alt="Image" /><figcaption>Sure enough, there was flamenco! Really good flamenco at that.</figcaption></figure>
 
 
 <p>Our hotel here is one of Paradores chain, in a converted convent from the 1700s. It's nice. Very nice. As in, 4-star nice. After where we stayed in Saint-Jean-de-Luz, it's a freaking palace.</p>

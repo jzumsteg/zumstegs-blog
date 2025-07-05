@@ -14,8 +14,8 @@ Möise de Comando, born in 1860 in Istanbul into a wealthy Jewish banking family
 Laurie and I love to visit places that have rooms restored or maintained in period style (any period, really). Musée Nissim de Comando is the apex of this type of museum; built in the 1900s and maintained since, it is essentially a perfect representation of the house of a wealthy family from the late 1700s. This was our second visit and we appreciated it more this time. I think last time we were gobsmacked by the place; this time we were able to absorb it better.
 
 Here's the house, from its courtyard. I could guess the house has about 12-15,000 sq ft, not including servants' quarters. The house had between 10 and 15 full-time servants at any given time.
-<h2><figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05701.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<h2><figure>
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05701.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Here's the house, from its courtyard. I could guess the house has about 12-15,00
 Without further ado, some pictures of the rooms of this mansion.
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05655.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05655.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -32,12 +32,12 @@ Without further ado, some pictures of the rooms of this mansion.
 
 The dining room:
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05688.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05688.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05683.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05683.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -46,21 +46,21 @@ The dining room:
 The Sitting Room:
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05633-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05633-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/07/DSC05634-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "portrait" src="{{"/assets/images/2018/07/DSC05634-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 My favorite room: Moïse's study/workroom. It even had a day-bed, for those days when a nap would be nice...(every day, in my opinion):
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05642-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05642-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -69,20 +69,21 @@ My favorite room: Moïse's study/workroom. It even had a day-bed, for those days
 One view of the Library. The windows look out on a beautiful garden and, beyond the garden, Parc Monceau.
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05638.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05638.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Comando had purchased these walls before the house was designed and wanted to use them in the library. Hence, the height and design of the floor was dictated by the walls he already owned.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05645.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05645.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 A room in which guests were received:
-<figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05656.jpg" | prepend: site.baseurl  }}" alt="Image" />
+
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05656.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -90,7 +91,7 @@ A room in which guests were received:
 
 The main Living Room:
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05658.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05658.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -99,7 +100,7 @@ The main Living Room:
 The living room, above, has more furniture and objects d'art in it than when de Comando lived here, to show his collection better. Most of the other rooms are as when the family was here.
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05627.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05627.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Laurie got some ideas for a bathroom remodel.</em></figcaption>
 </figure>
 
@@ -108,52 +109,52 @@ The living room, above, has more furniture and objects d'art in it than when de 
 As if the rooms and the furniture weren't enough, here are some pictures of the details in the house which were, of course, perfect everywhere.
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05691.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05691.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05629.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05629.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05630.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05630.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05640.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05640.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2018/07/DSC05648.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "portrait" src="{{"/assets/images/2018/07/DSC05648.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Doesn't everybody have an elevator in their house?</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2018/07/DSC05649.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "portrait" src="{{"/assets/images/2018/07/DSC05649.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
  <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05650.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05650.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2018/07/DSC05628.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "portrait" src="{{"/assets/images/2018/07/DSC05628.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -161,19 +162,19 @@ As if the rooms and the furniture weren't enough, here are some pictures of the 
 
 Someone had to feed those folks... 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05693-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05693-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05694-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05694-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Kitchen remodeling ideas for Laurie.</em></figcaption>
 </figure>
 
 
 
-Now, it would be nice to say that Moïse de Comando lived happily ever-after in this house of his dreams, but no. In his early 40s, he married a much younger woman and had two children. She then left him for an Italian count. Moïse was completely devoted to his two children and when his son was killed in World War I, he pretty much withdrew from the world. His brother, who had run the family bank, died, and Moïse, having no desire or need to run the bank, closed it down. He continued his collecting and participated in several organizations devoted to collecting and books. He died in 1935, which may have been for the best, because in 1941 his daughter, son-in-law and two grandchildren were deported to Auchwitz, where they died. Today, the de Comando family line no longer exists.
+Now, it would be nice to say that Moïse de Comando lived happily ever-after in this house of his dreams, but no. In his early 40s, he married a much younger woman and had two children. She then left him for an Italian count (or the head of her stables; the story differs depending on who's telling it). Moïse was completely devoted to his two children and when his son was killed in World War I, he pretty much withdrew from the world. His brother, who had run the family bank, died, and Moïse, having no desire or need to run the bank, closed it down. He continued his collecting and participated in several organizations devoted to collecting and books. He died in 1935, which may have been for the best, because in 1941 his daughter, son-in-law and two grandchildren were deported to Auchwitz, where they died. Today, the de Comando family line no longer exists.
 
 But this beautiful house stands as a monument to Moïse de Comando's passion (and his financial ability to indulge that passion). We think this is the best of the "small, specialized" museums in Paris, we will certainly visit it again, and we honor Moïse de Comando for what he collected and built.

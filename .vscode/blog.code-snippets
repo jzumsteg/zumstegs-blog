@@ -45,7 +45,7 @@
 		"prefix": "lscapefigure",
 		"body": [
 			"<figure>",
-			"\t<img class='landscape' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<img class='landscape' src=\"{{ \"2025/rural/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption class='wide'>$2</figcaption>",
 			 "</figure>"
 		]
@@ -53,10 +53,10 @@
 
 	"portrait-wide-caption-figure": {
 		"scope": "markdown",
-		"prefix": "wode-portrait",
+		"prefix": "wide-portrait",
 		"body": [
 			"<figure >",
-			"\t<img class='portrait' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<img class='portrait' src=\"{{ \"2025/rural/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption class='wide'><em>$2</em></figcaption>",
 			"</figure>"
 		]
@@ -67,7 +67,7 @@
 		"prefix": "narrow-portrait-caption",
 		"body": [
 			"<figure>",
-			"\t<img class='portrait' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<img class='portrait' src=\"{{ \"2025/rural/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption class='narrow'><em>$2</em></figcaption>",
 			"</figure>"
 		]
@@ -99,7 +99,7 @@
 		"prefix": "pnfigure",
 		"body": [
 			"<figure>",
-			"\t<img class='portrait' src=\"{{ \"$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<img class='portrait' src=\"{{ \"2025/rural/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption><em>$2</em></figcaption>",
 			 "</figure>"
 		]
@@ -110,7 +110,7 @@
 		"prefix": "center-portrait-caption",
 		"body": [
 			"<figure>",
-			"\t<img class='portrait' src=\"{{ \"2025/chartres/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<img class='portrait' src=\"{{ \"2025/rural/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption class='center' ><em>$2</em></figcaption>",
 			 "</figure>"
 		]

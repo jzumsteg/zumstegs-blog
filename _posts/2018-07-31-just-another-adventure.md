@@ -7,7 +7,6 @@ math: true
 mermaid: true
 layout: post
 ---
-We had an...um..."interesting" day of travel yesterday. More than once we fell back on the "when something goes wrong" philosophy of our friends Marv and Becky who, when they encounter something crazy, say, "Someday we'll look back on this and laugh, so we might as well laugh about it now." Wise words...
 <h2>Driving to La Rochelle</h2>
 Off we went, only a few minutes later than planned. Now, we knew we would be traveling on toll roads and we knew what the tolls would be at each of the three toll booths. We also knew that our fancy-schmancy, chip-equipped Alaska Airlines Visa card would not work at the toll booths, so we had cash.  (I should point out that it is difficult for us newbies as we approach the toll-booth lanes to tell which lane takes cash, and there might be a lane with a person to take our non-automatic card, but you can't tell which lane, if any, that person is in until you're committed to another lane.) First toll booth, no problem. Second toll booth, I inadvertently entered a lane that took credit cards only. *Merde!* I knew this was going to be a problem. But I asked Laurie to give me our Boeing Employees Credit Union fancy-schmancy, chip-equipped Visa card and...it worked! This is a big deal to have a working card for the tolls and we were quite happy about it.
 
@@ -31,17 +30,17 @@ At 10 o'clock we were sitting on the balcony outside our room, enjoying a beauti
 
 So in this beautiful room, where we always leave the shades and windows up and open all night so we have fresh air and the sound of the waves, we have a shade with about two feet of opening.
 
-I call the front desk, start to explain the situation and get the response, "I don't speak English." So I go down there, with Google Translate in hand. He comes up to the room, fiddles around and saying, "*Ne marche pas*," leaves. Yes, that's right, it wasn't marching at all. *C'est en panne*: broken. So we prop the shades up as much as we could with a chair, open the door to the room to get some ventilation (the hotel might be a 3-star, but air-conditioning? *Pas de climatesée*). A night of miserable sleep followed.
+I call the front desk, start to explain the situation and get the response, "I don't speak English," and a hang-up. So I go down there, with Google Translate in hand. He comes up to the room, fiddles around and saying, "*Ne marche pas*," leaves. Yes, that's right, it wasn't marching at all. *C'est en panne*: broken. So we prop the shades up as much as we could with a chair, open the door to the room to get some ventilation (the hotel might be a 3-star, but air-conditioning? *Pas de climatesée*). A night of miserable sleep followed.
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2018/07/DSC05708.jpg" | prepend: site.baseurl  }}" alt="Image" />
-	<figcaption><em>Our sophisticated "fix" to allow some air into our room.</em></figcaption>
+<figure>
+	<img class = "portrait" src="{{"/assets/images/2018/07/DSC05708.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<figcaption class="center"><em>Our sophisticated "fix" to allow some air into our room.</em></figcaption>
 </figure>
 
 
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2018/07/DSC05710.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05710.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Laurie "stepping" out onto the balcony to enjoy the view.</em></figcaption>
 </figure>
 
