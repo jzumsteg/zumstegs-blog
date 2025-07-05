@@ -3,8 +3,8 @@ layout: page
 title: Cheese Log
 ---
 <h2>2025 Cheese Log</h2>
-Bouygette (a chevre - goat cheese. I don't buy a lot of chevre because ot's often bland, but a friend served bouygette at dinner and I liked it immediately)
-Livarot (a smelly cheese - gotta lvoe it.)
+Bouygette (a chevre - goat cheese. I don't buy a lot of chevre because it's often bland, but a friend served bouygette at dinner and we liked it immediately).  
+Livarot (a smelly cheese - gotta love it.)  
 Brie de Meaux   
 Brie de Nangis   
 Brie de Melun    
