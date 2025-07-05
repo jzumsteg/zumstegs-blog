@@ -30,7 +30,7 @@ Right off the dock: the Fromonville bridge. Originally it was a stone bridge (bu
 
 
 Can you see why we liked walking the canal in 2013? Calm, peaceful and beautiful. We walked probably 15 miles of this canal, a few miles at a time, repeating many sections.
-<figure class = "landscape">
+<figure>
 	<img class = "landscape" src="{{"/assets/images/2018/07/DSC05452.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>

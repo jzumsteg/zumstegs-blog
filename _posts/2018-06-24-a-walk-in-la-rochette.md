@@ -11,18 +11,18 @@ As we have no rambles planned for the next two weeks, we'll be doing lots of wal
 
 Our route yesterday took us along the river in a neighboring town, La Rochette. There we saw a number of *affolantes*, houses that were built in the late 1800s and early 1900s, when this area - particularly on the Seine - became a preferred location for wealthy Parisians who could afford weekend/summer homes here. I've written about the affolantes before<a href="http://zumsteg.us/?p=3208">;</a> here are pictures of some we saw yesterday.
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2018/06/DSC00546.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2018/06/DSC00546.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/06/DSC00547.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/06/DSC00547.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/06/DSC00549.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/06/DSC00549.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Love the sun-room!</em></figcaption>
 </figure>
 
@@ -46,17 +46,17 @@ Our route yesterday took us along the river in a neighboring town, La Rochette. 
 </table>
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/06/DSC00548.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/06/DSC00548.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2018/06/DSC00542.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "portrait src="{{"/assets/images/2018/06/DSC00542.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Now, here is a fencepost!</em></figcaption>
 </figure>
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/06/DSC00551.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/06/DSC00551.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>The Seine view from some of these houses. I could get used to it...</em></figcaption>
 </figure>
 

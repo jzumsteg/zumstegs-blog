@@ -17,8 +17,8 @@ We always walk along the Quai du Loing, which, amazingly enough, runs along the 
 <tr>
 <td colspan="2">
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2018/06/DSC00562.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2018/06/DSC00562.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>A house on the Quai du Loing</em></figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ We always walk along the Quai du Loing, which, amazingly enough, runs along the 
 <td colspan="2">
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/06/DSC00558.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/06/DSC00558.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Houses along Quai du Loing</em></figcaption>
 </figure>
 
@@ -39,66 +39,34 @@ We always walk along the Quai du Loing, which, amazingly enough, runs along the 
 These houses have wonderful views onto the Loing River and are on quiet streets. They have one drawback: two of the last three years the Loing has flooded and the bottom floors of these houses were under water. That might make me think about living in one...
 
 Some péniches, old and new, in Saint-Mammès:
-<table>
-<tbody>
-<tr>
-<td colspan="2">
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/06/DSC00555.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/06/DSC00555.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>A péniche at the Quai du Seine in Saint-Mammès.</em></figcaption>
 </figure>
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/06/DSC00569.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/06/DSC00569.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>We have seen these (huge) modern barges in Saint-Mammès before, flying hundreds of colorful pennants. We don't know the occasion, but they are beautiful.</em></figcaption>
 </figure>
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/06/DSC00566.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/06/DSC00566.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>This new pedestrian bridge connects Saint-Mammès with the other bank of the Loing RIver.</em></figcaption>
 </figure>
 
-</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="2">
-
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/06/DSC00560.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/06/DSC00560.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Looking down the Loing River from the new bridge.</em></figcaption>
 </figure>
 
-</td>
-</tr>
-</tbody>
-</table>
 Another thing we love about Saint-Mammès is that our favorite Impressionist painter, Alfred Sisley, lived in a neighboring town - Moret-sur-Loing - and painted many pictures of Saint-Mammès. Like Moret-sur-Loing, Saint-Mammès has a number of places where Sisley painted and the city has erected a display showing the picture. Today, you can look at the Sisley picture on the display, then look up and see the exact scene. Not much has changed in the 130 years. I wrote about this a couple years ago: <a href="http://zumsteg.us/?p=258">Some stuff about Saint-Mammès from 2013</a>
 
 And the surprise: as we walked Saint-Mammès, we noticed a small restaurant that was not there two years ago. We walked past it, greeted the woman cleaning it in preparation for lunch and looked at the menu for lunch: two courses (entreé and plat - first and second courses - or plat and dessert - second and third courses: 12€, about \\$14). After building an appetite with our walk, we decided to give it a try. It was excellent: the food was way above-average for a small-town, small restaurant, the woman serving was friendly (and pretended to understand my French; always a bonus), the carafe d'eau (the pitcher of tap water one can always get in a restaurant) was ice-cold - a rarity - and the whole meal, including two beers and two coffees, was about \\$40. A find!
-<table>
-<tbody>
-<tr>
-<td colspan="2">
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2018/06/IMG_1904.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2018/06/IMG_1904.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>The pleasant surprise...</em></figcaption>
 </figure>
 
-</td>
-</tr>
-</tbody>
-</table>
 That's Saint-Mammès, one of our favorite day walks. This won't be the last time we're here.
