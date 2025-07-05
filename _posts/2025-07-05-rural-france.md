@@ -1,7 +1,7 @@
 ---
 title: Rural France  
 author: JZ  
-date: Fri, 4 Jul, 2025
+date: Sat, 5 Jul, 2025
 category: 
 math: true
 mermaid: true
