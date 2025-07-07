@@ -29,7 +29,7 @@ Now, you may be laughing (or crying) but I'll tell you that the moules (mussels)
 	<figcaption><em>Moules - Mmmmmmmm.</em></figcaption>
 </figure>
 
-
+(Update from 2025: We haven't gone to La Rochelle the last two trips, and we've missed it. Every day we spent in La Rochelle from 2013 to 2021, we ate at La P'tit Bleu either for lunch of dinner. It's still our favorite place to eat in La Rochelle.)
 
 Here's a picture of the view. The tower in the background was built in the 1400s.
 
