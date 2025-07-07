@@ -15,8 +15,8 @@ After our visit to Tanlay, we drove the short distance to the small village of L
 
 
 Fortunately, we (fairly) quickly saw the gite at number 5, rue de la Gare:
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03278.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/07/DSC03278.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -28,29 +28,29 @@ That evening we went to a restaurant that Mary and Gilles had been to some time 
 The next day we made the short drive to the Chateau Ancy-le-Franc. This is another Renaissance chateau and, like Tanlay, was designed by an Italian architect, so it is pure Renaissance, and purely beautiful. A big difference between the Chateau Tanlay and Chateau Ancy-le-Franc is that while Tanlay is still owned privately and so limited in how much money is available for maintenance and restoration, Ancy was purchased by a foundation some years ago, which has poured a lot of money into restoring it. 
 
 Chateau Ancy-le-Franc is just simply beautiful. It adheres to Renaissance architectural rules: symmetrical throughout, simple ornamentation, everything tied together. 
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03304.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/07/DSC03304.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2013/07/DSC03294.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{"/assets/images/2013/07/DSC03294.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03292.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/07/DSC03292.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03291.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/07/DSC03291.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -62,8 +62,8 @@ We took an audio guide tour of Chateau Ancy, which was informative. The chateau'
 
 And when we left, there was Gilles, who had gone a bit ahead of us, waiting patiently.
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03323.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/07/DSC03323.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

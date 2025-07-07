@@ -17,24 +17,24 @@ Schneider ceased operations in this plant in the 1990s. The buildings now have s
 
 First, the Schneider buildings:
 
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/Factory-31.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/06/Factory-31.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 
-</figure><figure class = "portrait">
-	<img src="{{ "/assets/images/2013/06/Factory-6.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/06/Factory-6.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 
-</figure><figure class = "portrait">
-	<img src="{{ "/assets/images/2013/06/Factory-7.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/06/Factory-7.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
-</figure><figure class = "landscape">
+<figure>
 
 	<img src="{{ "/assets/images/2013/06/Factory-51.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/housing-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2013/06/housing-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>One of the apartment buildings Schneider built for its employees.</em></figcaption>
 </figure>
 
@@ -43,60 +43,60 @@ First, the Schneider buildings:
 As we walked around the area, once jammed with other electric-industry-related companies, Laurie said, "This is a ghost town," and indeed it is. Many warehouses and factories remain, but few are occupied.
 
 
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/Ghost-town-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/06/Ghost-town-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
-</figure><figure class = "portrait">
-	<img src="{{ "/assets/images/2013/06/Graphitti.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/06/Graphitti.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
-</figure><figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/Ghost-town-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/06/Ghost-town-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
-</figure><figure class = "portrait">
-	<img src="{{ "/assets/images/2013/06/Ghost-town-4.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/06/Ghost-town-4.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
-</figure><figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/IMG_4856.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/06/IMG_4856.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 
 One interesting thing: the companies that have occupied these hundred-year old buildings are almost all high-tech companies, serving the electronic sector that was birthed by the electric industry. So what Schneider started in 1903 continues in a way.
 
 As we walked around the town we came across a sports complex, now quite rundown, as the city and country just doesn't have the money to keep up a facility built when the town boomed. There are still tennis courts (in good shape and well-used, as tennis is popular here), a rugby field, soccer pitch, and play areas for kids. In the middle of this complex, for my bike-riding readers (that's you, yakibiker) a velodrome, not in good shape at all:  
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/velo-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/06/velo-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/velo-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/06/velo-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 
 Champagne-sur-Seine has some beauty and style, too:
 
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/barge-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/06/barge-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/06/pink.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/06/pink.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/06/pink-shutter.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/06/pink-shutter.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/06/roses-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/06/roses-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/06/roses-3.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/06/roses-3.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/06/santa.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/06/santa.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 

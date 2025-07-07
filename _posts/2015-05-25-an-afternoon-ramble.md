@@ -15,15 +15,15 @@ Anyway, when he died, his daughter and son-in-law, who lived in the small town o
 
  
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/05/DSC04802.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2015/05/DSC04802.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Herakles, Antoine Bourdelle's best known sculpture.</em></figcaption>
 </figure>
 
 
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/05/DSC04797.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2015/05/DSC04797.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>An amazing rose bush in the garden.</em></figcaption>
 </figure>
 
@@ -31,8 +31,7 @@ Anyway, when he died, his daughter and son-in-law, who lived in the small town o
 
 Laurie liked this sculpture of the famous dancer Isador Duncan best. It's small - about 3 feet high -  but we still couldn't fit it into the car.
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2015/05/DSC04814.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>	<img class = "portrait" src="{{"/assets/images/2015/05/DSC04814.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Isadora Duncan</em></figcaption>
 </figure>
 

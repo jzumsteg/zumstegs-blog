@@ -15,8 +15,8 @@ We've had lots of folks who wanted to come and stay with us, and it has pained u
 
 
 It even has a couple extra wings, in case more people arrive, and a nice area for swimming on those hot days:
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/08/DSC03763.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/08/DSC03763.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

@@ -22,32 +22,32 @@ Regardless, the Chateau de Vincennes stands today, much as it was when Charles V
 
 
 The main gate was called the Town Gate, because it opened into the town of Vincennes, not that anyone from the town of Vincennes was ever allowed to enter the fortress. This is the current view of the Town Gate from the town:
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03189.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/07/DSC03189.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Town Gate, from the town</em></figcaption>
 </figure>
 
 
 
 Here's what the chateau area looks like from the top of the Keep's walls. This shows maybe 20% of the area enclosed by the Chateau de Vincennes.
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03178.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/07/DSC03178.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>View from the walls of the Keep</em></figcaption>
 </figure>
 
 
 
 These places, while beautiful today, were cold and dark and essentially nasty, particularly during winters. Here is the fireplace in Charles V's main chamber; that should have kept him warm:
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03180.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/07/DSC03180.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Now here's a fireplace</em></figcaption>
 </figure>
 
 
 
 Finally, Charles V build a church in the chateau, called St. Chapelle, same as the St. Chapelle on Ile de la Cité in Paris. Like the St. Chapelle of Paris, it was meant to hold a holy relic, in this case a thorn from the Christ's actual Crown of Thorns.
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03186.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/07/DSC03186.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>St. Chapelle</em></figcaption>
 </figure>
 

@@ -11,8 +11,7 @@ Laurie tells me that a number of blog readers know our friends Mary and Gilles G
 
 The family gathered in stages. First, grandson Christian and son-in-law Fabien arrived. After a couple days Fabien left for home in Singapore and Mary &amp; Gilles took over full-time grandparent duties. Here's Gilles reading with Christian (3-1/2 years old).
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2015/06/DSC05597-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>	<img class = "portrait" src="{{"/assets/images/2015/06/DSC05597-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -22,22 +21,21 @@ The family gathered in stages. First, grandson Christian and son-in-law Fabien a
 
 Christian's mother, Anne, arrived a few days later, then William and Mathilde brought the newest grandchild -  Claire, nine months. We visited Mathilde and Claire one morning when all the Germains were doing family business:
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/06/DSC06035-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2015/06/DSC06035-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 At the end of the week, Eric came down from his Paris digs, and we had a family dinner (family plus us, that is).
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/06/DSC06298-6.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2015/06/DSC06298-6.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
-*Les Germain* sat (and stood) for a family portrait.
-
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/06/DSC06168-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2015/06/DSC06168-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -47,13 +45,12 @@ I think Eric was about two - three when the Germains lived in Boulevard Lane. It
 
 And a couple of pictures of the next generation. 
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/06/DSC06210-5.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2015/06/DSC06210-5.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Christian and Claire getting to know each other:</figcaption>
 </figure>
 
- <figure class = "portrait">
-	<img src="{{"/assets/images/2015/06/DSC06202-4.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>	<img class = "portrait" src="{{"/assets/images/2015/06/DSC06202-4.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -61,8 +58,8 @@ And a couple of pictures of the next generation.
 
 
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/06/DSC06030-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2015/06/DSC06030-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Laurie and Claire getting to know each other.</figcaption>
 </figure>
 
@@ -70,15 +67,14 @@ And a couple of pictures of the next generation.
 
 
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2015/06/DSC08683-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>	<img class = "portrait" src="{{"/assets/images/2015/06/DSC08683-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Claire checking things out.</figcaption>
 </figure>
 
 
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/06/DSC06184-3.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2015/06/DSC06184-3.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Anything better than baby's feet?</figcaption>
 </figure>
 

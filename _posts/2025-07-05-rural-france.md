@@ -11,7 +11,7 @@ summary: "I suspect about 99% of visitors to France spend zero time outside Pari
 ---  
 Most folks who visit France see the big cities: Paris, Lyon, Nice and so forth. Few get the opportunity to explore France's rural side, and that's a shame. Rural France is often beautiful and a drive through it reveals that beauty, as well as surprises that offer insights into a history and culture you won't see in the cities. Laurie and I like to drive in the country to take in the beauty and culture there.
 
-These pictures are from a trip we made to an area near Bourges, in the Loire River Valley, where friends have a country home and a day trip we took from our home here in Bois-le-Roi. 
+These pictures are from a trip we made to an area near Bourges, in the Loire River Valley, where friends have a country home, and a day trip we took from our home here in Bois-le-Roi. 
 
 <figure>
     <img class='landscape' src="{{ "2025/rural/DSC06736.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
@@ -63,9 +63,9 @@ On a drive like this, Laurie and I will try to get off the main roads and find b
 </figure>
 It turns out this is the Preuilly Abbaye, home of an order of Cistercians. The Order and the Abbaye were founded in 1118. The Abbaye was home to monks&nbsp;&mdash;&nbsp;who took the religious vows of the order&nbsp;&mdash;&nbsp;and lay people, who might have lived in the Abbaye or nearby, and who worked the fields owned by the Abbaye. The number of monks reached a peak of 25 and the Abbaye thrived for almost seven centuries.
 
-The French Revolution banned the Cistercian Order (and all other religious orders in France) and the property of the Abbaye was auctioned off in pieces. Then a secular savior arose: Dr. Henri-Marie Husson, a physician at the Hotel-Dieu in Paris, started to purchase the land and buildings that had been auctioned. By 1842 he owned all the property and buildings of the Abbaye. He restored what could be restored and tried to stop the ravages of time on others. Today the property is still owned by the Husson family.
+The French Revolution banned the Cistercian Order (and all other religious orders in France) and the property of the Abbaye was auctioned off in pieces. Then a secular savior appeared: Dr. Henri-Marie Husson, a physician at the Hotel-Dieu in Paris, started to purchase the land and buildings that had been auctioned. By 1842 he owned all the property and buildings that had once belonged to the Abbaye. He restored what could be restored and tried to stop the ravages of time on others. Today the property is still owned by the Husson family.
 
-The buildings we had seen were part of the Abbaye and are now used by a riding school. The Chapel of the Abbaye is in ruins, but enough remains standing to see its size and structure. Many other buildings also remain. (None of these buildings were visible to us over the high walls of the Abbaye&nbsp;&mdash;&nbsp;I learned about it on a website, <em>bien sûr</em>.) The Abbaye is open to the public two days each year: on France's Day of Patrimony, when many historical buildings in France are open, and the fourth Saturday of September, when a centuries-old pilgrimage to Preuilly occurs. Maybe someday we'll be here for the Day of Patrimony and get to see the Abbaye. The Husson family has said it would like to open the Abbaye more days.
+The buildings we had seen were part of the Abbaye and are now used by a riding school. The Chapel of the Abbaye is in ruins, but enough remains standing to see its size and structure. Many other buildings also remain; the entrance building with the sign was restored by Dr. Musson. (Except for these, none of the Abbaye buildings were visible to us over the high walls&nbsp;&mdash;&nbsp;I learned about them on a website, <em>bien sûr</em>.) The Abbaye is open to the public two days each year: on France's Day of Patrimony, when many historical buildings in France are open, and the fourth Saturday of September, when a centuries-old pilgrimage to Preuilly occurs. Maybe someday we'll be here for the Day of Patrimony and get to see the Abbaye. The Husson family has said it would like to open the Abbaye more days.
 
 We knew none of this when we left the Abbaye Preuilly. We knew only that rural France had surprised us again and that we wanted to know more.
 
@@ -77,11 +77,11 @@ We left Preuilly Abbaye and drove down another small road. At an intersection we
 </figure>
 <figure>
     <img class='portrait' src="{{ "2025/rural/DSC06757.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption class='wide'>That's a 12th-century carving of Saint Ferréol on the left and a much younger Laurie on the right. This statue is the sole decoration on the church.</figcaption>
+    <figcaption class='wide'>That's a 900-year-old carving of Saint Ferréol on the left and a much younger Laurie on the right. This statue is the sole decoration on the church.</figcaption>
 </figure>
 <figure>
     <img class='landscape' src="{{ "2025/rural/DSC06758.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption class='wide'>All these older churches have cemeteries attached, and the older graves often look like this. The diocese has no money to maintain them and the family of people buried here have died out or moved away.This cemetery also had modern graves dating as recently as 2024. </figcaption>
 </figure>
 
-I know that most people vacationing in France don't have the opportunity to drive through rural France. I wish they all did, and all took that opportunity to see a side of France that few visitors get to see. The reward is seeing France's beauty and culture in a different way, far away from the hustle and bustle of the cities. We love Paris, and we love the Abbaye of Preuilly. We're glad we get to be part of these two aspects of France.
+I know that most people vacationing in France don't have the opportunity to drive through rural France. I wish they all did, and all could take the time to see a side of France that few visitors see. The reward is seeing France's beauty and culture in a different way, far away from the hustle and bustle of the cities. We love Paris, and we love the Abbaye of Preuilly. We're glad we get to be part of these two aspects of France.

@@ -9,8 +9,8 @@ layout: post
 ---
 Laurie and I went to the local bakery today to buy some treats for a celebratory gathering tonight and found these meringue shoes:
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/08/DSC02228.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2015/08/DSC02228.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ layout: post
 ---
 Ever since we arrived in mid-May, Hervé Rufin has been trying to organize a Saturday night visit to the chateau of Vaux-le-Vicomte for the candle-light visit. Finally, last Saturday the stars aligned and we made it.
 
-Vaux-le-Compte has quite a history. Before 1657 it was a small chateau and garden, owned by Nicholas Fouquet who was a member of the Parlement de Paris and an enthusastic patron and supporter of the arts. In 1657 King Louis XIV made Fouquet his Minister of Finance which, for some odd reason, immensely increased Fouquet's wealth. He then bought three towns around the old chateau, hired the best architect (Louis le Vau) and the best landscape architect (Le Notre), the best decorator (Charles le Brun) and twenty thousand laborers. Five years later the Chateau of Vaux-le-Vicomte was complete - appearing much as it does today.
+<figure>
 
 (Full disclosure: because we were there at night and I didn't want to drag a tripod around, I took zero pictures; these are taken from the Web. Also, a bunch of pictures did not make the migration from the old blog site to the new. I'll try to find them Real Soon Now.).
 (Image of Vaux-le-vicompte missing)
@@ -24,8 +24,8 @@ We were there for the night visit, so here's a picture of the chateau with its 2
 (Image of Vaux-le-vicompte missing)
 Mary took this picture of Laurie and me. Not many pictures of me in this blog, as I'm usually doing the picture-taking.
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/09/DSCF0061-1024x768.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2015/09/DSCF0061-1024x768.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

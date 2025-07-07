@@ -12,23 +12,23 @@ We love to walk in Paris. I'm not sure there's a better city in the world for wa
 
 ## Berges de Seine ##
 Berges means the banks of a river. I have, since our first visit to Paris 20 years ago, wished that there were more places to sit and watch the activity on the Seine. Well, no more will I wish that. Two weeks ago, Paris opened up a section of the river on the Left Bank, from Pont d'Alma to Pont Royale, that is 100% for sitting, walking, resting, eating, drinking and just watching. It is fabulous.
-<figure class = "landscape">
-	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03198.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{ "/assets/images/2013/07/DSC03198.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{ "/assets/images/2013/07/mgl8708.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{ "/assets/images/2013/07/mgl8708.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03196.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{ "/assets/images/2013/07/DSC03196.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{ "/assets/images/2013/07/ile_verger.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{ "/assets/images/2013/07/ile_verger.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 
@@ -44,8 +44,8 @@ This picture shows a few cars obeying the parking rules: there's not a "No Parki
 
 Actually, it also seems that you can disregard the above three rules if you just put your blinkers on. That seems to make parking anywhere okay.
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03188.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/07/DSC03188.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Sure, no problem</em></figcaption>
 </figure>
 
@@ -58,13 +58,13 @@ Paris is a *big* city, but there are lots of small, quiet areas that are worth s
 	<figcaption><em>A </em>passage<em></em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03204.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{ "/assets/images/2013/07/DSC03204.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>House on the </em>passage.<em></em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03200.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{ "/assets/images/2013/07/DSC03200.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>More houses on a </em>passage<em>.</em></figcaption>
 </figure>
 
@@ -83,8 +83,8 @@ Paris is a *big* city, but there are lots of small, quiet areas that are worth s
 	<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03216.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{ "/assets/images/2013/07/DSC03216.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em></em></figcaption>
 </figure>
 

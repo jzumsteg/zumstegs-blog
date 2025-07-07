@@ -17,8 +17,8 @@ We arrived after a pleasant couple-hour drive from Chartrettes, where Mary and G
 </figure>
 
 We walked a little farther and, well, sheepishly realized that what we'd seen is the gatehouse to the chateau. This was not to hard to figure out when we saw the actual chateau:
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03271.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/07/DSC03271.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -33,19 +33,19 @@ The tour and the chateau were worth every freaking *centime*. The chateau was bu
 </figure>
 
 Some interesting history occurred in this chateau, but as it occurred in the 1570s, you might not be interested...
-<figure class = "landscape">
-	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03267.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{ "/assets/images/2013/07/DSC03267.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>The "moat." Renaissance chateaux were built when there was no reason for them to be fortresses, so the moat is pure decoration.</em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03241.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{ "/assets/images/2013/07/DSC03241.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>Flowers growing on an old wall.</em></figcaption>
 </figure>
 
 And finally, three happy travelers. Chateau Tanlay, not on any tourist guide itinerary, fascinated us. We agreed that we were all very glad I'd asked to visit it.
-<figure class = "portrait">
-	<img class = "portrait" src="{{"/assets/images/2013/07/DSC03274.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" class = "portrait" src="{{"/assets/images/2013/07/DSC03274.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Laurie, Mary and Gilles</em></figcaption>
 </figure>
 

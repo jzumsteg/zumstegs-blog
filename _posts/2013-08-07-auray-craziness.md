@@ -25,8 +25,8 @@ First, a boat rowing out into the harbor. Note the guy with the long pole on the
 
 Another boat, with another oddly-dressed team, was coming from the other direction. They rowed like crazy toward each other and we realized that it was a boat-joust - the guys with poles were going to try to knock each other into the water. 
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/08/MG_8468.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/08/MG_8468.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -34,16 +34,16 @@ Another boat, with another oddly-dressed team, was coming from the other directi
 
 Closer...
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/08/MG_8469.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/08/MG_8469.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 Closer...
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/08/MG_8470.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/08/MG_8470.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -51,8 +51,8 @@ Closer...
 
 Closer...
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/08/MG_8471.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/08/MG_8471.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -60,8 +60,8 @@ Closer...
 
 Splash!
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/08/MG_8472.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/08/MG_8472.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 

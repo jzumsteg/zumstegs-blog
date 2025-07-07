@@ -17,18 +17,18 @@ Anyway, today we saw an interesting canal sight: a canal bridge that crosses the
 		<figcaption><em>It's about four-tenths of a mile long.</em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{ "/assets/images/2013/08/MG_0092.jpg" | prepend: site.baseurl  }}"   alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{ "/assets/images/2013/08/MG_0092.jpg" | prepend: site.baseurl  }}"   alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{ "/assets/images/2013/08/MG_0094.jpg" | prepend: site.baseurl  }}"   alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{ "/assets/images/2013/08/MG_0094.jpg" | prepend: site.baseurl  }}"   alt="Image" />
 		<figcaption><em>Still used, but only by pleasure boats.</em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{ "/assets/images/2013/08/MG_0099.jpg" | prepend: site.baseurl  }}"   alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{ "/assets/images/2013/08/MG_0099.jpg" | prepend: site.baseurl  }}"   alt="Image" />
 		<figcaption><em>Laurie and Mary getting a walk in <em>and</em> solving some world problems.</em></figcaption>
 </figure>
 

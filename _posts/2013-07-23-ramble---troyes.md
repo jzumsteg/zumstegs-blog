@@ -16,86 +16,86 @@ But I digress... Troyes is an interesting city. It's big - population of some 65
 Troyes' claim to fame is that, for some reason, the city has maintained hundreds of half-timbered buildings in the downtown area since the 16th century. Recently, the city has revamped that downtown area to remove automobiles and leave the area to pedestrians; as a result, many restaurants and bars and stores have thrived here. I will post below some pictures of the streets and buildings of Troyes; during the day - and especially on a hot Friday evening - these are jammed with folks. If you want to see them without the crowds, be there at 7:30 in the morning...
 
 <b>Troyes Buildings</b>
-<figure class ="landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03520.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03520.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03517.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/07/DSC03517.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03511.jpg" | prepend: site.baseurl | prepend:site.url }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/07/DSC03511.jpg" | prepend: site.baseurl | prepend:site.url }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03505.jpg" | prepend: site.baseurl  }}" alt="Image" />
-		<figcaption><em></em></figcaption>
-</figure>
-
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03497.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03505.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03487.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/07/DSC03497.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03476.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/07/DSC03487.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03460.jpg" | prepend: site.baseurl  }}" alt="Image" />
+
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03476.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03447.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03460.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03445.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/07/DSC03447.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03443.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/07/DSC03445.jpg" | prepend: site.baseurl  }}" alt="Image" />
+		<figcaption><em></em></figcaption>
+</figure>
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03443.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 <h3>Streets</h3>
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03449.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03449.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/DSC03514.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/07/DSC03514.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03510.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/07/DSC03510.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img src="{{ "/assets/images/2013/07/dDSC034961.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{ "/assets/images/2013/07/dDSC034961.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03516.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/07/DSC03516.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em></em></figcaption>
 </figure>
 
 
 <h3>Iglise St. Madeline</h3>
 I wanted to see this church because my guidebook said it has one of the few remaining "rood screens" in France. The rood screen - jubé in French - was a partition between the nave, where the parishioners sat for a Mass, and the choir, where the priests conducted the Mass. This jubé, besides being one of the last, is one of the most ornate - an example of Flamboyant Gothic sculpture.
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/07/DSC03522.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2013/07/DSC03522.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>The jubé (rood screen in English) at St Madeline</em></figcaption>
 </figure>
 
@@ -103,12 +103,12 @@ I wanted to see this church because my guidebook said it has one of the few rema
 
 The jubé was, indeed, worth seeing, but better were the stained-glass windows. Created in the 16th century, they are beautiful and unusual in two respects: they have been recently restored; and they are down low, so a person can see them quite clearly. In many churches, the stained-glass is so high in the walls that it's difficult to see the details. 
 
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03535.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/07/DSC03535.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>Stained glass windows in Iglise St. Madeline</em></figcaption>
 </figure>
-<figure class = "portrait">
-	<img src="{{ "/assets/images/2013/07/DSC03539.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure
+>	<img class = "portrait" src="{{ "/assets/images/2013/07/DSC03539.jpg" | prepend: site.baseurl  }}" alt="Image" />
 		<figcaption><em>Stained glass windows in Iglise St. Madeline</em></figcaption>
 </figure>
 

@@ -9,14 +9,14 @@ layout: post
 ---
 We visited Chateau Les Milandes, the home of Joséphine Baker for many years, and loved the place for many reasons. But I don't know how to talk about Joséphine Baker, because she seems to be largely unknown in the country of her birth, the United States. Here are a couple pictures of her from the mid-1920s in Paris.
 
-<figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/baker.png" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "portrait" src="{{"/assets/images/2016/07/baker.png" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/160519-josephine-baker-01.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "portrait" src="{{"/assets/images/2016/07/160519-josephine-baker-01.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Josephine Baker, (1906-1975) African American dancer, actress and entertainer, famous for her Paris stage shows and her scanty costumes (Photo by Bob Thomas/Popperfoto/Getty Images)</em></figcaption>
 </figure>
 
@@ -39,42 +39,42 @@ Josephine Baker seems largely unknown in the United States, though her memory is
 We came here because I'd heard about Les Milandes years ago - before it was bought and restored to her memory - and having read about her, decided I wanted to see her home for so many years. It was totally enjoyable. Unfortunately, there was a sign forbidding picture-taking inside the chateau; fortunately the sign was in French and I couldn't understand it.
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC04901.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "portrait" src="{{"/assets/images/2016/07/DSC04901.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>One of Josephine's performance dresses.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC04906.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "portrait" src="{{"/assets/images/2016/07/DSC04906.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Laurie's favorite of Josephine's dresses.</em></figcaption>
 </figure>
 
 
 
 <figure class = "portrait">
-	<img src="{{"/assets/images/2016/07/DSC04904.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "portrait" src="{{"/assets/images/2016/07/DSC04904.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>A statue of Josephine in her Banana Dress (and nothing else - that was how she performed the Banana Dance).</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC04934.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2016/07/DSC04934.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Chateau Les Milandes</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC04929.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2016/07/DSC04929.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>A view from Les Milandes. No wonder Josephine fell in love with the place.</em></figcaption>
 </figure>
 
 
 
 <figure class = "landscape">
-	<img src="{{"/assets/images/2016/07/DSC04907.jpg" | prepend: site.baseurl  }}" alt="Image" />
+	<img class = "landscape" src="{{"/assets/images/2016/07/DSC04907.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>One bathroom in the chateau. At the time it was created, Josephine's favorite fragrance was by Christian Dior; this bathroom was done in black and gold, Dior's colors.</em></figcaption>
 </figure>
 

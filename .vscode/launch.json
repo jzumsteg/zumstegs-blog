@@ -10,6 +10,7 @@
 			"request": "launch",
 			"program": "${file}",
 			"console": "integratedTerminal",
+			"args":["_posts/2015-08-21-road-trip!.md"],
 			"justMyCode": true
 		}
 	]

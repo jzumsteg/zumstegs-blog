@@ -12,8 +12,8 @@ Next, we drove to the town of Sancerre. I doubt anyone knows of Sancerre unless 
 
 We had lunch in the tiny town of Cauvignol, famous for its chevre - goat cheese. There, we had a very nice bottle of Sancerre wine, so we went to the winery. For those who have been to wineries in, say, Napa Valley, this was a bit different. We found the winery, rang a bell on the door, and after five minutes or so, a woman came out of a house down the street. She took us into the room where the wines were bottled and stored, and poured us a couple tastes. We liked best the wine we had at lunch, so we bought a bunch of it.
 
-<figure class = "landscape">
-	<img class = "landscape" src="{{"/assets/images/2013/08/DSC03889.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" class = "landscape" src="{{"/assets/images/2013/08/DSC03889.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>How are we going to get all this in the car?!?</em></figcaption>
 </figure>
 

@@ -10,13 +10,13 @@ layout: post
 <p>Today we finally made it to Moret sur Loing. We thought we'd get there the last couple days, but got sidetracked in Saint-Mammès. We were interested in Moret-sur-Loing for a couple reasons: the Impressionist painter Alfred Sisley lived here for quite a few years (he died here), and it's the largest town around, with almost 5,000 inhabitants. </p>
 <p>It didn't take long to see why Sisley painted here; the Loing River flows right through the time and it is just beautiful. The town has really made use of the river, with lots of views onto it and walks and a bridge into town. It seems to me that a painter here would have no problem finding things to paint. I read that Sisley painted some 500 pictures in this area; he could easily done 500 more. Some photos of the riverfront:</p>
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/Riverside-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2013/06/Riverside-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/Riverside-5.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2013/06/Riverside-5.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption></figcaption>
 </figure>
 
@@ -29,21 +29,21 @@ There are a number of places posted where Sisley painted a picture, so that a vi
 	</tr>
 </table>Sisley painted this about 100 yards to the left, but you can still see the tower and church. As I mentioned a couple days ago, Laurie and I have long been fans of Alfred Sisley, so living near where he lived and being able to see the places he painted is a treat for us.
 <br>Some miscellaneous pictures from Moret:
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/Laurie-in-river.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2013/06/Laurie-in-river.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Laurie and the Loing River</figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/Riverside-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2013/06/Riverside-2.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Mostly, I love the willow tree across the river.</figcaption>
 </figure>
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/Riverside-5.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2013/06/Riverside-5.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>I could live here...</figcaption>
-</figure><figure class = "landscape">
-	<img src="{{"/assets/images/2013/06/Lawn-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2013/06/Lawn-1.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption>Mostly, I love the willow tree across the river.</figcaption>
 </figure>
 

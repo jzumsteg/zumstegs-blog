@@ -19,8 +19,8 @@ We also bought a slab of paté de campagne.
 
 Can't wait for lunch!
 
-<figure class = "landscape">
-	<img src="{{"/assets/images/2015/06/20150612_DSC05398.jpg" | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class = "landscape" src="{{"/assets/images/2015/06/20150612_DSC05398.jpg" | prepend: site.baseurl  }}" alt="Image" />
 	<figcaption><em>Today's haul at the cheese shop.</em></figcaption>
 </figure>
 
