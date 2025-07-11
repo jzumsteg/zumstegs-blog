@@ -1,0 +1,69 @@
+---
+title: Another Ramble Through Rural France
+author: JZ
+date: Thu, 10 Jul, 2025
+category: 
+math: true
+mermaid: true
+layout: post
+thumbnail: 2025/rural2/DSC06836.jpg
+summary: Another ramble through the beautiful French country-side. Found a few interesting sights, too.
+---  
+We enjoyed our rural France ramble so much that we took another one today. Might get in another one or two before we leave a week from today. Today's ramble took us in the same general direction: east from Bois-le-Rois, our homebase here. Mostly, we just wandered from town to town, taking in the beauty of rural France, and as always, finding interesting things.
+
+<h3>First, More Sunflowers&nbsp;&mdash;&nbsp;Lots more!</h3>
+<figure>
+    <img class='landscape' src="{{ "2025/rural2/DSC06836.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'></figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2025/rural2/DSC06834.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>Lots of sunflowers! They're raised for their oil, and they sure are beautiful in the field.</figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2025/rural2/DSC06839.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>This gives you an idea of the kind of roads we like to find on these rambles.</figcaption>
+</figure>
+
+<h3>Another mystery</h3>
+We saw this structure and stoppd to ogle it. What is it? I thought maybe it was once a farm; many old farms in France look like fortresses, with all the buildings and equipment inside a walled courtyard. But we'd never seen anything like this: it's in perfect condition and it has, unusually, a tall square tower and a sorter round one.
+<figure>
+    <img class='landscape' src="{{ "2025/rural2/DSC06844.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>The sign didn't help until I could later do some research.</figcaption>
+</figure>
+This was indeed a farm, unusual in that it  once belonged to another abbaye&nbsp;&mdash;&nbsp;hence the two towers. The abbaye is first mentioned in 1186 and was forced to dissolve itself during the French Revolution. I couldn't find any history on it from the time it was abandoned until it was converted to a private residence just a few years ago! The architectural firm that did the conversion has it on their website [<a href="https://www.vidalenc.com/projets/ferme-de-fresnieres">Fresnieres Architects</a>]. I can't even guess how much it would have cost to do the conversion; the resulting house is beautiful and huge&nbsp;&mdash;&nbsp;16,650 square feet!
+
+<h2>An abandoned canal and lock</h2>
+Ever since Laurie and I first came to France, we've been fascinated by the canals and canal locks. We can't say why: maybe like those abbayes that we've seen, the canals and locks hark back to an older France. 
+
+Today, most of the canal network in France is used solely by tourist boats: private vessels and canal tour companies. Less than 20% of canal traffic is commercial, and almost all that is on one section of one canal. Most commercial boat traffic is on the rivers - the Seine, the Rhine and the Rhone primarily. Abandoned canals such as the one we saw today are not unusual
+
+This canal &nbsp;&mdash;&nbsp; the Bray-sur-Seine&ndash;La Tomba Canal &nbsp;&mdash;&nbsp; bypasses a particularly twisty and fast-flowing section of the Seine, saving <em>peniches</em> (barges) time. It's 6 miles (10 km) long and straight as an arrow, built in 1899 and abandoned in 1980. As we were driving along it, I saw the remains of a lock just off the road. So we parked and took a look.
+<figure>
+    <img class='landscape' src="{{ "2025/rural2/DSC06852.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>A look a the abandoned canal and lock. Water still flows along the canal, but no boats, not since it was abandoned in 1980.</figcaption>
+</figure>
+
+Since this canal was built, commercial boats have gotten bigger and bigger. This canal was built for <em>peniches</em> 38 meters long; we have seen barges on the Seine now that are 125 meters long and way too wide to fit in this canal. So as commercial traffic grew on the Seine and locks were built on that river, canals such as this one were no longer needed.
+
+<figure>
+    <img class='landscape' src="{{ "2025/rural2/DSC06853.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>It's been 65 years since this lock gate opened for the last time.</figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2025/rural2/DSC06859.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'></figcaption>
+</figure>
+
+<figure>
+    <img class='landscape' src="{{ "2025/rural2/DSC06856.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>When they were in use, each lock had a lock-keeper who lived in a house at the lock. Locks were open from 7 a.m. to 8 p.m. generally, so that lock-keeper had a long day.</figcaption>
+</figure>
+But many canals are still pretty and often have paths that make them enjoyable to hike.
+
+<figure>
+    <img class='landscape' src="{{ "2025/rural2/DSC06857.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'></figcaption>
+</figure>
+
+The length of the Bray-sur-Seine&ndash;La Tomba canal is being turned into a nature reserve and recreational area. Someday in the future it will see lots of traffic, not in the water but on trails and hikes and <em>pique-nique</em> areas along its banks.

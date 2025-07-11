@@ -23,7 +23,7 @@ In this situation, it is *very* easy to conclude that you don't like the place. 
 
 The solution, as my Boeing colleague told me, is: *Don't judge a place until you've been there at least 24 hours.* (I have sometimes given a place more than that - two or three days, sometimes.) This gives you a chance to get over some of your sleep deprivation, get over some jet-lag, have a good meal or two, get used to how things look different a bit, just get a bit more comfortable with all the differences.
 
-Honestly, this advice has saved me much grief. I have traveled to some crazily different places (Malawi and Swaziland, in central Africa, for examples) and I could have easily said, "I hate this place" within an hour of arrival. By waiting a day or two, I saw good things and got used to less-than-good things, and found that the experience of being in those places had some rewards.
+Honestly, this advice has saved me much grief. I have traveled to some crazily different places (Malawi and Swaziland, in central Africa; Tripoli, Libya(!), for examples) and I could have easily said, "I hate this place" within an hour of arrival. By waiting a day or two, I saw good things and got used to less-than-good things, and found that the experience of being in those places had some rewards.
 
 So when you arrive in Paris, remember that everything will be different and take a day to ease into the city's life, then, if you dislike it, you can say so and make adjustments. But you almost certainly will find your initial dislikes fading away and the beauty of Paris taking over.
 

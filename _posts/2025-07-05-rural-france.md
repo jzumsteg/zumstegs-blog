@@ -43,6 +43,10 @@ These pictures are from a trip we made to an area near Bourges, in the Loire Riv
     <img class='landscape' src="{{ "2025/rural/IMG_7907.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption class='wide'>The town of Sancerre. Lots of grape vines to make that great wine.</figcaption>
 </figure>
+<figure>
+    <img class='landscape' src="{{ "2025/rural/DSC06792.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'></figcaption>
+</figure>
 
 Beautiful, eh? There are what we think of as "typical" agricultural areas: flat and uninteresting, but much of France's agriculture is in these rolling hills, with copses of trees interspersed through them.
 
@@ -63,7 +67,7 @@ On a drive like this, Laurie and I will try to get off the main roads and find b
 </figure>
 It turns out this is the Preuilly Abbaye, once the home of an order of Cistercians. The Order and the Abbaye were founded in 1118. The Abbaye was home to monks&nbsp;&mdash;&nbsp;who took the religious vows of the order&nbsp;&mdash;&nbsp;and lay people, who might have lived in the Abbaye or nearby, and who worked the fields owned by the Abbaye. The number of monks reached a peak of 25 and the Abbaye thrived for almost seven centuries.
 
-The French Revolution banned the Cistercian Order (and all other religious orders in France) and the property of the Abbaye was auctioned off in pieces. Then a secular savior appeared: Dr. Henri-Marie Husson, a physician at the Hotel-Dieu in Paris, started to purchase the land and buildings that had been auctioned. By 1842 he owned all the property and buildings that had once belonged to the Abbaye. He restored what could be restored and tried to stop the ravages of time on others. Today the property is still owned by the Husson family.
+The French Revolution banned the Cistercian Order (and all other religious orders in France) and the property of the Abbaye was auctioned off in pieces. Then a secular savior appeared: in 1829 Dr. Henri-Marie Husson, a physician at the Hotel-Dieu in Paris, started to purchase the land and buildings that had been auctioned. By 1842 he owned all the property and buildings that had once belonged to the Abbaye. He restored what could be restored and tried to stop the ravages of time on others. Today the property is still owned by the Husson family.
 
 The buildings we had seen were part of the Abbaye and are now used by a riding school. The Chapel of the Abbaye is in ruins, but enough remains standing to see its size and structure. Many other buildings also remain; the entrance building with the sign was restored by Dr. Musson. (Except for these, none of the Abbaye buildings were visible to us over the high walls&nbsp;&mdash;&nbsp;I learned about them on a website, <em>bien sûr</em>.) The Abbaye is open to the public two days each year: on France's Day of Patrimony, when many historical buildings in France are open, and the fourth Saturday of September, when a centuries-old pilgrimage to Preuilly occurs. Maybe someday we'll be here for the Day of Patrimony and get to see the Abbaye. The Husson family has said it would like to open the Abbaye more days.
 
@@ -85,3 +89,23 @@ We left Preuilly Abbaye and drove down another small road. At an intersection we
 </figure>
 
 I know that most people vacationing in France don't have the opportunity to drive through rural France. I wish they all did, and all could take the time to see a side of France that few visitors see. The reward is seeing France's beauty and culture in a different way, far away from the hustle and bustle of the cities. We love Paris, and we love the Abbaye of Preuilly. We're glad we get to be part of these two aspects of France.
+
+<h2>Addendum: Looking Inside the Abbaye Preuilly</h2>
+A few days after we did the ramble through rural France I wrote about above in this post, Laurie and I took off one morning to do another ramble, in the same area (east of our home base in Bois-le-Roi) but through a different area. Our method was to find a small road out of a town, drive on it to the next town, choose a town 8 - 10 miles away and drive there, then repeat that process. So we sort of wandered around and, completely by chance, ended up across a field from the Abbaye Preuilly we'd seen and written about above. 
+
+In my researches about the Abbaye I looked at it from Google Earth and saw that, unknown to us, there appeared to be a gate in the high stone wall that surrounds the Abbaye and hides the inside from view. So we drove down to where that gate should be and, sure enough, there was one, and it let us at least look into the Abbaye. Here's what we saw.
+
+<figure>
+    <img class='landscape' src="{{ "2025/rural/DSC06851.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>Aha! Found the gate. Now we can take a peek inside the Abbaye.</figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2025/rural/DSC06850.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>These are what's left of the abbaye church. It was huge, especially for an abbaye that had at most 25 monks. You can see that much of it has succumbed to the ravages of time. The doctor that bought the abbaye had it shored up to stabilize it. </figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2025/rural/DSC06849.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>One of the buildings of the abbaye, clearly restored at some time. Many of the buildings we could see all appeared to be in use - windows and doors open, in good shape.</figcaption>
+</figure>
+
+I still have no idea why the Abbaye Preuilly captures us so. Maybe because it's a connection between a long-ago France and modern-day France; something ancient and representative of an old France, still there, still in use, if not for its original purpose. I hope Dr. Husson, who bought the parts of the abbaye between 1829 and 1842, restored what he could and tried to save the rest, has a special place in heaven. 
