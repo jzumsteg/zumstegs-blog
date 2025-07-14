@@ -18,7 +18,7 @@ As we were waiting in line for passport control (an adventure in itself) I calle
 
 At this point we figured we were just going to have to take a taxi and hope the place was still in the same location as in past trips.
 
-Then, in the confirmation from the delivery place I saw an email address. I used my phone to send them an email saying I couldn't get through and we needed to have their shuttle service pick us up. Bingo. About 30 seconds later I got a call from them (obviously, my phone was working) giving me instructions for a pickup. Ten minutes later a van arrived to take Us to our car.
+Then, in the confirmation from the delivery place I saw an email address. I used my phone to send them an email saying I couldn't get through and we needed to have their shuttle service pick us up. Bingo. About 30 seconds later I got a call from them (obviously, my phone was working) giving me instructions for a pickup. Ten minutes later a van arrived to take us to our car.
 
 The first thing I asked when I got to the counter was, "Did you change your phone number?" The answer: "No, it's just not working this morning." Grrrrrrr. Got the car, drove to Mary and Gilles' house, all was good.
 
