@@ -10,7 +10,7 @@ layout: post
 ---
 I haven't taken a lot of pictures of food here, because I'm not 100% ok with pulling out a phone and taking pictures in a nice restaurant. But I've been talked into posting the food pix I have so here they are. You'll notice that they lean to the dessert side...
 
-(In 2015 I posted about buying food on a day-to-day basis here. If you're interested, click here: [Buying Food]({% post_url 2015-06-15-buying-food-here %}) . About the only thing that has changed is we have found great produce and fruit [and inexpensive wine] at a fairly new grocery store near us, so we don't hit the street markets as often as we did that year.)
+(In 2015 I posted about buying food on a day-to-day basis here. If you're interested, click here: [Buying Food]({% post_url 2015/2015-06-15-buying-food-here %}) . About the only thing that has changed is we have found great produce and fruit [and inexpensive wine] at a fairly new grocery store near us, so we don't hit the street markets as often as we did that year.)
 <h2 style="font-family: verdana;">Produce</h2>
 Here are some pix taken in the stores at which we shop. We think that fruit and produce here is fresher and tastier than at home.
 

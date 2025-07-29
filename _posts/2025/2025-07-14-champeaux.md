@@ -8,9 +8,9 @@ mermaid: true
 layout: post
 image_path: 2025/champeaux/
 thumbnail: 2025/champeaux/DSC06805.jpg
-summary: No, it's not pronounced like "shampoo," but it's close. We went to a choir concert in a church in Champeaux, and then returned to have a better look at the church. 
+summary: No, it's not pronounced "shampoo," but it's close. We went to a choir concert in a church in Champeaux, and then returned to have a better look at the church. 
 ---  
-In the small town of Champeaux (pronounced "cham-pō"), population about 815, is an interesting church. Earlier in this trip we saw a Basque Choir present a concert here . They were great, but we didn't get a chance to look much at the church itself. A few days ago we were with Mary & Gilles on a day-trip ramble and, being not far from Champeaux, I asked if we could go there to take a look at the church. In fact, we were about five miles away, so to Champeaux we went.
+In the small town of Champeaux (pronounced "cham-pō"), population about 815, is an interesting church. Earlier in this trip we saw a Basque Choir present a concert here . They were great, but we didn't get a chance to look much at the church itself. A few days ago we were with Mary & Gilles on a day-trip ramble and, being not far from Champeaux, I asked if we could go there to take a look at the church. In fact, we were only about five miles away, so to Champeaux we went.
 
 The church is the Collégiale Saint-Martin de Champeaux. Cathedrals are the home of an bishop; parish churches&nbsp;&mdash;&nbsp;the most common in the Catholic structure&nbsp;&mdash;&nbsp;are the neighborhood churches. In the past a parish church would have a priest; today, only the biggest do, and the priest often serves multiple parish churches in the area. Collégiale churches sit between the cathedral and the parish church. 
 

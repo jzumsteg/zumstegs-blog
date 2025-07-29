@@ -81,5 +81,5 @@ Unfortunately I have no good pictures of the two Submarine Spitfires that flew a
 I think that's all for the 2023 edition of my report on the Ferte-Alaïs airshow. I can tell you that for us slightly crazy old airplane nuts, it was a great day, sitting in the sun and watching planes that could have been scrapped years ago buzzing around the sky. Thanks, again, Hervé; it was a special day for me. See ya next year, same time, same place.
 
 
-(If you'd like to see my post on the 2021 Ferte-Alaïs airshow, it's at: [2021 Ferte-Alaïs]({% post_url 2021-09-30-la-ferte-alais-airshow-2 %}) )
+(If you'd like to see my post on the 2021 Ferte-Alaïs airshow, it's at: [2021 Ferte-Alaïs]({% post_url 2021/2021-09-30-la-ferte-alais-airshow-2 %}) )
 

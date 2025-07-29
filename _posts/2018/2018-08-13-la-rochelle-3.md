@@ -8,9 +8,9 @@ mermaid: true
 layout: post
 ---
 
-This is the fifth time we've visited La Rochelle and it confirmed for us that this place is one of our favorite places in the world (except maybe that first night: [Adventures]({% post_url 2018-07-31-just-another-adventure %})).  
+This is the fifth time we've visited La Rochelle and it confirmed for us that this place is one of our favorite places in the world (except maybe that first night: [Adventures]({% post_url 2018/2018-07-31-just-another-adventure %})).  
 
-La Rochelle is quite a historic city, with many buildings from the 1600s and 1700s still in place. (For more on La Rochelle, check this post from previous trips: [La Rochelle 2016]({% post_url 2016-07-20-la-rochelle-2 %}). For this post, I'm mostly just going to present some pictures.
+La Rochelle is quite a historic city, with many buildings from the 1600s and 1700s still in place. (For more on La Rochelle, check this post from previous trips: [La Rochelle 2016]({% post_url 2016/2016-07-20-la-rochelle-2 %}). For this post, I'm mostly just going to present some pictures.
 
 
 

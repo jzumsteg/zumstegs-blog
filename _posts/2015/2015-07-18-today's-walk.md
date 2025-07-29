@@ -7,7 +7,7 @@ math: true
 mermaid: true
 layout: post
 ---
-Today, we got back to our daily walks, and it felt good to be back and active again! We went earlier than usual this morning because it's hot, and we returned to the Seine, which we always love to walk along. We walked on the opposite side of the river from Thomery, which we visited a couple days ago [Thomery]({% post_url 2015-07-06-thomery %}). As always, we had some surprises...
+Today, we got back to our daily walks, and it felt good to be back and active again! We went earlier than usual this morning because it's hot, and we returned to the Seine, which we always love to walk along. We walked on the opposite side of the river from Thomery, which we visited a couple days ago [Thomery]({% post_url 2015/2015-07-06-thomery %}). As always, we had some surprises...
 
 Here's the road we walked along. About a third of the walk was on a trail, then we reached this road. Fortunately, not one car came along the road in the hour-plus that we were on it.
 

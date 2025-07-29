@@ -91,7 +91,7 @@ First we took a tram around the park, which was definitely Clara and Henry's hig
 
 Why we love Andy Goldsworthy's wall we can't explain. I guess that's art: you like it or you don't and sometimes (often?) you can't explain why you like it or don't. We hope to see more of Mr. Goldsworthy's work.
 
-(Want to see Andy Goldworthy's wall in Kansas City: [KC Wall]({% post_url 2022-06-13-back-in-st.-louis %})  - scroll down to see it.)
+(Want to see Andy Goldworthy's wall in Kansas City: [KC Wall]({% post_url 2022/2022-06-13-back-in-st.-louis %})  - scroll down to see it.)
 
 
 Storm King has about 150 pieces of art spread throughout its 500 acres. This means that these sculptures - often big and sometimes huge - can be seen as they should be seen: in the open, with plenty of space around them.

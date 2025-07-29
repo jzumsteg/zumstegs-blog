@@ -34,3 +34,13 @@ summary: Different image sizes
     <img class= "landscape" src="{{ "2021/11/image-13.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption class="landscape"><em>This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. This is a caption. </em></figcaption>
 </figure>
+
+<figure>
+    <img class='landscape' src="{{ "2025/desserts/.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'></figcaption>
+</figure>
+
+<figure>
+    <img class='landscape' src="{{ ".jpg" | prepend: site.img_path | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'></figcaption>
+</figure>

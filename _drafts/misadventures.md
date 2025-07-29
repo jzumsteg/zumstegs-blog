@@ -22,7 +22,7 @@ Then, in the confirmation from the delivery place I saw an email address. I used
 
 The first thing I asked when I got to the counter was, "Did you change your phone number?" The answer: "No, it's just not working this morning." Grrrrrrr. Got the car, drove to Mary and Gilles' house, all was good.
 
-My new brilliant plan worked to perfection except: who would have thought that _their_ phone wouldn't work the one morning that we arrived. Travel: always an adventure.
+My new brilliant plan worked to perfection except: who would have thought that <em>their</em> phone wouldn't work the one morning that we arrived. Travel: always an adventure.
 
 <h2>The San Sebastian Hotel Parking Misadventure</h2>
 

@@ -77,6 +77,6 @@ Above, an allied forces trench. Four months after the war started, the front lin
 	<figcaption><em>World War 1 saw the first use of airplanes in warfare. This is the famous Spad XIII, first seeing action in 1917</em></figcaption>
 </figure>
 
-We visited an area of the World War 1 front in 2015. If you're interested, that post is at [Nantillois]({% post_url 2015-08-24-nantillois %})
+We visited an area of the World War 1 front in 2015. If you're interested, that post is at [Nantillois]({% post_url 2015/2015-08-24-nantillois %})
 
 Gotta say, this is not a museum that leaves you joyful and optimistic. It is an impressive museum, though, beautifully and powerfully presenting a history of a horrible war (is there any type of not-horrible war?) in military and very personal terms. We visited here in 2015 and were glad to return. I suspect few American tourists get to Meaux and this museum but I can tell you that it's worth the effort.

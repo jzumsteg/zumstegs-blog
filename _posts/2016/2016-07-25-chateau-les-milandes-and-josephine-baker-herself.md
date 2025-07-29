@@ -95,3 +95,5 @@ We came here because I'd heard about Les Milandes years ago - before it was boug
 
 
 Josephine Baker fascinates us, and this visit to her home brought her to life for us. We urge you to read a bit about her, to learn about her courageous and often difficult life. She died in 1975 at the age of 69, the day after opening a new show in New York and receiving rave reviews from the hard-to-please New York critics. She is buried in Monaco.
+
+(An update in 2025: in 2021 Josephine was honored by being included in the Pantheon in Paris, the resting place of French heroes. She is still buried in Monaco, but a plaque honoring her was installed in the Pantheon. Honored for her contributions to the arts of France, and her wartime efforts of smuggling wartime military information out of the country to aid the Allies, she occupies an honored place in French history.)
