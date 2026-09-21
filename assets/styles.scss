@@ -97,6 +97,9 @@ img.narrow {
 
 }
 
+
+// the next two css elements set images widths differently depending on whether 
+// the display os a smartphone (@media screen) or a wider screen
 img.portrait {
   display: block;
   margin-left: auto;

@@ -10,7 +10,7 @@ thumbnail:
 summary: Sometimes things just go wrong - we call them (Mis)adventures. People seem to like hearing about them, so here's a couple.
 ---  
 <h2>Arriving at Charles de Gaul Aeroport</h2>
-When we're here in France we put French SIMs in our phones so we can talk to people here, as well as have much more data capabilities - all at a (much) less cost than if we used any American phone plan. A drawback, though, is that in earlier trips we couldn't get the SIMs until we arrive at Mary and Gilles house - don't know why, but the plan we use will not take our American credit card for the initial order so Gilles orders the plans and has the SIMs mailed to him. This means that when we arrive at the airport we have no way to contact the place that delivers our leased car, and have to go find someone in the airport to call them. A little thing, but I hate it.
+When we're here in France we put French SIMs in our phones so we can talk to people here, as well as have much more data capabilities - all at (much) less cost than if we used any American phone plan. A drawback, though, is that in earlier trips we couldn't get the SIMs until we arrive at Mary and Gilles house - don't know why, but the plan we use will not take our American credit card for the initial order so Gilles orders the plans and has the SIMs mailed to him. This means that when we arrive at the airport we have no way to contact the place that delivers our leased car, and have to go find someone in the airport to call them. A little thing, but I hate it.
 
 So this year we did it a little differently. Gilles set up the plans for us (with a provider called mobile.free) and ordered eSIMS, which I downloaded and installed on our phones before we left the U.S. The plan was that I'd switch our phones over to the eSIMS as we were flying and when we arrived...voila! We'd have our French numbers and be able to call the delivery place.
 
@@ -22,7 +22,7 @@ Then, in the confirmation from the delivery place I saw an email address. I used
 
 The first thing I asked when I got to the counter was, "Did you change your phone number?" The answer: "No, it's just not working this morning." Grrrrrrr. Got the car, drove to Mary and Gilles' house, all was good.
 
-My new brilliant plan worked to perfection except: who would have thought that _their_ phone wouldn't work the one morning that we arrived. Travel: always an adventure.
+My new brilliant plan worked to perfection except: who would have thought that <em>their</em> phone wouldn't work the one morning that we arrived. Travel: always an adventure.
 
 <h2>The San Sebastian Hotel Parking Misadventure</h2>
 

@@ -1,0 +1,49 @@
+---
+title: Off to France, 2026 Version
+author: JZ
+date: Mon, 2026-09-10 00:03:00
+category: 
+math: true
+mermaid: true
+layout: post
+thumbnail: 2026/chissay/DSC07096.jpg
+summary: We're back in France - a short trip this year to celebrate Laurie's "milestone" birthday.
+---  
+For the first time in ten years, we're in France on our usual "off" year. Our pattern is to come here for three months every other year, but last year Laurie said she'd like to spend her milestone birthday - you know, one ending in '-0' in France, so here we are.
+
+When Laurie mentioned that she'd like to spend her 80th birthday in France, I immediately said, "Yes, indeed," and our dear friend Jamie pulled out her planner and said, "Let's plan this right now." Jamie and Hervé had just bought a house in the Loire Valley - a couple hours south of our home-away-from-home in France. We planned for four days with Jamie and Hervé, and asked that our other friends, Mary & Gilles, and Valerie & Yves, celebrate with us. In no time, we were all set.
+
+That birthday celebration happened the weekend of September 5/6 - Laurie's birthday was the 6th. Three couples joined Jamie and Hervé at their Loire Valley home in Chissay-en-Touraine and we celebrated! Fabulous meals, great wine, champagne galore. It helped that Valerie's birthday - also the same milestone as Laurie's - was just a few days before our time in Chissay, so extra celebration.
+
+The height of the celebration was on Laurie's birthday. Jamie and Hervé's house is about a ten-minute drive from one of the most beautiful chateaus in France, Chateau Chenonceau, which is built out over the Cher River. So on that day - which was a beautiful day - we rented a pontoon boat nearby and floated it to the chateau, where we went under and around that spectacular sight - drinking champagne as we did. If there's a better way to celebrate a birthday, we certainly don't know it.
+
+Here's some pictures of our adventure. My one regret is that I didn't get a good picture of Laurie - oops! 
+
+<figure>
+    <img class='landscape' src="{{ "2026/chissay/DSC07081.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>Our sturdy boat approaches the most beautiful chateau in a land of beautiful chateaux</figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2026/Chissay/DSC07088.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>Cruising around on the Cere River.</figcaption>
+</figure>
+
+<figure>
+    <img class='landscape' src="{{ "2026/Chissay/DSC07089.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>Lots of kayakers thought this was a good idea, too...</figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2026/Chissay/DSC07092.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>...but none of them had champagne to really enjoy the sight to the fullest.</figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2026/Chissay/DSC07096.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>I am not going to argue with the consensus that Chenonceau is the most beautiful chateau in France.</figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2026/Chissay/DSC07099.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>Saying goodbye as we chug back to the dock.</figcaption>
+</figure>
+Our boat ride was followed by a wonderful lunch at Jamie and Hervé's house. Sunday lunch is traditionally a big lunch, with family and friends. A duck main course, salads, a beautiful Bordeaux wine, and a humongous plate of cheeses sated every appetite there. I'm not sure any of us moved for a few hours.
+
+As we looked forward to this birthday celebration, we knew it was going to be fabulous. To say that is was, indeed, fabulous, understates this weekend severely. We cannot imagine a better birthday celebration. Thanks to Jamie and Hervé, Valerie and Yves, and Mary and Gilles for giving us the best birthday memories ever.
