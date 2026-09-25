@@ -78,6 +78,16 @@ excerpt-image {
   object-fit:fill;
 }
 
+.post_container {
+  width: 60%
+}
+
+@media screen and (max-width: 768px) {
+  post_container {
+    width: 95%;  /* 95% width of the container */
+  }
+}
+
 /* append your custom style below */
 img {
   display: block;

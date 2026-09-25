@@ -45,7 +45,7 @@
 		"prefix": "lscapefigure",
 		"body": [
 			"<figure>",
-			"\t<img class='landscape' src=\"{{ \"2026/Chissay/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<img class='landscape' src=\"{{ \"2025/rural2/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption class='wide'>$2</figcaption>",
 			 "</figure>"
 		]

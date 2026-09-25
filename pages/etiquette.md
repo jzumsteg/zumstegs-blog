@@ -36,7 +36,7 @@ To make it all a little more interesting, when you leave a place during the day 
 
 But you don’t use *“Bonjour”* as a parting statement during the day; it’s just not done. 
 
-And, if it’s really late at night when you depart a place and you figure your host is going right to bed, you can say “*Bon nuit*” (bun noo-wee). But honestly, *“Bonsoir”* works just fine leaving a place in the evening. If you want to show yourself as a seasoned French traveler, after you've finished your dinner and stood up to gather jackets, purses, etc, and as you start for the door, say "*Bonsoir* "quietly - just loud enough for your table neigbors to hear. They will stop for an instanrt, say "*Bonsoir*" back to you and then immediately continue their conversation. Just a little bit of true France customs. Note, if you've got non-French folks around you, forget this - they won't respond.
+And, if it’s really late at night when you depart a place and you figure your host is going right to bed, you can say “*Bon nuit*” (bun noo-wee). But honestly, *“Bonsoir”* works just fine leaving a place in the evening. If you want to show yourself as a seasoned French traveler, after you've finished your dinner and stood up to gather jackets, purses, etc, and as you start for the door, say "*Bonsoir* "quietly - just loud enough for your table neigbors to hear. They will stop for an instant, say "*Bonsoir*" back to you and then immediately continue their conversation. Just a little bit of true France customs. Note, if you've got non-French folks around you, forget this - they won't respond.
 
 <h2>More Important Words and Phrases</h2>  
 You don’t have to learn French to improve your time in Paris but learning just a few words will really help. Here are what I consider the essential:
@@ -76,27 +76,27 @@ Don’t just leap into English, thinking everyone will understand. In Paris, it�
 <h2>How Many with Your Hands</h2>
 Because I think my French pronunciation lacks a little um, *je ne sais pas*, when I order a small quantity of something I always show the number with my hands as well as saying it. The first time I remember doing this, I ordered two sandwiches in a boulangerie, saying to the employee, “*Je prends deux sandwich*”, and holding up this:  
 
-<figure class = "small-thumb">
-	<img src="{{"/assets/images/two-us.png " | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class="portrait" src="{{"/assets/images/two-us.png " | prepend: site.baseurl  }}" alt="Image" />
 </figure>
 
 When I was ready to pay, I was surprised to find that I had three sandwiches. Once we got it straightened out, I remembered: the French (and Germans and Italians and all other European countries) use this sign for the number two:   
 
-<figure class = "small-thumb">
-	<img src="{{"/assets/images/two-france.png " | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img class="portrait" src="{{"/assets/images/two-france.png " | prepend: site.baseurl  }}" alt="Image" />
 </figure>
 
  
 It’s great to use your hands when ordering a quantity of something but remember, this is how you show numbers in France:  
   
 
-  <figure class = "wide-thumb">
-	<img src="{{"/assets/images/one-five-france.png " | prepend: site.baseurl  }}" alt="Image" />
+  <figure>
+	<img style="height: 300px"  src="{{"/assets/images/one-five-france.png " | prepend: site.baseurl  }}" alt="Image" />
 </figure>
 
 Where in the United States we use:
-<figure class = "wide-thumb">
-	<img src="{{"/assets/images/one-five-us.png " | prepend: site.baseurl  }}" alt="Image" />
+<figure>
+	<img  style="height: 300px" src="{{"/assets/images/one-five-us.png " | prepend: site.baseurl  }}" alt="Image" />
 </figure>
 
  
