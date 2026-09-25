@@ -45,7 +45,7 @@
 		"prefix": "lscapefigure",
 		"body": [
 			"<figure>",
-			"\t<img class='landscape' src=\"{{ \"2025/rural2/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"\t<img class='landscape' src=\"{{ \"2026/somme/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"\t<figcaption class='wide'>$2</figcaption>",
 			 "</figure>"
 		]
@@ -98,8 +98,8 @@
 		"prefix": "wide-portrait-caption",
 		"body": [
 			"<figure>",
-			"\t<img class='portrait' src=\"{{ \2025/desserts/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
-			"\t<figcaption class='wide'><em>$2</em></figcaption>",
+			"<img class='portrait' src=\"{{ \2026/chissay/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"<figcaption class='wide'><em>$2</em></figcaption>",
 			"</figure>"
 		]
 	},
@@ -109,8 +109,8 @@
 		"prefix": "pnfigure",
 		"body": [
 			"<figure>",
-			"\t<img class='portrait' src=\"{{ \"2025/desserts/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
-			"\t<figcaption><em>$2</em></figcaption>",
+			"<img class='portrait' src=\"{{ \"2025/desserts/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"<figcaption><em>$2</em></figcaption>",
 			 "</figure>"
 		]
 	},
@@ -120,8 +120,8 @@
 		"prefix": "center-portrait-caption",
 		"body": [
 			"<figure>",
-			"\t<img class='portrait' src=\"{{ \"2025/desserts/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
-			"\t<figcaption class='center' ><em>$2</em></figcaption>",
+			"<img class='portrait' src=\"{{ \"2026/chissay/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"<figcaption class='center' ><em>$2</em></figcaption>",
 			 "</figure>"
 		]
 	},
