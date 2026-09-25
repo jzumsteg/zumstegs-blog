@@ -7,9 +7,9 @@ math: true
 mermaid: true
 layout: post
 thumbnail: 
-summary: We visited that area of France where the Battle of the Somme occurred. It's sobering.
+summary: We visited the area of France where the Battle of the Somme occurred during World War I. To say that it's sobering seriously understates how we felt there.
 ---  
-I call World War I the "forgotten war" in the United States, because we were in it for only about 18 months. Our presence was decisive, not because our soldiers were so much better or braver, but because the two sides - Germany versus France and Britain - had spent four years beating each other to a pulp to the point where they simply could not wage war any more. The United States entered the war in April, 1917, and by Spring 1918 were sending 10,000 troops <I>per day</i> to France. In the final offensive of the war, from April to November of 1918, the fresh American soldiers overpowered the decimated and worn out German forces. It took only six months.
+I call World War I the "forgotten war" in the United States, because the U.S. was in it for only about 18 months. Our presence was decisive, not because our soldiers were so much better or braver, but because the two sides - Germany versus France and Britain - had spent four years beating each other to a pulp to the point where they simply could not wage war any more. The United States entered the war in April, 1917, and by Spring 1918 were sending 10,000 troops <I>per day</i> to France. In the final offensive of the war, from April to November of 1918, the fresh American soldiers overpowered the decimated and worn out German forces. It took only six months.
 
 Here's the reason American troops were so important: in the previous four years, France lost 1,357,800 men, Britain 908,000 and Germany 1,774,000. The western front combatant nations simply had no troops left to fight with. 
 
