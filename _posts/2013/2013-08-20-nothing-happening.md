@@ -2,7 +2,7 @@
 title: Nothing Happening
 author: John Zumsteg
 date: Tue, 20 Aug 2013 15:14:06 +0000
-category: tbd
+category:
 math: true
 mermaid: true
 layout: post

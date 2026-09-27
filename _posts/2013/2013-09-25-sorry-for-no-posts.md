@@ -2,7 +2,7 @@
 title: Sorry for No Posts
 author: John Zumsteg
 date: Wed, 25 Sep 2013 12:19:55 +0000
-category: tbd
+category: 
 math: true
 mermaid: true
 layout: post
