@@ -32,25 +32,33 @@ summary: I realized today that I have a ton of photos with a food and/or drink s
 <h2>Pintxos in Vitoria-Gasteiz</h2>
 For those scratching their head and saying, "Pintxos? What the heck are pintxos," here ya go: pintxos (pronounced "pinchos") are tapas on steroids and are seen only in the Basque region of Spain. They are larger and more complex than tapas. We found a pintxos bar that had around 20 different pintxos and settled in. Often the routine is to visit a pintxos bar, have apintxo or two and a glass of wine, then move on to another place and eventually dinner. We found that three pintxos was dinner. Did it every night we were in Vitoria-Gasteiz, always at the same place. 
 <figure>
-    <img class='landscape' src="{{ "2026/potpurri/IMG_8975.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Favorite pintxo" />
+    <img class='landscape' src="{{ "2026/potpurri/IMG_8975.JPG" | prepend: site.imageurl | prepend: site.baseurl}}" alt="Favorite pintxo" />
     <figcaption class='wide'>One of our two favorite pintxos. This was chicken, pesto and various other seasonings. Dang good.</figcaption>
 </figure>
+
 <figure>
     <img class='landscape' src="{{ "2026/potpurri/IMG_8977.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption class='wide'>Pork adn other stuff on a bun.</figcaption>
+    <figcaption class='wide'>Pork and other stuff on a bun.</figcaption>
 </figure>
 
-Rats, I didn't take a picture of our #1 favorite: artichoke hearts, cheese, thinly-sliced ham and a secret sauce on half a toasted roll. Could have eaten that one all night long.
-
+<figure>
+    <img class='landscape' src="{{ "2026/potpurri/alcachofa.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>Our #1 favorite: artichoke hearts, cheese, thinly-sliced ham and a secret sauce on toasted bread. Could have eaten that one all night long.</figcaption>
+</figure>
+<h2>More Food pix</h2>
 <figure>
     <img class='landscape' src="{{ "2026/potpurri/IMG_9028.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption class='wide'>A smallish cheese plate. "Smallish" in that we usually have two or more cheeses, but this one has three of our very favorites: top=left is a bleu, next to it a Brie de Melun and below them a Tomme aux Fleurs.</figcaption>
+    <figcaption class='wide'>A smallish cheese plate. "Smallish" in that we usually have two or more cheeses, but this one has three of our very favorites: top-left is a bleu, next to it Brie de Melun and below them a Tomme aux Fleurs.</figcaption>
 </figure>
 <figure>
-    <img class='narrow' src="{{ "assets/images/2026/potpurri/IMG_9037.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption class='narrow' style='margin-left: 180px;'><em></em></figcaption>
+    <img class='portrait' src="{{ "2026/potpurri/IMG_9037.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='narrow'><em>I get a slab of this every time we go to the store that has a butcher counter. It's a paté of fig - paté aux figues. Fabulous!</em></figcaption>
 </figure>
 <figure>
     <img class='landscape' src="{{ "2026/potpurri/IMG_9057.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
     <figcaption class='wide'>Fish and chips at a restaurant in St. Mammês.</figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2026/potpurri/IMG_9103.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Peppers at Fraich" />
+    <figcaption class='wide'>I love the colors of these peppers at the store where we purchase all our produce (and cheese, and paté) (and some wine).</figcaption>
 </figure>
