@@ -1,0 +1,68 @@
+---
+title: Back to Vitoria-Gasteiz
+author: JZ
+date: Wed, 30 Sep, 2026
+category: 
+math: true
+mermaid: true
+layout: post
+thumbnail: 2026/vitoria/DSC07305.jpg
+summary: We returned to Vitoria-Gasteiz, the capital of the Basque region in Spain, and a place we fell in love with in 2025. We swore then we'd be back soon, and we lived up to that promise to ourselves this year. Was it as good as we remember? Oh, yeah!
+---  
+In 2025 we spent four nights in Vitoria-Gasteiz, Spain, and ranked it as one of our favorite places anywhere almost immediately. So when we found that we were going to be in southern France and not <i>too</i> far from this city, we took the opportunity to return. Did we like it as much? Better? Lots better? Yes to all.
+
+I won't repeat what I wrote last year&nbsp;&mdash;&nbsp;you can see it at [Vitoria-Gasteiz, 2025]({% post_url 2025/2025-06-02-vitoria%}) &nbsp;&mdash;&nbsp;but I have a few pictures to add. Remember that Vitoria-Gasteiz encourages and supports "street art:" murals and paintings on the walls of the city. We love them.
+<figure>
+    <img class='landscape' src="{{ "2026/vitoria/terrace.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>Last year we had a very nice room in this hotel, and this year I decided to upgrade because I knew that upgraded rooms on the top floor had a terrace overlooking a beautiful park and the city. I did not know that the terrace was huge: about six feet wide and 35 feet long. The room itself? A little odd, but the terrace made up for every quirkiness of the room. (One quirk: Laurie had to unplug the coffee maker and use her curling iron at the small coffee bar, because that was the only place with a plug, a light and a mirror&nbsp;&mdash;&nbsp;nowhere in the bathroom to do that.) </figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2026/vitoria/DSC07259.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>And this is the view from our terrace. One night we sat on the terrace from eight o'clock to eleven, watching the sun go down, the lights of the city come on and about 40 storks fly into one tree. Pretty nice.</figcaption>
+</figure>
+
+<figure>
+    <img class='landscape' src="{{ "2026/vitoria/DSC07284.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>Squash!</figcaption>
+</figure>
+<h2>Now for some Street Art</h2>
+<figure>
+<img class='portrait' src="{{ "2026/vitoria/DSC07278.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+<figcaption class='wide' ><em>One of 19 huge murals in the old town. This is one of our favorites. You can see all of them at the link above. These are part of a program sponsored by the city.</em>These murals are huge, covering entire apartment buildings</figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2026/vitoria/DSC07279.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'></figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2026/vitoria/DSC07305.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>That's the Grinch!
+    </figcaption>
+</figure>
+
+<figure>
+    <img class='landscape' src="{{ "2026/vitoria/DSC07306.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>I've been interested in alphabets and lettering for years, and there were some pretty great examples on walls here.</figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2026/vitoria/DSC07307.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'></figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2026/vitoria/DSC07317.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>This was Laurie's favorite. It's about human rights; this is the office of Centro Ehunate, an organization that advocates for the rights of deaf and hearing-impaired people.</figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2026/vitoria/DSC07319.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'></figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2026/vitoria/DSC07321.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>These are not amateur artists!</figcaption>
+</figure>
+<figure>
+    <img class='landscape' src="{{ "2026/vitoria/DSC07325.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>This was on the wall of a grocery store - even the advertisements are beautiful. </figcaption>
+</figure>
+
+Vitoria-Gasteiz has come to accept that all this street art enhances the life of the city. You just don't see amateurish works, though you may see one you don't care for&nbsp;&mdash;&nbsp;that's the nature of all art. There's still (way too much) graffiti - a "feature" of many cities in Europe and around the world, but here there are excellent works of street art everywhere. We know we didn't see all of them, which means we have to return to this most enjoyable city. Okay by us!

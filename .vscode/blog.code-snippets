@@ -109,7 +109,7 @@
 		"prefix": "pnfigure",
 		"body": [
 			"<figure>",
-			"<img class='portrait' src=\"{{ \"2025/desserts/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"<img class='portrait' src=\"{{ \"$1\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"<figcaption><em>$2</em></figcaption>",
 			 "</figure>"
 		]
@@ -117,10 +117,10 @@
 
 	"portrait-centered": {
 		"scope": "markdown",
-		"prefix": "center-portrait-caption",
+		"prefix": "pcentered",
 		"body": [
 			"<figure>",
-			"<img class='portrait' src=\"{{ \"2026/chissay/$1.jpg\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
+			"<img class='portrait' src=\"{{ \"$1\" | prepend: site.imageurl | prepend: site.baseurl  }}\" alt=\"Image\" />",
 			"<figcaption class='center' ><em>$2</em></figcaption>",
 			 "</figure>"
 		]

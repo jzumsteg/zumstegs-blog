@@ -30,7 +30,7 @@ summary: I realized today that I have a ton of photos with a food and/or drink s
     <figcaption class='wide'>Paella, anyone? Paella is popular in southern France. </figcaption>
 </figure>
 <h2>Pintxos in Vitoria-Gasteiz</h2>
-For those scratching their head and saying, "Pintxos? What the heck are pintxos," here ya go: pintxos (pronounced "pinchos") are tapas on steroids and are seen only in the Basque region of Spain. They are larger and more complex than tapas. We found a pintxos bar that had around 20 different pintxos and settled in. Often the routine is to visit a pintxos bar, have apintxo or two and a glass of wine, then move on to another place and eventually dinner. We found that three pintxos was dinner. Did it every night we were in Vitoria-Gasteiz, always at the same place. 
+For those scratching their head and saying, "Pintxos? What the heck are pintxos," here ya go: pintxos (pronounced "pinchos") are tapas on steroids and are seen only in the Basque region of Spain. They are larger and more complex than tapas. We found a pintxos bar that had around 20 different pintxos and settled in. Often the routine is to visit a pintxos bar, have a pintxo or two and a glass of wine, then move on to another place and eventually dinner. We found that three pintxos was dinner. Did it every night we were in Vitoria-Gasteiz, always at the same place. 
 <figure>
     <img class='landscape' src="{{ "2026/potpurri/IMG_8975.JPG" | prepend: site.imageurl | prepend: site.baseurl}}" alt="Favorite pintxo" />
     <figcaption class='wide'>One of our two favorite pintxos. This was chicken, pesto and various other seasonings. Dang good.</figcaption>
