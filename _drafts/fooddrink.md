@@ -32,8 +32,11 @@ summary: I realized today that I have a ton of photos with a food and/or drink s
 <h2>Pintxos in Vitoria-Gasteiz</h2>
 For those scratching their head and saying, "Pintxos? What the heck are pintxos," here ya go: pintxos (pronounced "pinchos") are tapas on steroids and are seen only in the Basque region of Spain. They are larger and more complex than tapas. We found a pintxos bar that had around 20 different pintxos and settled in. Often the routine is to visit a pintxos bar, have a pintxo or two and a glass of wine, then move on to another place and eventually dinner. We found that three pintxos was dinner. Did it every night we were in Vitoria-Gasteiz, always at the same place. 
 <figure>
+    <img class='landscape' src="{{ "2026/potpurri/alcachofa.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
+    <figcaption class='wide'>Our #1 favorite: artichoke hearts, cheese, thinly-sliced ham and a secret sauce on toasted bread. Could have eaten that one all night long.</figcaption>
+</figure><figure>
     <img class='landscape' src="{{ "2026/potpurri/IMG_8975.JPG" | prepend: site.imageurl | prepend: site.baseurl}}" alt="Favorite pintxo" />
-    <figcaption class='wide'>One of our two favorite pintxos. This was chicken, pesto and various other seasonings. Dang good.</figcaption>
+    <figcaption class='wide'>Number 2 favorite: this was chicken, pesto and various other seasonings. Dang good.</figcaption>
 </figure>
 
 <figure>
@@ -41,10 +44,7 @@ For those scratching their head and saying, "Pintxos? What the heck are pintxos,
     <figcaption class='wide'>Pork and other stuff on a bun.</figcaption>
 </figure>
 
-<figure>
-    <img class='landscape' src="{{ "2026/potpurri/alcachofa.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption class='wide'>Our #1 favorite: artichoke hearts, cheese, thinly-sliced ham and a secret sauce on toasted bread. Could have eaten that one all night long.</figcaption>
-</figure>
+
 <h2>More Food pix</h2>
 <figure>
     <img class='landscape' src="{{ "2026/potpurri/IMG_9028.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
