@@ -48,7 +48,7 @@ For those scratching their head and saying, "Pintxos? What the heck are pintxos,
 <h2>More Food pix</h2>
 <figure>
     <img class='landscape' src="{{ "2026/foodanddrink/IMG_9028.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption class='wide'>A smallish cheese plate. "Smallish" in that we usually have four or five or six cheese for the cheese course, but this one has three of our very favorites: top-left is a bleu, next to it Brie de Melun and below them a Tomme aux Fleurs.</figcaption>
+    <figcaption class='wide'>A smallish cheese plate. "Smallish" in that we usually have four or five or six cheeses for the cheese course, but this one has three of our very favorites: top-left is a bleu, next to it Brie de Melun and below them a Tomme aux Fleurs.</figcaption>
 </figure>
 <figure>
     <img class='portrait' src="{{ "2026/foodanddrink/IMG_9037.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
