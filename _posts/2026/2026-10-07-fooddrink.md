@@ -56,7 +56,7 @@ For those scratching their head and saying, "Pintxos? What the heck are pintxos,
 </figure>
 <figure>
     <img class='landscape' src="{{ "2026/foodanddrink/IMG_9057.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption class='wide'>Fish and chips at a restaurant in St. Mammês. Sitting outdoors on a warm day, watching boats go by on the Seine...pretty nice.</figcaption>
+    <figcaption class='wide'>Fish and chips at a restaurant in St. Mammês. Dang good fish and dang good chips, sitting outdoors on a warm day, watching boats go by on the Seine...pretty nice.</figcaption>
 </figure>
 
 <figure>
