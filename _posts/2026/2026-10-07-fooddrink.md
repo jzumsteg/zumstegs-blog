@@ -15,7 +15,7 @@ summary: I realized today that I have a ton of photos with a food and/or drink s
 </figure>
 <figure>
     <img class='landscape' src="{{ "2026/foodanddrink/IMG_8937.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption class='wide'>Laurie enjoying life in France. This in on the terrace at our hotel in Figeac.</figcaption>
+    <figcaption class='wide'>Laurie enjoying life in France. This is on the terrace at our hotel in Figeac.</figcaption>
 </figure>
 <figure>
     <img class='landscape' src="{{ "2026/foodanddrink/IMG_8950.JPG" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Figeac Sunday market" />
@@ -66,5 +66,5 @@ For those scratching their head and saying, "Pintxos? What the heck are pintxos,
 
 <figure>
     <img class='landscape' src="{{ "2026/foodanddrink/DSC070302.jpg" | prepend: site.imageurl | prepend: site.baseurl  }}" alt="Image" />
-    <figcaption class='wide'>Sometimes, pizza just sounds so good and right for a meal. And why bother going to a Italian restaurant, when you can stop at Pizzassimo and have a piping hot (well, tepid, maybe) pizza in three minutes? If you buy ten pizzas (and survive eating them) you get one free! Notice that the slot that ejects your pizza looks like the front of a wood-fired pizza oven&mdash;classy! Really, the very epitome of a fine French meal.</figcaption>
+    <figcaption class='wide'>Sometimes, pizza just sounds so good and right for a meal. And why bother going to a Italian restaurant, when you can stop at Pizzassino and have a piping hot (well, tepid, maybe) pizza in three minutes? If you buy ten pizzas (and survive eating them) you get one free! Notice that the slot that ejects your pizza looks like the front of a wood-fired pizza oven&mdash;classy! Really, the very epitome of a fine French meal.</figcaption>
 </figure>
